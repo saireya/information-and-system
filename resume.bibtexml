@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="umesao1"><article>
+	<author>梅棹 忠夫</author>
+	<title>情報産業論</title>
+	<journal>中央公論</journal>
+	<publisher>中央公論社</publisher>
+	<year>1963</year>
+	<volume>78</volume>
+	<number>3</number>
+	<month>mar</month>
+</article></entry>
+
+<entry id="umesao2"><incollection>
+	<author>梅棹 忠夫</author>
+	<title>情報社会論</title>
+	<booktitle>中日新聞</booktitle>
+	<year>1972</year>
+	<month>aug</month>
+</incollection></entry>
+
+<entry id="ono1"><article>
+	<author>小野 厚夫</author>
+	<title>情報という言葉を尋ねて(1)</title>
+	<journal>情報処理</journal>
+	<year>2005</year>
+	<volume>46</volume>
+	<number>4</number>
+	<pages>347-351</pages>
+	<month>apr</month>
+	<url>http://id.nii.ac.jp/1001/00065304</url>
+</article></entry>
+
+<entry id="ono2"><article>
+	<author>小野 厚夫</author>
+	<title>情報という言葉を尋ねて(2)</title>
+	<journal>情報処理</journal>
+	<year>2005</year>
+	<volume>46</volume>
+	<number>5</number>
+	<pages>475-479</pages>
+	<month>may</month>
+	<url>http://id.nii.ac.jp/1001/00065331</url>
+</article></entry>
+
+<entry id="ono3"><article>
+	<author>小野 厚夫</author>
+	<title>情報という言葉を尋ねて(3)</title>
+	<journal>情報処理</journal>
+	<year>2005</year>
+	<volume>46</volume>
+	<number>6</number>
+	<pages>612-616</pages>
+	<month>jun</month>
+	<url>http://id.nii.ac.jp/1001/00065360</url>
+</article></entry>
+
+<entry id="etymology"><misc>
+	<author>Douglas Harper</author>
+	<title>inform - Online Etymology Dictionary</title>
+	<url>http://www.etymonline.com/?term=inform</url>
+</misc></entry>
+
+<entry id="nishigaki1"><book>
+	<author>西垣 通</author>
+	<title>基礎情報学――生命から社会へ</title>
+	<publisher>NTT出版</publisher>
+	<year>2004</year>
+	<pages>26-30, 125-126, 168-176</pages>
+	<isbn>4757101201</isbn>
+</book></entry>
+
+<entry id="nishigaki2"><book>
+	<author>西垣 通</author>
+	<title>生命と機械をつなぐ知 基礎情報学入門</title>
+	<publisher>高陵社書店</publisher>
+	<year>2012</year>
+	<isbn>4771109958</isbn>
+</book></entry>
+
+<entry id="saussure"><book>
+	<author>町田 健</author>
+	<title>ソシュールと言語学 コトバはなぜ通じるのか</title>
+	<publisher>講談社</publisher>
+	<year>2004</year>
+	<isbn>4061497634</isbn>
+</book></entry>
+
+<entry id="luhmann"><article>
+	<author>Niklas Luhmann</author>
+	<title>What is Communication?</title>
+	<journal>Communication Theory</journal>
+	<publisher>Blackwell Publishing Ltd</publisher>
+	<volume>2</volume>
+	<number>3</number>
+	<pages>251-259</pages>
+	<year>1992</year>
+	<doi>10.1111/j.1468-2885.1992.tb00042.x</doi>
+</article></entry>
+
+<entry id="borch"><book>
+	<author>Christian Borch</author>
+	<title>ニクラス・ルーマン入門――社会システム理論とは何か</title>
+	<publisher>新泉社</publisher>
+	<pages>78-82, 153-155, 165-175, 229-244</pages>
+	<year>2014</year>
+	<isbn>4787714066</isbn>
+</book></entry>
+
+<entry id="chen"><incollection>
+	<author>Dominique Chen</author>
+	<title>基礎情報学の情報システムデザインへの応用に向けた試論</title>
+	<booktitle>基礎情報学のヴァイアビリティ: ネオ・サイバネティクスによる開放系と閉鎖系の架橋</booktitle>
+	<publisher>東京大学出版会</publisher>
+	<pages>9-38</pages>
+	<year>2015</year>
+	<isbn>4130501844</isbn>
+</incollection></entry>
+
+<entry id="usui"><article>
+	<author>碓井 菘</author>
+	<title>パーソンズ・ルーマン・ハバーマスの象徴的メディア論註解 : 社会システムにおける集権化と分権化(その4)</title>
+	<journal>金沢大学文学部論集. 行動科学・哲学篇</journal>
+	<publisher>金沢大学</publisher>
+	<volume>21</volume>
+	<month>mar</month>
+	<pages>27-43</pages>
+	<year>2001</year>
+	<url>http://ci.nii.ac.jp/naid/110000032320</url>
+</article></entry>
+
+<entry id="iris1"><misc>
+	<author>H. Zell</author>
+	<title>File:Acorus calamus 002.JPG</title>
+	<url>https://commons.wikimedia.org/wiki/File:Acorus_calamus_002.JPG</url>
+</misc></entry>
+
+<entry id="iris2"><misc>
+	<author>Wae35244</author>
+	<title>File:Iris sanguinea in Jun 2003.jpg</title>
+	<url>https://commons.wikimedia.org/wiki/File:Iris_sanguinea_in_Jun_2003.jpg</url>
+</misc></entry>
+
+<entry id="nakahashi"><book>
+	<author>中橋 雄</author>
+	<title>メディア・リテラシー論</title>
+	<publisher>北樹出版</publisher>
+	<pages>20</pages>
+	<year>2014</year>
+	<isbn>4779304113</isbn>
+</book></entry>
+
+</file>
