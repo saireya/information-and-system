@@ -157,4 +157,10 @@
 	<isbn>4779304113</isbn>
 </book></entry>
 
+<entry id="descartes"><book>
+	<author>René Descartes</author>
+	<title>方法序説</title>
+	<year>1637</year>
+</book></entry>
+
 </file>
