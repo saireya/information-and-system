@@ -151,6 +151,14 @@
 	<isbn>4779304113</isbn>
 </book></entry>
 
+<entry id="bertalanffy"><book>
+	<author>Ludwig von Bertalanffy</author>
+	<title>一般システム理論――その基礎・発展・応用</title>
+	<publisher>みすず書房</publisher>
+	<year>1973</year>
+	<isbn>4622025221</isbn>
+</book></entry>
+
 <entry id="descartes"><book>
 	<author>René Descartes</author>
 	<title>方法序説</title>
