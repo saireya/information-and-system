@@ -99,11 +99,23 @@
 	<doi>10.1111/j.1468-2885.1992.tb00042.x</doi>
 </article></entry>
 
+<entry id="luhmann-interfere"><article>
+	<author>
+		<person>Niklas Luhmann</person>
+		<person>Karl-Eberhard Schorr</person>
+	</author>
+	<title>Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft (教育が可能であるとはどういうことか?――教育科学の社会科学的分析 (下地ら訳))</title>
+	<journal>東京大学教育学部教育哲学・教育史研究室紀要</journal>
+	<publisher>東京大学</publisher>
+	<volume>18</volume>
+	<year>1992</year>
+</article></entry>
+
 <entry id="borch"><book>
 	<author>Christian Borch</author>
 	<title>ニクラス・ルーマン入門――社会システム理論とは何か</title>
 	<publisher>新泉社</publisher>
-	<pages>78-82, 153-155, 165-175, 229-244</pages>
+	<pages>74-75, 78-82, 153-155, 165-175, 229-244</pages>
 	<year>2014</year>
 	<isbn>4787714066</isbn>
 </book></entry>
@@ -136,12 +148,6 @@
 	<url>https://commons.wikimedia.org/wiki/File:Acorus_calamus_002.JPG</url>
 </misc></entry>
 
-<entry id="iris2"><misc>
-	<author>Wae35244</author>
-	<title>File:Iris sanguinea in Jun 2003.jpg</title>
-	<url>https://commons.wikimedia.org/wiki/File:Iris_sanguinea_in_Jun_2003.jpg</url>
-</misc></entry>
-
 <entry id="iris4"><misc>
 	<author>KENPEI</author>
 	<title>File:Iris ensata cv kumoinogan.jpg</title>
@@ -155,6 +161,42 @@
 	<pages>20</pages>
 	<year>2014</year>
 	<isbn>4779304113</isbn>
+</book></entry>
+
+<entry id="bertalanffy"><book>
+	<author>Ludwig von Bertalanffy</author>
+	<title>一般システム理論――その基礎・発展・応用</title>
+	<publisher>みすず書房</publisher>
+	<pages>34-36, 50-51, 211-212, 217</pages>
+	<year>1973</year>
+	<isbn>4622025221</isbn>
+</book></entry>
+
+<entry id="kawamoto"><book>
+	<author>河本 英夫</author>
+	<title>オートポイエーシス――第三世代システム</title>
+	<publisher>青土社</publisher>
+	<pages>158, 176-177, 230-231, 238</pages>
+	<year>1995</year>
+	<isbn>4791753879</isbn>
+</book></entry>
+
+<entry id="descartes"><book>
+	<author>René Descartes</author>
+	<title>方法序説</title>
+	<year>1637</year>
+</book></entry>
+
+<entry id="kuwata"><book>
+	<author>
+		<person>桑田 耕太郎</person>
+		<person>田尾 雅夫</person>
+	</author>
+	<title>組織論 補訂版</title>
+	<publisher>有斐閣</publisher>
+	<pages>30-31</pages>
+	<year>2010</year>
+	<isbn>4641124124</isbn>
 </book></entry>
 
 </file>
