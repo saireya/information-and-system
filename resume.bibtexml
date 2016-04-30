@@ -174,4 +174,16 @@
 	<year>1637</year>
 </book></entry>
 
+<entry id="kuwata"><book>
+	<author>
+		<person>桑田 耕太郎</person>
+		<person>田尾 雅夫</person>
+	</author>
+	<title>組織論 補訂版</title>
+	<publisher>有斐閣</publisher>
+	<pages>30-31</pages>
+	<year>2010</year>
+	<isbn>4641124124</isbn>
+</book></entry>
+
 </file>
