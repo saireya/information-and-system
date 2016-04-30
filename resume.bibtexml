@@ -159,6 +159,15 @@
 	<isbn>4622025221</isbn>
 </book></entry>
 
+<entry id="kawamoto"><book>
+	<author>河本 英夫</author>
+	<title>オートポイエーシス――第三世代システム</title>
+	<publisher>青土社</publisher>
+	<pages>158, 176-177, 230-231, 238</pages>
+	<year>1995</year>
+	<isbn>4791753879</isbn>
+</book></entry>
+
 <entry id="descartes"><book>
 	<author>René Descartes</author>
 	<title>方法序説</title>
