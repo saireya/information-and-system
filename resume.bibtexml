@@ -199,4 +199,16 @@
 	<isbn>4641124124</isbn>
 </book></entry>
 
+<entry id="young"><book>
+	<author>James W. Young</author>
+	<title>A Technique for Producing Ideas</title>
+	<year>1940</year>
+</book></entry>
+
+<entry id="young-j"><book>
+	<author>James W. Young</author>
+	<title>アイデアのつくり方</title>
+	<year>1960</year>
+</book></entry>
+
 </file>
