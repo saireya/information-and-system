@@ -211,4 +211,22 @@
 	<year>1960</year>
 </book></entry>
 
+<entry id="law-ip"><misc>
+	<title>知的財産基本法</title>
+	<year>2002</year>
+	<url>http://law.e-gov.go.jp/htmldata/H14/H14HO122.html</url>
+</misc></entry>
+
+<entry id="law-patent"><misc>
+	<title>特許法</title>
+	<year>1959</year>
+	<url>http://law.e-gov.go.jp/htmldata/S34/S34HO121.html</url>
+</misc></entry>
+
+<entry id="law-copyright"><misc>
+	<title>著作権法</title>
+	<year>1970</year>
+	<url>http://law.e-gov.go.jp/htmldata/S45/S45HO048.html</url>
+</misc></entry>
+
 </file>
