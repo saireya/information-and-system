@@ -238,6 +238,18 @@
 	<url>http://law.e-gov.go.jp/htmldata/S45/S45HO048.html</url>
 </misc></entry>
 
+<entry id="user-male"><misc>
+	<author>acspike</author>
+	<title>Clipart - male user icon</title>
+	<url>https://openclipart.org/detail/4749</url>
+</misc></entry>
+
+<entry id="user-female"><misc>
+	<author>dagobert83</author>
+	<title>Clipart - female user icon</title>
+	<url>https://openclipart.org/detail/1646</url>
+</misc></entry>
+
 <entry id="oxygen"><misc>
 	<author>KDE</author>
 	<title>Oxygen Icons</title>
