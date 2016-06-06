@@ -199,6 +199,15 @@
 	<isbn>4641124124</isbn>
 </book></entry>
 
+<entry id="barnard"><book>
+	<author>Chester I. Barnard</author>
+	<title>新訳 経営者の役割</title>
+	<publisher>ダイヤモンド社</publisher>
+	<pages>75</pages>
+	<year>1968</year>
+	<isbn>4478320020</isbn>
+</book></entry>
+
 <entry id="young"><book>
 	<author>James W. Young</author>
 	<title>A Technique for Producing Ideas</title>
