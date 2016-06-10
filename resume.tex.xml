@@ -77,7 +77,7 @@
 <multicols flex="1">
 <img src="iris1.jpg" title="ショウブ" n="fig:iris1" scale=".25" multicols="1"/>
 <img src="iris2.jpg" title="アヤメ" n="fig:iris2" scale=".25" multicols="1"/>
-<img src="iris4.jpg" title="ハナショウブ" n="fig:iris4" scale=".15" multicols="1"/>
+<img src="iris4.jpg" title="ハナショウブ" n="fig:iris4" scale=".25" multicols="1"/>
 </multicols>
 <!-- TODO: e.g. 岡本太郎,色覚 -->
 <p>つまり、<em>ある情報が何を想起させるか、つまりその情報の意味は、それを受け取る人ごとに異なっており、絶対的・客観的に決まるわけではない</em>。
