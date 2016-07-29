@@ -179,6 +179,7 @@
 	<author>René Descartes</author>
 	<title>方法序説</title>
 	<year>1637</year>
+	<isbn>4003361318</isbn>
 </book></entry>
 
 <entry id="kuwata"><book>
@@ -206,12 +207,14 @@
 	<author>James W. Young</author>
 	<title>A Technique for Producing Ideas</title>
 	<year>1940</year>
+	<isbn>0071410945</isbn>
 </book></entry>
 
 <entry id="young-j"><book>
 	<author>James W. Young</author>
 	<title>アイデアのつくり方</title>
 	<year>1960</year>
+	<isbn>4484881047</isbn>
 </book></entry>
 
 <entry id="law-ip"><misc>
