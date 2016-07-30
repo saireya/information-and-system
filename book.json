@@ -1,4 +1,4 @@
 {
-	"plugins": ["image-captions"],
+	"plugins": ["image-captions", "include"],
 	"pdf": { "fontFamily": "IPAGothic" }
 }
