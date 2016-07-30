@@ -1,6 +1,6 @@
-[umesao1]: "https://scholar.google.co.jp/scholar?q=梅棹 忠夫,情報産業論" "梅棹 忠夫『情報産業論』in 中央公論 vol. 78 no. 3(1963/mar)(中央公論社)"
+[umesao1]: "https://scholar.google.co.jp/scholar?q=梅棹 忠夫,情報産業論" "梅棹 忠夫『情報産業論』in 中央公論 vol. 78 no. 3(1963/mar)(中央公論社)"
 
-[umesao2]: "https://scholar.google.co.jp/scholar?q=梅棹 忠夫,情報社会論" "梅棹 忠夫『情報社会論』in 中日新聞(1972/aug)"
+[umesao2]: "https://scholar.google.co.jp/scholar?q=梅棹 忠夫,情報社会論" "梅棹 忠夫『情報社会論』in 中日新聞(1972/aug)"
 
 [ono1]: "http://id.nii.ac.jp/1001/00065304" "小野 厚夫『情報という言葉を尋ねて(1)』(pp. 347-351)in 情報処理 vol. 46 no. 4(2005/apr)"
 
@@ -18,7 +18,7 @@
 
 [luhmann]: "http://dx.doi.org/10.1111/j.1468-2885.1992.tb00042.x" "Niklas Luhmann『What is Communication?』(pp. 251-259)in Communication Theory vol. 2 no. 3(1992)(Blackwell Publishing Ltd)"
 
-[luhmann-interfere]: "https://scholar.google.co.jp/scholar?q=Niklas Luhmann, Karl-Eberhard Schorr, ,Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft (教育が可能であるとはどういうことか?――教育科学の社会科学的分析 (下地ら訳))" "Niklas Luhmann, Karl-Eberhard Schorr, 『Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft (教育が可能であるとはどういうことか?――教育科学の社会科学的分析 (下地ら訳))』in 東京大学教育学部教育哲学・教育史研究室紀要 vol. 18(1992)(東京大学)"
+[luhmann-interfere]: "https://scholar.google.co.jp/scholar?q=Niklas LuhmannKarl-Eberhard Schorr,Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft 教育が可能であるとはどういうことか?――教育科学の社会科学的分析 下地ら訳" "Niklas Luhmann, Karl-Eberhard Schorr, 『Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft (教育が可能であるとはどういうことか?――教育科学の社会科学的分析 (下地ら訳))』in 東京大学教育学部教育哲学・教育史研究室紀要 vol. 18(1992)(東京大学)"
 
 [borch]: "http://amazon.jp/dp/4787714066" "Christian Borch『ニクラス・ルーマン入門――社会システム理論とは何か』(pp. 74-75, 78-82, 153-155, 165-175, 229-244)(2014)(新泉社)"
 
