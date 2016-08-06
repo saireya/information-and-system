@@ -1,4 +1,4 @@
 {
-	"plugins": ["callouts", "image-captions", "include"],
+	"plugins": ["callouts", "image-captions", "include", "-highlight"],
 	"pdf": { "fontFamily": "IPAGothic" }
 }
