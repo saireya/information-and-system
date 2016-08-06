@@ -1,0 +1,29 @@
+body
+{
+	/* for speed-up */
+	text-rendering:auto;
+	font-smoothing:none;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:14px;
+	letter-spacing:.2px;
+	text-size-adjust:100%;
+}
+
+/* indenting first line */
+p
+{
+	text-indent: 1em;
+}
+
+/* emphasizing */
+em
+{
+	color: navy;
+	background-color: #efefff;
+}
+
+strong
+{
+	color: crimson;
+	background-color: #ffefef;
+}
