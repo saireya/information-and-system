@@ -217,6 +217,12 @@
 	<isbn>4484881047</isbn>
 </book></entry>
 
+<entry id="law-pi"><misc>
+	<title>個人情報保護法</title>
+	<year>2003</year>
+	<url>http://law.e-gov.go.jp/htmldata/H15/H15HO057.html</url>
+</misc></entry>
+
 <entry id="law-ip"><misc>
 	<title>知的財産基本法</title>
 	<year>2002</year>
