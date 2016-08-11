@@ -44,6 +44,8 @@
 
 [young-j]: http://amazon.jp/dp/4484881047 "James W. Young『アイデアのつくり方』(1960)"
 
+[law-pi]: http://law.e-gov.go.jp/htmldata/H15/H15HO057.html "『個人情報保護法』(2003)"
+
 [law-ip]: http://law.e-gov.go.jp/htmldata/H14/H14HO122.html "『知的財産基本法』(2002)"
 
 [law-patent]: http://law.e-gov.go.jp/htmldata/S34/S34HO121.html "『特許法』(1959)"
