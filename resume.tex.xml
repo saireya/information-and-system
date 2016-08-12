@@ -210,7 +210,14 @@ Cさんは漢字を読めないので、字面以上の何も思い浮かべる�
 <img src="iris2.svg" title="Bさんにとっての「菖蒲」" n="fig:irisb" scale=".25" multicols="1"/>
 <img src="iris3.svg" title="Cさんにとっての「菖蒲」" n="fig:irisc" scale=".25" multicols="1"/>
 </multicols>
-<!-- TODO: e.g. bit -->
+
+<aside h="機械情報の「量」" class="info">
+<p>意味が潜在化した機械情報は、意味の大きさ(価値)を考慮する必要が無いため、記号・言語の数で「量」を測ることが可能となる。
+Shannonは、0と1で表せる2進数で1桁の数を<alert>bit</alert>という単位で定義した。
+更に、$8 \text{bit} = 1 \text{byte}$として<alert>byte</alert>を定義した。</p>
+<p>なお2進数については、$2^{10} = 1,024$を区切りとして、次のようにより大きい単位が定義されている。</p>
+<p>1 KB = 1,024 bytes, 1 MB = 1,024 KB, 1 GB = 1,024 MB, 1 TB = 1,024 GB</p>
+</aside>
 </s>
 </s>
 
