@@ -126,9 +126,13 @@
 これらをまとめて記号・言語と総称したとき、<em>記号・言語と意味が一体化した生命情報</em>を<alert>社会情報</alert>という。</p>
 <p>もし社会情報が存在しなければ、人間は言語を使うことができず、絵や声、身振りなどで情報を伝えることもできないため、人間は社会を維持できなくなる。
 <em>社会情報の存在により、人間は互いにコミュニケーションできる</em>ようになり、社会を維持していくことが可能となる。</p>
-<p>なお言語学者<ruby r="ソシュール">Saussure</ruby>は、社会情報にあたるものを「記号」と呼んだ。
-Saussureは、「記号」は、その意味を表す部分である<ruby r="シニフィエ">signifié</ruby>(所記)と、その表象を表す部分である<ruby r="シニフィアン">signifiant</ruby>(能記)からなり、これらは本質的に異なるという恣意性を主張した<cite id="saussure"/>。
-本稿の「記号・言語」は、Saussureのいうsignifiantと対応する。</p>
+
+<aside h="signifiéとsignifiant" class="info">
+<p>言語学者<ruby r="ソシュール">Saussure</ruby>は、本稿の社会情報にあたるものを単に「記号」と呼んだ。
+Saussureは、「記号」は、その意味を表す部分である<ruby r="シニフィエ"><em>signifié</em></ruby>(所記)と、その表象を表す部分である<ruby r="シニフィアン"><em>signifiant</em></ruby>(能記)からなり、これらは本質的に異なるという恣意性を主張した<cite id="saussure"/>。
+本稿の「意味」はSaussureのいうsignifiéに、「記号・言語」はsignifiantに、それぞれ対応する。</p>
+</aside>
+
 <!-- TODO: e.g. ピクトグラム,言語 -->
 </s>
 
