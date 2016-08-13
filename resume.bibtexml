@@ -172,6 +172,17 @@
 	<isbn>4622025221</isbn>
 </book></entry>
 
+<entry id="simon"><book>
+	<author>
+		<person>James G. March</person>
+		<person>Herbert A. Simon</person>
+	</author>
+	<title>オーガニゼーションズ 第2版――現代組織論の原典</title>
+	<publisher>ダイヤモンド社</publisher>
+	<year>2014</year>
+	<isbn>4478021767</isbn>
+</book></entry>
+
 <entry id="kawamoto"><book>
 	<author>河本 英夫</author>
 	<title>オートポイエーシス――第三世代システム</title>

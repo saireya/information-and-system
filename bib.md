@@ -34,6 +34,8 @@
 
 [bertalanffy]: http://amazon.jp/dp/4622025221 "Ludwig von Bertalanffy『一般システム理論――その基礎・発展・応用』(pp. 34-36, 50-51, 211-212, 217)(1973)(みすず書房)"
 
+[simon]: http://amazon.jp/dp/4478021767 "James G. March, Herbert A. Simon, 『オーガニゼーションズ 第2版――現代組織論の原典』(2014)(ダイヤモンド社)"
+
 [kawamoto]: http://amazon.jp/dp/4791753879 "河本 英夫『オートポイエーシス――第三世代システム』(pp. 158, 176-177, 230-231, 238)(1995)(青土社)"
 
 [descartes]: http://amazon.jp/dp/4003361318 "René Descartes『方法序説』(1637)"
