@@ -148,6 +148,12 @@
 	<url>https://commons.wikimedia.org/wiki/File:Acorus_calamus_002.JPG</url>
 </misc></entry>
 
+<entry id="ietf"><misc>
+	<author>IETF</author>
+	<title>RFC 793 - Transmission Control Protocol</title>
+	<url>https://tools.ietf.org/html/rfc793</url>
+</misc></entry>
+
 <entry id="nakahashi"><book>
 	<author>中橋 雄</author>
 	<title>メディア・リテラシー論</title>

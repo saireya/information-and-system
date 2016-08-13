@@ -28,6 +28,8 @@
 
 [iris1]: https://commons.wikimedia.org/wiki/File:Acorus_calamus_002.JPG "H. Zell『File:Acorus calamus 002.JPG』"
 
+[ietf]: https://tools.ietf.org/html/rfc793 "IETF『RFC 793 - Transmission Control Protocol』"
+
 [nakahashi]: http://amazon.jp/dp/4779304113 "中橋 雄『メディア・リテラシー論』(pp. 20)(2014)(北樹出版)"
 
 [bertalanffy]: http://amazon.jp/dp/4622025221 "Ludwig von Bertalanffy『一般システム理論――その基礎・発展・応用』(pp. 34-36, 50-51, 211-212, 217)(1973)(みすず書房)"
