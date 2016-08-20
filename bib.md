@@ -40,6 +40,10 @@
 
 [descartes]: http://amazon.jp/dp/4003361318 "René Descartes『方法序説』(1637)"
 
+[deutscher]: http://amazon.jp/dp/4772695338 "Guy Deutscher『言語が違えば、世界も違って見えるわけ』(2012)(インターシフト)"
+
+[imai]: http://amazon.jp/dp/4004312787 "今井 むつみ『ことばと思考』(2010)(岩波書店)"
+
 [kuwata]: http://amazon.jp/dp/4641124124 "桑田 耕太郎, 田尾 雅夫, 『組織論 補訂版』(pp. 30-31)(2010)(有斐閣)"
 
 [barnard]: http://amazon.jp/dp/4478320020 "Chester I. Barnard『新訳 経営者の役割』(pp. 75)(1968)(ダイヤモンド社)"
