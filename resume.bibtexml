@@ -224,6 +224,23 @@
 	<isbn>4004312787</isbn>
 </book></entry>
 
+<entry id="sapir"><inbook>
+	<author>Edward Sapir</author>
+	<title>The Status of Linguistics as a Science</title>
+	<booktitle>Language</booktitle>
+	<year>1949</year>
+	<doi>10.2307/409588</doi>
+	<isbn>0520011155</isbn>
+</inbook></entry>
+
+<entry id="whorf"><article>
+	<author>Benjamin Lee Whorf</author>
+	<title>Science and Linguistics</title>
+	<journal>MIT Technology Review</journal>
+	<volume>42</volume>
+	<year>1940</year>
+</article></entry>
+
 <entry id="kuwata"><book>
 	<author>
 		<person>桑田 耕太郎</person>
