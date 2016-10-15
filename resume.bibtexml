@@ -224,14 +224,18 @@
 	<isbn>4004312787</isbn>
 </book></entry>
 
-<entry id="sapir"><inbook>
+<entry id="sapir"><article>
 	<author>Edward Sapir</author>
 	<title>The Status of Linguistics as a Science</title>
-	<booktitle>Language</booktitle>
-	<year>1949</year>
+	<journal>Language</journal>
+	<year>1929</year>
+	<volume>5</volume>
+	<number>4</number>
+	<pages>207-214</pages>
+	<publisher>Linguistic Society of America</publisher>
 	<doi>10.2307/409588</doi>
 	<isbn>0520011155</isbn>
-</inbook></entry>
+</article></entry>
 
 <entry id="whorf"><article>
 	<author>Benjamin Lee Whorf</author>
