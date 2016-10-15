@@ -80,6 +80,15 @@
 </book></entry>
 
 <entry id="saussure"><book>
+	<author>Ferdinand de Saussure</author>
+	<title>新訳 ソシュール 一般言語学講義</title>
+	<publisher>研究社</publisher>
+	<year>2016</year>
+	<isbn>4327378224</isbn>
+	<pages>100-104</pages>
+</book></entry>
+
+<entry id="machida"><book>
 	<author>町田 健</author>
 	<title>ソシュールと言語学 コトバはなぜ通じるのか</title>
 	<publisher>講談社</publisher>
