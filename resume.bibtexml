@@ -229,6 +229,14 @@
 	<isbn>4478021767</isbn>
 </book></entry>
 
+<entry id="simon2"><book>
+	<author>Herbert A. Simon</author>
+	<title>システムの科学</title>
+	<publisher>パーソナルメディア</publisher>
+	<year>1999</year>
+	<isbn>489362167X</isbn>
+</book></entry>
+
 <entry id="kawamoto"><book>
 	<author>河本 英夫</author>
 	<title>オートポイエーシス――第三世代システム</title>
