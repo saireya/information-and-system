@@ -167,6 +167,7 @@ Saussureは、「記号」は、その意味を表す部分である<ruby r="シ
 <p><em>社会情報の意味を強制的に潜在化させて機械情報とする変換</em>を<alert>暗号化(encrypt)</alert>といい、暗号化してできた機械情報を<alert>暗号(cipher)</alert>または<alert>暗号文</alert>という。
 また、<em>暗号文を平文に戻す変換</em>を<alert>復号(decrypt)</alert>という。
 暗号化や復号の際は、変換に用いるパスワードなどの<alert>鍵(key)</alert>が必要であり、暗号化と復号で<em>同じ鍵</em>を用いる暗号は<alert>共通鍵暗号</alert>、<em>異なる鍵</em>を用いる暗号は<alert>公開鍵暗号</alert>と呼ばれる。
+共通鍵暗号の仕組みを図<r n="fig:cipher"/>に示す。
 <img src="cipher-common.svg" scale=".5" title="共通鍵暗号の仕組み" n="fig:cipher" multicols="1"/></p>
 </aside>
 </s>
