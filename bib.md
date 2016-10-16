@@ -64,6 +64,12 @@
 
 [young-j]: http://amazon.jp/dp/4484881047 "James W. Young『アイデアのつくり方』(1960)"
 
+[wilson]: http://amazon.jp/dp/4320027523 "Brian Wilson『システム仕様の分析学――ソフトシステム方法論』(1996)(共立出版)"
+
+[kodama]: http://amazon.jp/dp/4822283585 "児玉 公信『UMLモデリング入門』(2008)(日経BP社)"
+
+[uml]: http://www.uml.org "Object Management Group『UML Web Site』"
+
 [law-pi]: http://law.e-gov.go.jp/htmldata/H15/H15HO057.html "『個人情報保護法』(2003)"
 
 [law-ip]: http://law.e-gov.go.jp/htmldata/H14/H14HO122.html "『知的財産基本法』(2002)"

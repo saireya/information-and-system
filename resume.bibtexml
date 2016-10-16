@@ -308,6 +308,28 @@
 	<isbn>4484881047</isbn>
 </book></entry>
 
+<entry id="wilson"><book>
+	<author>Brian Wilson</author>
+	<title>システム仕様の分析学――ソフトシステム方法論</title>
+	<publisher>共立出版</publisher>
+	<year>1996</year>
+	<isbn>4320027523</isbn>
+</book></entry>
+
+<entry id="kodama"><book>
+	<author>児玉 公信</author>
+	<title>UMLモデリング入門</title>
+	<publisher>日経BP社</publisher>
+	<year>2008</year>
+	<isbn>4822283585</isbn>
+</book></entry>
+
+<entry id="uml"><book>
+	<author>Object Management Group</author>
+	<title>UML Web Site</title>
+	<url>http://www.uml.org</url>
+</book></entry>
+
 <entry id="law-pi"><misc>
 	<title>個人情報保護法</title>
 	<year>2003</year>
