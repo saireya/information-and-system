@@ -716,13 +716,13 @@ Simon<cite id="simon2"/>によれば、<alert>問題</alert>(problem)は、<em>�
 但し、常にこの順番で進むわけではなく、各段階において、前段階で行う内容が不十分だと分かった場合には、必要に応じて1つ以上前の段階に戻ることがある。</p>
 <ol>
 	<li><alert>問題定義</alert>(problem definition):
-		対象とする問題の<em>理想的な状態</em>(<alert>目標</alert>(goal)ともいう)と<em>現在の状態</em>を明確かつ簡潔に示す</li>
+		対象とする問題の<em>理想的な状態</em>(<alert>目標</alert>(goal)ともいう)と<em>現在の状態</em>を明確かつ簡潔に示す。</li>
 	<li><alert>現状の調査</alert>(investigation):
-		問題が現在どのような状態になっているかを、具体的に<em>調査</em>する</li>
+		問題が現在どのような状態になっているかを、具体的に<em>調査</em>する。</li>
 	<li><alert>構造分析</alert>(analysis):
-		問題における諸要素の関連性(<em>構造</em>)を<alert>モデル</alert>(model)として明示し、理想的な状態と現在の状態に差がある<em>原因</em>を明らかにする</li>
+		問題における諸要素の関連性(<em>構造</em>)を<alert>モデル</alert>(model)として明示し、理想的な状態と現在の状態に差がある<em>原因</em>を明らかにする。</li>
 	<li><alert>解決策の提案</alert>(proposal):
-		明らかになった問題の原因を取り除く<em>アイデア</em>を<em>提案</em>する</li>
+		明らかになった問題の原因を取り除く<em>アイデア</em>を<em>提案</em>する。</li>
 </ol>
 <p></p>
 </s>
