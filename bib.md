@@ -46,6 +46,8 @@
 
 [simon]: http://amazon.jp/dp/4478021767 "James G. March, Herbert A. Simon, 『オーガニゼーションズ 第2版――現代組織論の原典』(2014)(ダイヤモンド社)"
 
+[simon2]: http://amazon.jp/dp/489362167X "Herbert A. Simon『システムの科学』(1999)(パーソナルメディア)"
+
 [kawamoto]: http://amazon.jp/dp/4791753879 "河本 英夫『オートポイエーシス――第三世代システム』(pp. 158, 176-177, 230-231, 238)(1995)(青土社)"
 
 [descartes]: http://amazon.jp/dp/4003361318 "René Descartes『方法序説』(1637)"
