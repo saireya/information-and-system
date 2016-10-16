@@ -139,6 +139,17 @@
 	<isbn>4130501844</isbn>
 </incollection></entry>
 
+<entry id="shannon"><article>
+	<author>Claude Elwood Shannon</author>
+	<title>A Mathematical Theory of Communication</title>
+	<journal>The Bell System Technical Journal</journal>
+	<volume>27</volume>
+	<number>3</number>
+	<pages>379-423</pages>
+	<year>1948</year>
+	<doi>10.1002/j.1538-7305.1948.tb01338.x</doi>
+</article></entry>
+
 <entry id="usui"><article>
 	<author>碓井 菘</author>
 	<title>パーソンズ・ルーマン・ハバーマスの象徴的メディア論註解 : 社会システムにおける集権化と分権化(その4)</title>

@@ -26,6 +26,8 @@
 
 [chen]: http://amazon.jp/dp/4130501844 "Dominique Chen『基礎情報学の情報システムデザインへの応用に向けた試論』(pp. 9-38)in 基礎情報学のヴァイアビリティ: ネオ・サイバネティクスによる開放系と閉鎖系の架橋(2015)(東京大学出版会)"
 
+[shannon]: http://dx.doi.org/10.1002/j.1538-7305.1948.tb01338.x "Claude Elwood Shannon『A Mathematical Theory of Communication』(pp. 379-423)in The Bell System Technical Journal vol. 27 no. 3(1948)"
+
 [usui]: http://ci.nii.ac.jp/naid/110000032320 "碓井 菘『パーソンズ・ルーマン・ハバーマスの象徴的メディア論註解 : 社会システムにおける集権化と分権化(その4)』(pp. 27-43)in 金沢大学文学部論集. 行動科学・哲学篇 vol. 21(2001/mar)(金沢大学)"
 
 [iris1]: https://commons.wikimedia.org/wiki/File:Acorus_calamus_002.JPG "H. Zell『File:Acorus calamus 002.JPG』"
