@@ -139,6 +139,24 @@
 	<isbn>4130501844</isbn>
 </incollection></entry>
 
+<entry id="hall"><article>
+	<author>Stuart Hall</author>
+	<title>Encoding and Decoding in the Television Discourse</title>
+	<journal>CCCS Stencilled Paper</journal>
+	<volume>7</volume>
+	<year>1973</year>
+	<url>http://www.birmingham.ac.uk/Documents/college-artslaw/history/cccs/stencilled-occasional-papers/1to8and11to24and38to48/SOP07.pdf</url>
+</article></entry>
+
+<entry id="hall2"><incollection>
+	<author>Stuart Hall</author>
+	<title>Encoding and Decoding in the Television Discourse</title>
+	<booktitle>Culture, Media, Language. Working Papers in Cultural Studies, 1972-1979</booktitle>
+	<year>1980</year>
+	<isbn>0415079063</isbn>
+	<doi>10.1075/z.184.211hal</doi>
+</incollection></entry>
+
 <entry id="shannon"><article>
 	<author>Claude Elwood Shannon</author>
 	<title>A Mathematical Theory of Communication</title>
