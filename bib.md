@@ -42,10 +42,6 @@
 
 [descartes]: http://amazon.jp/dp/4003361318 "René Descartes『方法序説』(1637)"
 
-[deutscher]: http://amazon.jp/dp/4772695338 "Guy Deutscher『言語が違えば、世界も違って見えるわけ』(2012)(インターシフト)"
-
-[imai]: http://amazon.jp/dp/4004312787 "今井 むつみ『ことばと思考』(2010)(岩波書店)"
-
 [sapir]: http://dx.doi.org/10.2307/409588 "Edward Sapir『The Status of Linguistics as a Science』(pp. 207-214)in Language vol. 5 no. 4(1929)(Linguistic Society of America)"
 
 [whorf]: https://scholar.google.co.jp/scholar?q=BenjaminLeeWhorf,ScienceandLinguistics "Benjamin Lee Whorf『Science and Linguistics』in MIT Technology Review vol. 42(1940)"

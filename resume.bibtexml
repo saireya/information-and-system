@@ -208,22 +208,6 @@
 	<isbn>4003361318</isbn>
 </book></entry>
 
-<entry id="deutscher"><book>
-	<author>Guy Deutscher</author>
-	<title>言語が違えば、世界も違って見えるわけ</title>
-	<publisher>インターシフト</publisher>
-	<year>2012</year>
-	<isbn>4772695338</isbn>
-</book></entry>
-
-<entry id="imai"><book>
-	<author>今井 むつみ</author>
-	<title>ことばと思考</title>
-	<publisher>岩波書店</publisher>
-	<year>2010</year>
-	<isbn>4004312787</isbn>
-</book></entry>
-
 <entry id="sapir"><article>
 	<author>Edward Sapir</author>
 	<title>The Status of Linguistics as a Science</title>
