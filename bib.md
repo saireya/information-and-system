@@ -38,6 +38,8 @@
 
 [ietf]: https://tools.ietf.org/html/rfc793 "IETF『RFC 793 - Transmission Control Protocol』"
 
+[cassim]: http://amazon.jp/dp/484591302X "ジュリア・カセム『「インクルーシブデザイン」という発想――排除しないプロセスのデザイン』(2014)(フィルムアート社)"
+
 [nakahashi]: http://amazon.jp/dp/4779304113 "中橋 雄『メディア・リテラシー論』(pp. 20)(2014)(北樹出版)"
 
 [bertalanffy]: http://amazon.jp/dp/4622025221 "Ludwig von Bertalanffy『一般システム理論――その基礎・発展・応用』(pp. 34-36, 50-51, 211-212, 217)(1973)(みすず書房)"
