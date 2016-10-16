@@ -14,7 +14,9 @@
 
 [nishigaki2]: http://amazon.jp/dp/4771109958 "西垣 通『生命と機械をつなぐ知 基礎情報学入門』(2012)(高陵社書店)"
 
-[saussure]: http://amazon.jp/dp/4061497634 "町田 健『ソシュールと言語学 コトバはなぜ通じるのか』(2004)(講談社)"
+[saussure]: http://amazon.jp/dp/4327378224 "Ferdinand de Saussure『新訳 ソシュール 一般言語学講義』(pp. 100-104)(2016)(研究社)"
+
+[machida]: http://amazon.jp/dp/4061497634 "町田 健『ソシュールと言語学 コトバはなぜ通じるのか』(2004)(講談社)"
 
 [luhmann]: http://dx.doi.org/10.1111/j.1468-2885.1992.tb00042.x "Niklas Luhmann『What is Communication?』(pp. 251-259)in Communication Theory vol. 2 no. 3(1992)(Blackwell Publishing Ltd)"
 
@@ -43,6 +45,10 @@
 [deutscher]: http://amazon.jp/dp/4772695338 "Guy Deutscher『言語が違えば、世界も違って見えるわけ』(2012)(インターシフト)"
 
 [imai]: http://amazon.jp/dp/4004312787 "今井 むつみ『ことばと思考』(2010)(岩波書店)"
+
+[sapir]: http://dx.doi.org/10.2307/409588 "Edward Sapir『The Status of Linguistics as a Science』(pp. 207-214)in Language vol. 5 no. 4(1929)(Linguistic Society of America)"
+
+[whorf]: https://scholar.google.co.jp/scholar?q=BenjaminLeeWhorf,ScienceandLinguistics "Benjamin Lee Whorf『Science and Linguistics』in MIT Technology Review vol. 42(1940)"
 
 [kuwata]: http://amazon.jp/dp/4641124124 "桑田 耕太郎, 田尾 雅夫, 『組織論 補訂版』(pp. 30-31)(2010)(有斐閣)"
 
