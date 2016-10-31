@@ -79,6 +79,15 @@
 	<isbn>4771109958</isbn>
 </book></entry>
 
+<entry id="bateson"><incollection>
+	<author>Gregory Bateson</author>
+	<title>Form, substance, and difference</title>
+	<journal>Steps to an ecology of mind</booktitle>
+	<publisher>University of Chicago Press</publisher>
+	<year>1972</year>
+	<url>http://cepa.info/2899</url>
+</incollection></entry>
+
 <entry id="saussure"><book>
 	<author>Ferdinand de Saussure</author>
 	<title>新訳 ソシュール 一般言語学講義</title>
