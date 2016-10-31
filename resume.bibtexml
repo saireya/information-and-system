@@ -88,6 +88,15 @@
 	<url>http://cepa.info/2899</url>
 </incollection></entry>
 
+<entry id="bateson2"><book>
+	<author>Gregory Bateson</author>
+	<title>精神と自然――生きた世界の認識論</title>
+	<publisher>新思索社</publisher>
+	<year>2006</year>
+	<isbn>4783511950</isbn>
+	<pages>125-127</pages>
+</book></entry>
+
 <entry id="saussure"><book>
 	<author>Ferdinand de Saussure</author>
 	<title>新訳 ソシュール 一般言語学講義</title>
@@ -323,6 +332,7 @@
 	<publisher>共立出版</publisher>
 	<year>1996</year>
 	<isbn>4320027523</isbn>
+	<pages>14</pages>
 </book></entry>
 
 <entry id="kodama"><book>
