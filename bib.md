@@ -32,7 +32,7 @@
 
 [hall]: http://www.birmingham.ac.uk/Documents/college-artslaw/history/cccs/stencilled-occasional-papers/1to8and11to24and38to48/SOP07.pdf "Stuart Hall『Encoding and Decoding in the Television Discourse』in CCCS Stencilled Paper vol. 7(1973)"
 
-[hall2]: http://amazon.jp/dp/0415079063 "Stuart Hall『Encoding and Decoding in the Television Discourse』in Culture, Media, Language. Working Papers in Cultural Studies, 1972-1979(1980)"
+[hall2]: http://amazon.jp/dp/0415079063 "Stuart Hall『Encoding/Decoding』in Culture, Media, Language. Working Papers in Cultural Studies, 1972-1979(1980)"
 
 [shannon]: http://dx.doi.org/10.1002/j.1538-7305.1948.tb01338.x "Claude Elwood Shannon『A Mathematical Theory of Communication』(pp. 379-423)in The Bell System Technical Journal vol. 27 no. 3(1948)"
 
