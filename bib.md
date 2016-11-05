@@ -14,6 +14,10 @@
 
 [nishigaki2]: http://amazon.jp/dp/4771109958 "西垣 通『生命と機械をつなぐ知 基礎情報学入門』(2012)(高陵社書店)"
 
+[bateson]: http://cepa.info/2899 "Gregory Bateson『Form, substance, and difference』in Steps to an ecology of mind(1972)(University of Chicago Press)"
+
+[bateson2]: http://amazon.jp/dp/4783511950 "Gregory Bateson『精神と自然――生きた世界の認識論』(pp. 125-127)(2006)(新思索社)"
+
 [saussure]: http://amazon.jp/dp/4327378224 "Ferdinand de Saussure『新訳 ソシュール 一般言語学講義』(pp. 100-104)(2016)(研究社)"
 
 [machida]: http://amazon.jp/dp/4061497634 "町田 健『ソシュールと言語学 コトバはなぜ通じるのか』(2004)(講談社)"
@@ -64,7 +68,7 @@
 
 [young-j]: http://amazon.jp/dp/4484881047 "James W. Young『アイデアのつくり方』(1960)"
 
-[wilson]: http://amazon.jp/dp/4320027523 "Brian Wilson『システム仕様の分析学――ソフトシステム方法論』(1996)(共立出版)"
+[wilson]: http://amazon.jp/dp/4320027523 "Brian Wilson『システム仕様の分析学――ソフトシステム方法論』(pp. 14)(1996)(共立出版)"
 
 [kodama]: http://amazon.jp/dp/4822283585 "児玉 公信『UMLモデリング入門』(2008)(日経BP社)"
 
