@@ -82,6 +82,8 @@
 
 [law-copyright]: http://law.e-gov.go.jp/htmldata/S45/S45HO048.html "『著作権法』(1970)"
 
+[kougo]: http://amazon.jp/dp/4774174610 "向後 千春『上手な教え方の教科書――入門インストラクショナルデザイン』(2015)(技術評論社)"
+
 [user-male]: https://openclipart.org/detail/4749 "acspike『Clipart - male user icon』"
 
 [user-female]: https://openclipart.org/detail/1646 "dagobert83『Clipart - female user icon』"
