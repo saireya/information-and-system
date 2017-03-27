@@ -764,6 +764,9 @@ Simon<cite id="simon2"/>によれば、<alert>問題</alert>(problem)は、<em>�
 端的にいえば、介入とは、他者や組織など<em>他のシステムを変化させるために行うコミュニケーション</em>のことである。</p>
 <p>Luhmannは介入の例として<em>教育</em>を挙げたが、一般に<alert>プレゼンテーション</alert>と呼ばれる行為はいずれも、聴衆である心理システムの思考に介入して言動の変容を促す行為である。
 従って、これらはここでいう介入に当たる。</p>
+<p>図<r n="fig:system-intereference"/>に、介入の概念図を示す。
+図では、システムの現在の状態に対して介入し、本来のシステムのオートポイエーシスによって達する状態とは異なる状態に至らせる様子を示している。</p>
+<img src="system-interference.svg" title="介入" scale=".5" n="fig:system-interference"/></p>
 </s>
 
 <s h="目標と介入">
