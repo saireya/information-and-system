@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:creation-date>2015-01-21T22:58:41.475472782</meta:creation-date><dc:title>青系-Draw</dc:title><meta:editing-duration>PT1H26M50S</meta:editing-duration><meta:editing-cycles>29</meta:editing-cycles><meta:generator>LibreOffice/4.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><dc:date>2016-01-30T00:15:19.635567543</dc:date><meta:document-statistic meta:object-count="37"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="青系-Draw" xlink:href="../../../../Config/.config/libreoffice/4/user/template/青系-Draw1.otg" meta:date="2015-01-21T22:58:40.171947246"/></office:meta>
+ <office:meta><meta:creation-date>2015-01-21T22:58:41.475472782</meta:creation-date><dc:title>青系-Draw</dc:title><meta:editing-duration>PT1H37M11S</meta:editing-duration><meta:editing-cycles>31</meta:editing-cycles><meta:generator>LibreOffice/5.3.1.2$Windows_X86_64 LibreOffice_project/e80a0e0fd1875e1696614d24c32df0f95f03deb2</meta:generator><dc:date>2017-03-26T22:14:02.037000000</dc:date><meta:document-statistic meta:object-count="37"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="青系-Draw" xlink:href="../../../../Config/.config/libreoffice/4/user/template/青系-Draw1.otg" meta:date="2015-01-21T22:58:40.171947246"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-331</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-8599</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-3842</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-2211</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">45722</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">21868</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -22,7 +22,7 @@
      <config:config-item config:name="IsFrameDragSingles" config:type="boolean">true</config:config-item>
      <config:config-item config:name="EliminatePolyPointLimitAngle" config:type="int">1500</config:config-item>
      <config:config-item config:name="IsEliminatePolyPoints" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="VisibleLayers" config:type="base64Binary">f/////////////////////////////////////////8=</config:config-item>
+     <config:config-item config:name="VisibleLayers" config:type="base64Binary">//////////////////////////////////////////8=</config:config-item>
      <config:config-item config:name="PrintableLayers" config:type="base64Binary">//////////////////////////////////////////8=</config:config-item>
      <config:config-item config:name="LockedLayers" config:type="base64Binary"/>
      <config:config-item config:name="NoAttribs" config:type="boolean">false</config:config-item>
@@ -34,13 +34,11 @@
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
-     <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
-     <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
-     <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-331</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-8599</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">45724</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">21870</config:config-item>
+     <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-3842</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-2211</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">35593</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">21603</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
@@ -51,16 +49,17 @@
      <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">1</config:config-item>
      <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
      <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="ZoomOnPage" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="BitmapTableURL" config:type="string">$(user)/config/standard.sob</config:config-item>
+   <config:config-item config:name="BitmapTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sob</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="ColorTableURL" config:type="string">$(user)/config/standard.soc</config:config-item>
-   <config:config-item config:name="DashTableURL" config:type="string">$(user)/config/standard.sod</config:config-item>
+   <config:config-item config:name="ColorTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/tango.soc</config:config-item>
+   <config:config-item config:name="DashTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sod</config:config-item>
    <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
@@ -79,8 +78,8 @@
      <config:config-item config:name="EndLine" config:type="string">$([¥{£¥‘“〈《「『【〔＄（［｛｢£￥</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
-   <config:config-item config:name="GradientTableURL" config:type="string">$(user)/config/standard.sog</config:config-item>
-   <config:config-item config:name="HatchTableURL" config:type="string">$(user)/config/standard.soh</config:config-item>
+   <config:config-item config:name="GradientTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sog</config:config-item>
+   <config:config-item config:name="HatchTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soh</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
@@ -91,15 +90,15 @@
    <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LineEndTableURL" config:type="string">$(user)/config/standard.soe</config:config-item>
+   <config:config-item config:name="LineEndTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soe</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MeasureUnit" config:type="short">3</config:config-item>
    <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">MP540-series</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ogH+/01QNTQwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpNUDU0MC1zZXJpZXMAAAAAAAAAAAAAAAAAAAAWAAMAxAAAAAAAAgAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9TVA1NDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6Q2Fzc2V0dGUAABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Foxit Reader PDF Printer</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">2QX+/0ZveGl0IFJlYWRlciBQREYgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARm94aXQgUmVhZGVyIFBERiBQcmludGVyIERyaXZlcgAWAAEA+gQAAAAAAAAEAAhSAAAEdAAAM1ROVwAAAAAKAEYAbwB4AGkAdAAgAFIAZQBhAGQAZQByACAAUABEAEYAIABQAHIAaQBuAHQAZQByAAAAAAAAAAAAAAAAAAAAAAABBAEE3AAUBF//gQcBAAkAmgs0CGQAAQAHAFgCAgABAFgCAgAAAEEANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABDADoAXABVAHMAZQByAHMAXAAxADQAMAAwADAANQAzAFwAQQBwAHAARABhAHQAYQBcAFIAbwBhAG0AaQBuAGcAXABGAG8AeABpAHQAIABTAG8AZgB0AHcAYQByAGUAXABGAG8AeABpAHQAIABQAEQARgAgAEMAcgBlAGEAdABvAHIAXABGAG8AeABpAHQAIABSAGUAYQBkAGUAcgAgAFAARABGACAAUAByAGkAbgB0AGUAcgBcADEANAA5ADAANQAzADIAOQAzADAAXwAzADMAMgA0AF8AXwBmAG8AeABpAHQAdABlAG0AcAAuAHgAbQBsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -116,10 +115,11 @@
  <office:font-face-decls>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans Condensed" svg:font-family="&apos;DejaVu Sans Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="IPA Pゴシック" svg:font-family="&apos;IPA Pゴシック&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="VL Pゴシック" svg:font-family="&apos;VL Pゴシック&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="ＭＳ Ｐゴシック" svg:font-family="&apos;ＭＳ Ｐゴシック&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <draw:gradient draw:name="leaf" draw:style="linear" draw:start-color="#bfffdf" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="450" draw:border="0%"/>
@@ -500,7 +500,7 @@
     <draw:connector draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" draw:type="line" svg:x1="22.4cm" svg:y1="9.601cm" svg:x2="22.4cm" svg:y2="7.601cm" draw:start-shape="id3" draw:start-glue-point="4" draw:end-shape="id4" draw:end-glue-point="8" svg:d="M22400 9601v-2000" svg:viewBox="0 0 1 2001">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" draw:type="curve" draw:line-skew="0.712cm" svg:x1="5.4cm" svg:y1="7.6cm" svg:x2="22.4cm" svg:y2="10.601cm" draw:start-shape="id2" draw:start-glue-point="8" draw:end-shape="id3" draw:end-glue-point="8" svg:d="M5400 7600c0 6357 17000 4856 17000 3001" svg:viewBox="0 0 17001 4607">
+    <draw:connector draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" draw:type="curve" draw:line-skew="0.712cm" svg:x1="5.4cm" svg:y1="7.6cm" svg:x2="22.4cm" svg:y2="10.601cm" draw:start-shape="id2" draw:start-glue-point="8" draw:end-shape="id3" draw:end-glue-point="8" svg:d="M5400 7600c0 6358 17000 4858 17000 3001" svg:viewBox="0 0 17001 4609">
      <text:p/>
     </draw:connector>
     <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P7" xml:id="id5" draw:id="id5" draw:layer="layout" svg:width="4cm" svg:height="1cm" svg:x="20.4cm" svg:y="1.4cm">
@@ -606,39 +606,39 @@
      </draw:custom-shape>
     </draw:g>
     <draw:g>
-     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.011cm" svg:height="1.011cm" svg:x="5.09cm" svg:y="8.162cm">
-      <draw:image xlink:href="Oxygen480-mimetypes-application-x-zerosize.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.165cm" svg:height="1.165cm" svg:x="21.8cm" svg:y="8.035cm">
+      <draw:image xlink:href="text-x-generic.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
        <text:p/>
       </draw:image>
      </draw:frame>
-     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.1cm" svg:height="1.1cm" svg:x="5.001cm" svg:y="7.773cm">
-      <draw:image xlink:href="Oxygen480-mimetypes-signature.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="0.6cm" svg:height="0.6cm" svg:x="22.4cm" svg:y="8.444cm">
+      <draw:image xlink:href="tango-style-pen.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
        <text:p/>
       </draw:image>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.011cm" svg:height="1.011cm" svg:x="15.891cm" svg:y="11.363cm">
-     <draw:image xlink:href="Oxygen480-mimetypes-application-x-zerosize.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
-      <text:p/>
-     </draw:image>
-    </draw:frame>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.011cm" svg:height="1.011cm" svg:x="11.192cm" svg:y="11.364cm">
-     <draw:image xlink:href="Oxygen480-mimetypes-application-x-zerosize.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
-      <text:p/>
-     </draw:image>
-    </draw:frame>
     <draw:g>
-     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.011cm" svg:height="1.011cm" svg:x="21.89cm" svg:y="8.162cm">
-      <draw:image xlink:href="Oxygen480-mimetypes-application-x-zerosize.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.165cm" svg:height="1.165cm" svg:x="5cm" svg:y="8.035cm">
+      <draw:image xlink:href="text-x-generic.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
        <text:p/>
       </draw:image>
      </draw:frame>
-     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.1cm" svg:height="1.1cm" svg:x="21.801cm" svg:y="7.773cm">
-      <draw:image xlink:href="Oxygen480-mimetypes-signature.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="0.6cm" svg:height="0.6cm" svg:x="5.6cm" svg:y="8.444cm">
+      <draw:image xlink:href="tango-style-pen.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
        <text:p/>
       </draw:image>
      </draw:frame>
     </draw:g>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.165cm" svg:height="1.165cm" svg:x="11.1cm" svg:y="11.5cm">
+     <draw:image xlink:href="text-x-generic.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="icon" svg:width="1.165cm" svg:height="1.165cm" svg:x="15.7cm" svg:y="11.509cm">
+     <draw:image xlink:href="text-x-generic.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
    </draw:page>
   </office:drawing>
  </office:body>

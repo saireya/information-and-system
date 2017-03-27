@@ -393,9 +393,20 @@
 	<url>https://openclipart.org/detail/1646</url>
 </misc></entry>
 
-<entry id="oxygen"><misc>
-	<author>KDE</author>
-	<title>Oxygen Icons</title>
-	<url>http://www.kde.org</url>
+<entry id="tango"><misc>
+	<author>Tango Desktop Project</author>
+	<title>Tango Desktop Project</title>
+	<url>http://tango.freedesktop.org</url>
 </misc></entry>
-</file>
+
+<entry id="Golden_key_icon"><misc>
+	<author>Fleshgrinder</author>
+	<title>File:Golden key icon.svg</title>
+	<url>https://commons.wikimedia.org/wiki/File:Golden_key_icon.svg</url>
+</misc></entry>
+
+<entry id="tango-style-pen"><misc>
+	<author>warszawianka</author>
+	<title>tango style pen</title>
+	<url>https://openclipart.org/detail/35443</url>
+</misc></entry>
