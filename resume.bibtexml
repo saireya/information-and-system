@@ -344,6 +344,14 @@
 	<url>http://web.sfc.keio.ac.jp/~iba/papers/2010JAFEE-iba.pdf</url>
 </misc></entry>
 
+<entry id="debono"><book>
+	<author>Edward de Bono</author>
+	<title>Lateral Thinking: Creativity Step by Step</title>
+	<publisher>Harper</publisher>
+	<year>1970</year>
+	<isbn>0060903252</isbn>
+</book></entry>
+
 <entry id="wilson"><book>
 	<author>Brian Wilson</author>
 	<title>システム仕様の分析学――ソフトシステム方法論</title>
