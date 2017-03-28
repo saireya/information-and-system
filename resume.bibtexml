@@ -326,6 +326,24 @@
 	<isbn>4484881047</isbn>
 </book></entry>
 
+<entry id="iba"><article>
+	<author>井庭 崇</author>
+	<title>An Autopoietic Systems Theory for Creativity</title>
+	<journal>Procedia - Social and Behavioral Sciences</journal>
+	<year>2010</year>
+	<volume>2</volume>
+	<number>4</number>
+	<pages>6610-6625</pages>
+	<doi>10.1016/j.sbspro.2010.04.071</doi>
+</article></entry>
+
+<entry id="iba-j"><misc>
+	<author>井庭 崇</author>
+	<title>創造システム理論の構想</title>
+	<year>2010</year>
+	<url>http://web.sfc.keio.ac.jp/~iba/papers/2010JAFEE-iba.pdf</url>
+</misc></entry>
+
 <entry id="wilson"><book>
 	<author>Brian Wilson</author>
 	<title>システム仕様の分析学――ソフトシステム方法論</title>
