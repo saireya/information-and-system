@@ -804,7 +804,7 @@ Simon<cite id="simon2"/>によれば、<alert>問題</alert>(problem)は、<em>�
 従って、これらはここでいう介入に当たる。</p>
 <p>図<r n="fig:system-intereference"/>に、介入の概念図を示す。
 図では、システムの現在の状態に対して介入し、本来のシステムのオートポイエーシスによって達する状態とは異なる状態に至らせる様子を示している。</p>
-<img src="system-interference.svg" title="介入" scale=".5" n="fig:system-interference"/></p>
+<img src="system-interference.svg" title="介入" scale=".5" n="fig:system-interference"/>
 </s>
 
 <s h="目標と介入">
