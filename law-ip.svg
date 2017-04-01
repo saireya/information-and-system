@@ -158,6 +158,7 @@
    <glyph unicode="り" horiz-adv-x="1324" d="M 406,1546 L 559,1546 559,989 563,989 C 631,1150 725,1277 843,1368 961,1460 1087,1505 1223,1505 1380,1505 1502,1448 1589,1334 1677,1220 1720,1059 1720,850 1720,526 1630,288 1448,136 1266,-16 982,-92 594,-92 L 588,51 C 930,51 1178,114 1329,241 1481,367 1556,570 1556,850 1556,1016 1527,1142 1467,1227 1408,1311 1322,1354 1208,1354 1057,1354 914,1272 780,1108 646,944 572,746 557,514 L 406,514 406,1546 Z"/>
    <glyph unicode="ら" horiz-adv-x="1456" d="M 580,1171 C 560,1014 536,852 506,684 L 510,682 C 600,753 709,811 838,856 966,901 1086,924 1198,924 1580,924 1772,771 1772,467 1772,287 1697,150 1548,55 1399,-39 1178,-86 885,-86 751,-86 610,-78 463,-61 L 471,78 C 643,60 781,51 885,51 1120,51 1297,86 1417,157 1537,227 1597,330 1597,467 1597,681 1457,788 1178,788 1072,788 953,762 818,708 684,654 565,585 463,502 L 324,539 C 366,776 400,992 426,1186 L 580,1171 Z M 582,1532 C 897,1491 1203,1470 1499,1470 L 1499,1333 C 1191,1333 879,1354 565,1395 L 582,1532 Z"/>
    <glyph unicode="よ" horiz-adv-x="1589" d="M 1796,1116 L 1126,1116 1126,545 C 1313,470 1544,328 1817,119 L 1722,0 C 1483,187 1285,317 1126,391 L 1126,344 C 1126,191 1093,78 1027,4 961,-70 859,-106 723,-107 554,-106 431,-71 354,1 278,73 240,165 240,276 240,390 281,477 362,539 444,600 565,631 723,631 805,631 887,620 969,598 L 969,1620 1126,1620 1126,1251 1796,1251 1796,1116 Z M 969,453 C 885,479 804,492 723,492 504,492 395,420 395,276 395,113 504,31 723,31 810,31 873,55 911,103 950,152 969,232 969,344 L 969,453 Z"/>
+   <glyph unicode="ょ" horiz-adv-x="1298" d="M 1645,993 L 1645,866 1118,866 1118,434 C 1264,371 1446,256 1663,88 L 1573,-23 C 1393,122 1241,225 1118,287 L 1118,258 C 1118,134 1091,42 1036,-17 982,-77 898,-106 784,-107 648,-106 548,-77 484,-18 421,40 389,115 389,207 389,296 421,368 485,423 550,478 649,506 784,506 840,506 902,498 969,483 L 969,1280 1118,1280 1118,993 1645,993 Z M 969,346 C 910,365 849,375 784,375 619,375 537,319 537,207 537,84 619,23 784,23 850,23 897,41 926,77 954,113 969,173 969,258 L 969,346 Z"/>
    <glyph unicode="も" horiz-adv-x="1668" d="M 252,1210 L 252,1348 711,1348 731,1622 887,1616 868,1348 1673,1348 1673,1210 860,1210 C 848,1025 841,908 840,860 L 1550,860 1550,723 834,723 C 828,562 825,463 825,426 825,265 850,160 898,111 947,61 1052,37 1214,37 1534,37 1694,147 1694,369 1694,411 1686,465 1669,530 L 1815,565 C 1834,489 1843,420 1843,358 1843,205 1790,90 1684,11 1579,-67 1422,-106 1214,-107 1001,-106 857,-70 782,3 707,76 670,217 670,426 670,505 672,604 676,723 L 205,723 205,860 682,860 C 682,866 685,912 690,1000 696,1089 700,1158 702,1210 L 252,1210 Z"/>
    <glyph unicode="み" horiz-adv-x="1827" d="M 291,1511 L 1022,1511 C 1006,1320 984,1115 958,897 1129,893 1296,866 1460,817 1466,947 1468,1124 1468,1348 L 1618,1348 C 1618,1092 1615,899 1608,768 1728,720 1843,662 1954,594 L 1884,469 C 1794,525 1698,574 1597,616 1587,496 1572,397 1552,318 1533,240 1504,173 1465,119 1426,64 1384,20 1339,-13 1294,-47 1232,-84 1153,-125 L 1075,2 C 1168,48 1237,92 1281,132 1325,172 1362,235 1392,318 1421,402 1441,520 1452,670 1280,727 1109,756 940,758 909,526 874,350 836,229 797,109 758,32 718,-1 678,-34 624,-51 557,-51 466,-51 374,1 282,106 189,212 143,325 143,446 143,557 203,655 322,740 440,826 600,877 801,893 814,1001 831,1161 852,1374 L 291,1374 291,1511 Z M 782,750 C 632,735 514,698 429,641 344,584 301,519 301,446 301,367 330,290 387,216 444,142 498,104 549,104 580,104 607,117 630,142 652,168 677,229 703,328 730,426 756,567 782,750 Z"/>
    <glyph unicode="は" horiz-adv-x="1721" d="M 1901,1122 L 1538,1122 1538,453 C 1638,384 1759,279 1903,135 L 1798,33 C 1690,141 1604,221 1538,274 1528,25 1394,-100 1135,-100 994,-100 885,-69 808,-5 731,58 692,147 692,262 692,369 730,451 807,509 883,567 993,596 1135,596 1221,596 1305,578 1389,541 L 1389,1122 745,1122 745,1260 1389,1260 1389,1599 1538,1599 1538,1260 1901,1260 1901,1122 Z M 449,1548 C 382,1294 348,1023 348,733 348,444 382,172 449,-82 L 301,-102 C 233,156 199,434 199,733 199,1032 233,1311 301,1569 L 449,1548 Z M 1389,381 C 1301,431 1214,457 1128,457 937,457 842,392 842,262 842,188 866,132 915,94 965,56 1036,37 1128,37 1220,37 1286,58 1327,101 1368,144 1389,214 1389,309 L 1389,381 Z"/>
@@ -186,7 +187,7 @@
   </font>
  </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49"/>
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50"/>
  </defs>
  <defs class="EmbeddedBulletChars">
   <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
@@ -323,8 +324,8 @@
          <path style="fill:url(#gradient1)" d="M 2100,2300 L 100,2300 100,1000 4100,1000 4100,2300 2100,2300 Z"/>
         </g>
         <path fill="none" stroke="rgb(0,0,127)" stroke-width="40" stroke-linejoin="round" d="M 2100,2300 L 100,2300 100,1000 4100,1000 4100,2300 2100,2300 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="367" y="1830"><tspan id="id50" fill="rgb(0,0,128)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/H14/H14HO122.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/H14/H14HO122.html">知的財産基本法</a></tspan></tspan></tspan></text>
-        <desc class="HyperlinkIdList">id50</desc>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="367" y="1830"><tspan id="id51" fill="rgb(0,0,128)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/H14/H14HO122.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/H14/H14HO122.html">知的財産基本法</a></tspan></tspan></tspan></text>
+        <desc class="HyperlinkIdList">id51</desc>
        </g>
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
@@ -364,19 +365,19 @@
          <path style="fill:url(#gradient2)" d="M 10000,14500 L 4400,14500 4400,1000 15600,1000 15600,14500 10000,14500 Z"/>
         </g>
         <path fill="none" stroke="rgb(0,0,127)" stroke-width="40" stroke-linejoin="round" d="M 10000,14500 L 4400,14500 4400,1000 15600,1000 15600,14500 10000,14500 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4650" y="1620"><tspan fill="rgb(0,0,127)" stroke="none">知的財産</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">: </tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4650" y="2136"><tspan id="id51.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="4793" y="2251"><tspan fill="rgb(0,0,0)" stroke="none">人間の</tspan><tspan fill="rgb(0,0,127)" stroke="none">創造的活動</tspan><tspan fill="rgb(0,0,0)" stroke="none">により生み出されるもの</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4650" y="10970"><tspan id="id52.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="4793" y="11085"><tspan fill="rgb(0,0,0)" stroke="none">事業活動に用いられる</tspan><tspan fill="rgb(0,0,127)" stroke="none">商品</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,127)" stroke="none">/</tspan><tspan fill="rgb(0,0,127)" stroke="none">役務を表示</tspan><tspan fill="rgb(0,0,0)" stroke="none">するもの</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4650" y="13494"><tspan id="id53.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="4793" y="13609"><tspan fill="rgb(0,0,0)" stroke="none">事業活動に有用な技術上</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">/</tspan><tspan fill="rgb(0,0,0)" stroke="none">営業上の</tspan><tspan fill="rgb(0,0,127)" stroke="none">情報</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4793" y="14240"><tspan fill="rgb(0,0,0)" stroke="none">e.g. </tspan><tspan font-family="VL Pゴシック" fill="rgb(0,0,0)" stroke="none">営業秘密</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4650" y="1620"><tspan fill="rgb(0,0,127)" stroke="none">知的財産</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">: </tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4650" y="2136"><tspan id="id52.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="4793" y="2251"><tspan fill="rgb(0,0,0)" stroke="none">人間の</tspan><tspan fill="rgb(0,0,127)" stroke="none">創造的活動</tspan><tspan fill="rgb(0,0,0)" stroke="none">により生み出されるもの</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4650" y="10970"><tspan id="id53.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="4793" y="11085"><tspan fill="rgb(0,0,0)" stroke="none">事業活動に用いられる</tspan><tspan fill="rgb(0,0,127)" stroke="none">商品</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,127)" stroke="none">/</tspan><tspan fill="rgb(0,0,127)" stroke="none">役務を表示</tspan><tspan fill="rgb(0,0,0)" stroke="none">するもの</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4650" y="13494"><tspan id="id54.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="4793" y="13609"><tspan fill="rgb(0,0,0)" stroke="none">事業活動に有用な技術上</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">/</tspan><tspan fill="rgb(0,0,0)" stroke="none">営業上の</tspan><tspan fill="rgb(0,0,127)" stroke="none">情報</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="4793" y="14240"><tspan fill="rgb(0,0,0)" stroke="none">e.g. </tspan><tspan font-family="VL Pゴシック" fill="rgb(0,0,0)" stroke="none">営業秘密</tspan></tspan></tspan></text>
         <g class="BulletChars">
-         <g id="bullet-char(id51.bp)" class="BulletChar">
+         <g id="bullet-char(id52.bp)" class="BulletChar">
           <g transform="translate(4650,2136)" fill="rgb(0,0,0)" stroke="none">
            <use transform="scale(222,222)" xlink:href="#bullet-char-template(9679)"/>
           </g>
          </g>
-         <g id="bullet-char(id52.bp)" class="BulletChar">
+         <g id="bullet-char(id53.bp)" class="BulletChar">
           <g transform="translate(4650,10970)" fill="rgb(0,0,0)" stroke="none">
            <use transform="scale(222,222)" xlink:href="#bullet-char-template(9679)"/>
           </g>
          </g>
-         <g id="bullet-char(id53.bp)" class="BulletChar">
+         <g id="bullet-char(id54.bp)" class="BulletChar">
           <g transform="translate(4650,13494)" fill="rgb(0,0,0)" stroke="none">
            <use transform="scale(222,222)" xlink:href="#bullet-char-template(9679)"/>
           </g>
@@ -397,14 +398,14 @@
          <path style="fill:url(#gradient3)" d="M 21802,2300 L 15804,2300 15804,1000 27799,1000 27799,2300 21802,2300 Z"/>
         </g>
         <path fill="none" stroke="rgb(0,0,127)" stroke-width="40" stroke-linejoin="round" d="M 21802,2300 L 15804,2300 15804,1000 27799,1000 27799,2300 21802,2300 Z"/>
-        <text class="TextShape"><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16054" y="1399"><tspan id="id54.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="16197" y="1514"><tspan fill="rgb(0,0,0)" stroke="none">新たな知的財産の創造</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16054" y="2030"><tspan id="id55.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="16197" y="2145"><tspan fill="rgb(0,0,0)" stroke="none">知的財産の効果的な活用による付加価値の創出</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16054" y="1399"><tspan id="id55.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="16197" y="1514"><tspan fill="rgb(0,0,0)" stroke="none">新たな知的財産の創造</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16054" y="2030"><tspan id="id56.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="16197" y="2145"><tspan fill="rgb(0,0,0)" stroke="none">知的財産の効果的な活用による付加価値の創出</tspan></tspan></tspan></text>
         <g class="BulletChars">
-         <g id="bullet-char(id54.bp)" class="BulletChar">
+         <g id="bullet-char(id55.bp)" class="BulletChar">
           <g transform="translate(16054,1399)" fill="rgb(0,0,0)" stroke="none">
            <use transform="scale(222,222)" xlink:href="#bullet-char-template(9679)"/>
           </g>
          </g>
-         <g id="bullet-char(id55.bp)" class="BulletChar">
+         <g id="bullet-char(id56.bp)" class="BulletChar">
           <g transform="translate(16054,2030)" fill="rgb(0,0,0)" stroke="none">
            <use transform="scale(222,222)" xlink:href="#bullet-char-template(9679)"/>
           </g>
@@ -441,8 +442,8 @@
          <path style="fill:url(#gradient5)" d="M 2226,5755 L 726,5755 726,4755 3726,4755 3726,5755 2226,5755 Z"/>
         </g>
         <path fill="none" stroke="rgb(63,127,0)" stroke-width="40" stroke-linejoin="round" d="M 2226,5755 L 726,5755 726,4755 3726,4755 3726,5755 2226,5755 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="988" y="5435"><tspan id="id56" fill="rgb(63,127,0)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO123.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO123.html">実用新案法</a></tspan></tspan></tspan></text>
-        <desc class="HyperlinkIdList">id56</desc>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="988" y="5435"><tspan id="id57" fill="rgb(63,127,0)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO123.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO123.html">実用新案法</a></tspan></tspan></tspan></text>
+        <desc class="HyperlinkIdList">id57</desc>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
@@ -458,8 +459,8 @@
          <path style="fill:url(#gradient6)" d="M 2226,7755 L 726,7755 726,6755 3726,6755 3726,7755 2226,7755 Z"/>
         </g>
         <path fill="none" stroke="rgb(0,127,63)" stroke-width="40" stroke-linejoin="round" d="M 2226,7755 L 726,7755 726,6755 3726,6755 3726,7755 2226,7755 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1483" y="7435"><tspan id="id57" fill="rgb(0,127,63)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO123.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO123.html">特許法</a></tspan></tspan></tspan></text>
-        <desc class="HyperlinkIdList">id57</desc>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1483" y="7435"><tspan id="id58" fill="rgb(0,127,63)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO123.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO123.html">特許法</a></tspan></tspan></tspan></text>
+        <desc class="HyperlinkIdList">id58</desc>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
@@ -475,8 +476,8 @@
          <path style="fill:url(#gradient7)" d="M 2226,9755 L 726,9755 726,8755 3726,8755 3726,9755 2226,9755 Z"/>
         </g>
         <path fill="none" stroke="rgb(239,119,0)" stroke-width="40" stroke-linejoin="round" d="M 2226,9755 L 726,9755 726,8755 3726,8755 3726,9755 2226,9755 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1483" y="9435"><tspan id="id58" fill="rgb(239,119,0)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO125.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO125.html">意匠法</a></tspan></tspan></tspan></text>
-        <desc class="HyperlinkIdList">id58</desc>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1483" y="9435"><tspan id="id59" fill="rgb(239,119,0)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO125.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO125.html">意匠法</a></tspan></tspan></tspan></text>
+        <desc class="HyperlinkIdList">id59</desc>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
@@ -588,8 +589,8 @@
          <path style="fill:url(#gradient14)" d="M 2200,12454 L 700,12454 700,11454 3700,11454 3700,12454 2200,12454 Z"/>
         </g>
         <path fill="none" stroke="rgb(255,0,0)" stroke-width="40" stroke-linejoin="round" d="M 2200,12454 L 700,12454 700,11454 3700,11454 3700,12454 2200,12454 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1457" y="12134"><tspan id="id59" fill="rgb(255,0,0)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO127.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO127.html">商標法</a></tspan></tspan></tspan></text>
-        <desc class="HyperlinkIdList">id59</desc>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1457" y="12134"><tspan id="id60" fill="rgb(255,0,0)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO127.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S34/S34HO127.html">商標法</a></tspan></tspan></tspan></text>
+        <desc class="HyperlinkIdList">id60</desc>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
@@ -626,7 +627,7 @@
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id24">
-        <rect class="BoundingBox" stroke="none" fill="none" x="23580" y="6581" width="4343" height="1342"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="23580" y="6581" width="4342" height="1342"/>
         <g>
          <defs>
           <linearGradient id="gradient17" x1="24350" y1="5851" x2="27150" y2="8651" gradientUnits="userSpaceOnUse">
@@ -642,7 +643,7 @@
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id25">
-        <rect class="BoundingBox" stroke="none" fill="none" x="23580" y="11280" width="4343" height="1342"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="23580" y="11280" width="4342" height="1342"/>
         <g>
          <defs>
           <linearGradient id="gradient18" x1="24350" y1="10550" x2="27150" y2="13350" gradientUnits="userSpaceOnUse">
@@ -669,8 +670,8 @@
          <path style="fill:url(#gradient19)" d="M 2199,3754 L 699,3754 699,2754 3699,2754 3699,3754 2199,3754 Z"/>
         </g>
         <path fill="none" stroke="rgb(255,0,255)" stroke-width="40" stroke-linejoin="round" d="M 2199,3754 L 699,3754 699,2754 3699,2754 3699,3754 2199,3754 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1209" y="3434"><tspan id="id60" fill="rgb(255,0,255)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S45/S45HO048.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S45/S45HO048.html">著作権法</a></tspan></tspan></tspan></text>
-        <desc class="HyperlinkIdList">id60</desc>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1209" y="3434"><tspan id="id61" fill="rgb(255,0,255)" stroke="none" class="UrlField" xlink:href="http://law.e-gov.go.jp/htmldata/S45/S45HO048.html"><a xlink:href="http://law.e-gov.go.jp/htmldata/S45/S45HO048.html">著作権法</a></tspan></tspan></tspan></text>
+        <desc class="HyperlinkIdList">id61</desc>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
@@ -702,14 +703,14 @@
          <path style="fill:url(#gradient21)" d="M 19400,3898 L 15800,3899 15800,2601 23000,2598 23000,3896 19400,3898 Z"/>
         </g>
         <path fill="none" stroke="rgb(255,0,255)" stroke-width="40" stroke-linejoin="round" d="M 19400,3898 L 15800,3899 15800,2601 23000,2598 23000,3896 19400,3898 Z"/>
-        <text class="TextShape"><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16049" y="2999"><tspan id="id61.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="16192" y="3114"><tspan fill="rgb(0,0,0)" stroke="none">著作物の</tspan></tspan><tspan class="TextPosition" x="18173" y="3113"><tspan fill="rgb(255,0,255)" stroke="none">公正な利用</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16050" y="3630"><tspan id="id62.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="16193" y="3745"><tspan fill="rgb(0,0,0)" stroke="none">著作者の</tspan></tspan><tspan class="TextPosition" x="18174" y="3744"><tspan fill="rgb(255,0,255)" stroke="none">権利の保護</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">(</tspan><tspan fill="rgb(255,0,255)" stroke="none">著作権</tspan></tspan><tspan class="TextPosition" x="22302" y="3743"><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16049" y="2999"><tspan id="id62.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="16192" y="3114"><tspan fill="rgb(0,0,0)" stroke="none">著作物の</tspan></tspan><tspan class="TextPosition" x="18173" y="3113"><tspan fill="rgb(255,0,255)" stroke="none">公正な利用</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16050" y="3630"><tspan id="id63.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="16193" y="3745"><tspan fill="rgb(0,0,0)" stroke="none">著作者の</tspan></tspan><tspan class="TextPosition" x="18174" y="3744"><tspan fill="rgb(255,0,255)" stroke="none">権利の保護</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">(</tspan><tspan fill="rgb(255,0,255)" stroke="none">著作権</tspan></tspan><tspan class="TextPosition" x="22302" y="3743"><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan></text>
         <g class="BulletChars">
-         <g id="bullet-char(id61.bp)" class="BulletChar">
+         <g id="bullet-char(id62.bp)" class="BulletChar">
           <g transform="translate(16049,2999)" fill="rgb(0,0,0)" stroke="none">
            <use transform="scale(222,222)" xlink:href="#bullet-char-template(9679)"/>
           </g>
          </g>
-         <g id="bullet-char(id62.bp)" class="BulletChar">
+         <g id="bullet-char(id63.bp)" class="BulletChar">
           <g transform="translate(16050,3630)" fill="rgb(0,0,0)" stroke="none">
            <use transform="scale(222,222)" xlink:href="#bullet-char-template(9679)"/>
           </g>
@@ -719,7 +720,7 @@
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id29">
-        <rect class="BoundingBox" stroke="none" fill="none" x="23580" y="2581" width="4343" height="1342"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="23580" y="2581" width="4342" height="1342"/>
         <g>
          <defs>
           <linearGradient id="gradient22" x1="24350" y1="1851" x2="27150" y2="4651" gradientUnits="userSpaceOnUse">
@@ -897,6 +898,12 @@
        <g id="id49">
         <rect class="BoundingBox" stroke="none" fill="none" x="19300" y="193" width="4575" height="883"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="494px" font-weight="400"><tspan class="TextPosition" x="19550" y="814"><tspan fill="rgb(0,0,0)" stroke="none">各法の目的</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">(</tspan><tspan fill="rgb(0,0,0)" stroke="none">第</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">1</tspan><tspan fill="rgb(0,0,0)" stroke="none">条</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id50">
+        <rect class="BoundingBox" stroke="none" fill="none" x="1274" y="8635" width="1485" height="566"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="246px" font-weight="400"><tspan class="TextPosition" x="1524" y="9007"><tspan fill="rgb(255,127,0)" stroke="none">いしょう</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
