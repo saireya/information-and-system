@@ -74,7 +74,7 @@
 また、氏名や住所などが含まれていないため、その情報単体では個人と結びつかなくとも、簡単に入手可能な他の情報と合わせることで特定の個人を想起できるものも、個人情報に該当する。
 具体的には、ニックネームと所属校の組み合わせ、SNS上で近況を記した複数のメッセージの組み合わせなどは、特定の個人を想起しうるので、これらは個人情報となりうる。
 なお、例え個人の氏名が公開されていても、大抵の場合は同姓同名の個人がいるため、それ単独では個人を特定するには至らないため、氏名単体では個人情報とはいえない。
-<img src="personality-individual.svg" scale=".75" title="個人情報" n="fig:pi" multicols="1"/></p>
+<img src="personality-individual.svg" scale=".5" title="個人情報" n="fig:pi" multicols="1"/></p>
 <p>一方、<alert>プライバシー</alert>(privacy)は、他人に知られたくない<em>私的な情報</em>を指す。
 その情報を「他人に知られたくない」と思うか否かは人それぞれ異なるため、住所やメールアドレスなどがプライバシーに当たると感じる人もいれば、これらを公開しても構わないと感じる人もいる。
 定義から明らかなように、個人情報とプライバシーには重なる部分もあるが、異なる概念であることに注意が必要である。</p>
@@ -161,7 +161,7 @@ Saussureは、「記号」は、その意味を表す部分である<ruby r="シ
 また、<em>暗号文を平文に戻す変換</em>を<alert>復号(decrypt)</alert>という。
 暗号化や復号の際は、変換に用いるパスワードなどの<alert>鍵(key)</alert>が必要であり、暗号化と復号で<em>同じ鍵</em>を用いる暗号は<alert>共通鍵暗号</alert>、<em>異なる鍵</em>を用いる暗号は<alert>公開鍵暗号</alert>と呼ばれる。
 共通鍵暗号の仕組みを図<r n="fig:cipher"/>に示す。
-<img src="cipher-common.svg" scale=".5" title="共通鍵暗号の仕組み" n="fig:cipher" multicols="1"/></p>
+<img src="cipher-common.svg" scale=".3" title="共通鍵暗号の仕組み" n="fig:cipher" multicols="1"/></p>
 </aside>
 </s>
 
@@ -708,7 +708,7 @@ $e_{kl}$が存在すれば$\epsilon_{kl} = 1$、存在しなければ$\epsilon_{
 ある<em>システムが所属する他のシステムの部分を除いた、そのシステムに固有の部分</em>を、そのシステムの<alert>個性</alert>(personality)と呼ぶ<cite id="borch"/>。</p>
 <p>例えば、あるシステムが他のシステムと図<r n="fig:personality"/>の関係にあるとする。
 このとき、図中で他のシステムに属する部分を除いた、桃色の部分が個性である。</p>
-<img src="personality-char.svg" title="個性と人格" scale=".75" n="fig:personality"/>
+<img src="personality-char.svg" title="個性と人格" scale=".5" n="fig:personality"/>
 
 <p>個人による、つまり1つの<em>心理システムによる創発</em>では、心理システムの個性が特徴的であることが必要である。
 ここでいう特徴的とは、所属する<em>他のシステムの組み合わせが他にない珍しいもの</em>である、ということを指す。
