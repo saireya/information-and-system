@@ -62,6 +62,8 @@
 
 [platon]: https://scholar.google.co.jp/scholar?q=Plátōn,ソピステス "Plátōn『ソピステス』(pp. 153-154)in プラトン全集(1976)(岩波書店)"
 
+[platon-e]: http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e "Plato『Sophist』"
+
 [sapir]: http://dx.doi.org/10.2307/409588 "Edward Sapir『The Status of Linguistics as a Science』(pp. 207-214)in Language vol. 5 no. 4(1929)(Linguistic Society of America)"
 
 [whorf]: https://scholar.google.co.jp/scholar?q=BenjaminLeeWhorf,ScienceandLinguistics "Benjamin Lee Whorf『Science and Linguistics』in MIT Technology Review vol. 42(1940)"
