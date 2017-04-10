@@ -20,6 +20,24 @@
 	<month>aug</month>
 </incollection></entry>
 
+<entry id="hayashi"><article>
+	<author>林 雄二郎</author>
+	<title>情報社会と新しい価値体系</title>
+	<journal>貯蓄時報</journal>
+	<publisher>日本銀行貯蓄推進部</publisher>
+	<year>1967</year>
+	<number>74</number>
+	<pages>20-25</pages>
+</article></entry>
+
+<entry id="masuda"><book>
+	<author>増田 米二</author>
+	<title>情報社会入門――コンピュータは人間社会を変える</title>
+	<publisher>ぺりかん社</publisher>
+	<year>1968</year>
+	<pages>70-74</pages>
+</book></entry>
+
 <entry id="ono1"><article>
 	<author>小野 厚夫</author>
 	<title>情報という言葉を尋ねて(1)</title>
