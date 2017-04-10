@@ -289,6 +289,17 @@
 	<isbn>4003361318</isbn>
 </book></entry>
 
+<entry id="platon"><incollection>
+	<author>Plátōn</author>
+	<title>ソピステス</title>
+	<booktitle>プラトン全集</booktitle>
+	<publisher>岩波書店</publisher>
+	<year>1976</year>
+	<volume>3</volume>
+	<pages>153-154</pages>
+	<note>藤沢令夫訳, 原文263E</note>
+</incollection></entry>
+
 <entry id="sapir"><article>
 	<author>Edward Sapir</author>
 	<title>The Status of Linguistics as a Science</title>
