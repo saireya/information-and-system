@@ -308,6 +308,29 @@
 	<note>山田弘明訳</note>
 </book></entry>
 
+<entry id="aristotle-e1"><misc>
+	<author>Aristotle</author>
+	<title>Metaphysics</title>
+	<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:5.1023b</url>
+</misc></entry>
+
+<entry id="aristotle-e2"><misc>
+	<author>Aristotle</author>
+	<title>Metaphysics</title>
+	<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:8.1045a</url>
+</misc></entry>
+
+<entry id="aristotle-j"><inbook>
+	<author>Aristotle</author>
+	<title>形而上学</title>
+	<volume>8</volume>
+	<chapter>6</chapter>
+	<publisher>講談社</publisher>
+	<year>1994</year>
+	<isbn>4061591169</isbn>
+	<note>岩崎勉訳</note>
+</inbook></entry>
+
 <entry id="platon"><incollection>
 	<author>Plátōn</author>
 	<title>ソピステス</title>

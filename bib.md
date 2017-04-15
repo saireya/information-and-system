@@ -64,6 +64,12 @@
 
 [descartes-j]: http://amazon.jp/dp/4480093060 "René Descartes『方法序説』(pp. 55-58)(2010)(筑摩書房)"
 
+[aristotle-e1]: http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:5.1023b "Aristotle『Metaphysics』"
+
+[aristotle-e2]: http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:8.1045a "Aristotle『Metaphysics』"
+
+[aristotle-j]: http://amazon.jp/dp/4061591169 "Aristotle『形而上学』(1994)(講談社)"
+
 [platon]: https://scholar.google.co.jp/scholar?q=Plátōn,ソピステス "Plátōn『ソピステス』(pp. 153-154)in プラトン全集(1976)(岩波書店)"
 
 [platon-e]: http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e "Plato『Sophist』"
