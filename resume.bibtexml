@@ -121,6 +121,7 @@
 	<year>2006</year>
 	<isbn>4783511950</isbn>
 	<pages>125-127</pages>
+	<note>佐藤良明訳</note>
 </book></entry>
 
 <entry id="saussure"><book>
@@ -130,6 +131,7 @@
 	<year>2016</year>
 	<isbn>4327378224</isbn>
 	<pages>100-104</pages>
+	<note>町田健訳</note>
 </book></entry>
 
 <entry id="machida"><book>
@@ -171,6 +173,7 @@
 	<pages>74-75, 78-82, 153-155, 165-175, 229-244</pages>
 	<year>2014</year>
 	<isbn>4787714066</isbn>
+	<note>庄司信訳</note>
 </book></entry>
 
 <entry id="chen"><incollection>
@@ -260,6 +263,7 @@
 	<pages>34-36, 50-51, 211-212, 217</pages>
 	<year>1973</year>
 	<isbn>4622025221</isbn>
+	<note> 長野敬, 太田邦昌訳</note>
 </book></entry>
 
 <entry id="simon"><book>
@@ -271,6 +275,7 @@
 	<publisher>ダイヤモンド社</publisher>
 	<year>2014</year>
 	<isbn>4478021767</isbn>
+	<note>高橋伸夫訳</note>
 </book></entry>
 
 <entry id="simon2"><book>
@@ -279,6 +284,7 @@
 	<publisher>パーソナルメディア</publisher>
 	<year>1999</year>
 	<isbn>489362167X</isbn>
+	<note>稲葉元吉, 吉原英樹訳</note>
 </book></entry>
 
 <entry id="kawamoto"><book>
@@ -387,6 +393,7 @@
 	<pages>75</pages>
 	<year>1968</year>
 	<isbn>4478320020</isbn>
+	<note>山本安次郎訳</note>
 </book></entry>
 
 <entry id="young"><book>
@@ -401,6 +408,7 @@
 	<title>アイデアのつくり方</title>
 	<year>1960</year>
 	<isbn>4484881047</isbn>
+	<note>竹内均訳</note>
 </book></entry>
 
 <entry id="iba"><article>
@@ -436,6 +444,7 @@
 	<year>1996</year>
 	<isbn>4320027523</isbn>
 	<pages>14</pages>
+	<note>根来竜之訳</note>
 </book></entry>
 
 <entry id="kodama"><book>
