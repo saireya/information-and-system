@@ -1,10 +1,12 @@
-[umesao1]: https://scholar.google.co.jp/scholar?q=梅棹忠夫,情報産業論 "梅棹 忠夫『情報産業論』in 中央公論 vol. 78 no. 3(1963/mar)(中央公論社)"
+[umesao1]: https://scholar.google.co.jp/scholar?q=梅棹忠夫,情報産業論 "梅棹 忠夫『情報産業論』(pp. 46-58)in 中央公論 vol. 78 no. 3(1963/mar)(中央公論社)"
 
 [umesao2]: https://scholar.google.co.jp/scholar?q=梅棹忠夫,情報社会論 "梅棹 忠夫『情報社会論』in 中日新聞(1972/aug)"
 
 [hayashi]: https://scholar.google.co.jp/scholar?q=林雄二郎,情報社会と新しい価値体系 "林 雄二郎『情報社会と新しい価値体系』(pp. 20-25)in 貯蓄時報 no. 74(1967)(日本銀行貯蓄推進部)"
 
 [masuda]: https://scholar.google.co.jp/scholar?q=増田米二,情報社会入門――コンピュータは人間社会を変える "増田 米二『情報社会入門――コンピュータは人間社会を変える』(pp. 70-74)(1968)(ぺりかん社)"
+
+[machlup]: https://scholar.google.co.jp/scholar?q=FritzMachlup,知識産業 "Fritz Machlup『知識産業』(1969)(産業能率短期大学出版部)"
 
 [ono1]: http://id.nii.ac.jp/1001/00065304 "小野 厚夫『情報という言葉を尋ねて(1)』(pp. 347-351)in 情報処理 vol. 46 no. 4(2005/apr)"
 

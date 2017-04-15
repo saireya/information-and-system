@@ -10,6 +10,7 @@
 	<volume>78</volume>
 	<number>3</number>
 	<month>mar</month>
+	<pages>46-58</pages>
 </article></entry>
 
 <entry id="umesao2"><incollection>
@@ -36,6 +37,13 @@
 	<publisher>ぺりかん社</publisher>
 	<year>1968</year>
 	<pages>70-74</pages>
+</book></entry>
+
+<entry id="machlup"><book>
+	<author>Fritz Machlup</author>
+	<title>知識産業</title>
+	<publisher>産業能率短期大学出版部</publisher>
+	<year>1969</year>
 </book></entry>
 
 <entry id="ono1"><article>
