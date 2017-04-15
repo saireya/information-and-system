@@ -290,11 +290,22 @@
 	<isbn>4791753879</isbn>
 </book></entry>
 
-<entry id="descartes"><book>
+<entry id="descartes"><inbook>
 	<author>René Descartes</author>
 	<title>方法序説</title>
 	<year>1637</year>
-	<isbn>4003361318</isbn>
+	<chapter>4</chapter>
+	<url>http://www.gutenberg.org/files/59/59-h/59-h.htm</url>
+</inbook></entry>
+
+<entry id="descartes-j"><book>
+	<author>René Descartes</author>
+	<title>方法序説</title>
+	<publisher>筑摩書房</publisher>
+	<year>2010</year>
+	<isbn>4480093060</isbn>
+	<pages>55-58</pages>
+	<note>山田弘明訳</note>
 </book></entry>
 
 <entry id="platon"><incollection>

@@ -60,7 +60,9 @@
 
 [kawamoto]: http://amazon.jp/dp/4791753879 "河本 英夫『オートポイエーシス――第三世代システム』(pp. 158, 176-177, 230-231, 238)(1995)(青土社)"
 
-[descartes]: http://amazon.jp/dp/4003361318 "René Descartes『方法序説』(1637)"
+[descartes]: http://www.gutenberg.org/files/59/59-h/59-h.htm "René Descartes『方法序説』(1637)"
+
+[descartes-j]: http://amazon.jp/dp/4480093060 "René Descartes『方法序説』(pp. 55-58)(2010)(筑摩書房)"
 
 [platon]: https://scholar.google.co.jp/scholar?q=Plátōn,ソピステス "Plátōn『ソピステス』(pp. 153-154)in プラトン全集(1976)(岩波書店)"
 
