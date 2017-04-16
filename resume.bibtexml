@@ -337,6 +337,26 @@
 	<note>岩崎勉訳</note>
 </inbook></entry>
 
+<entry id="broad"><book>
+	<author>Charlie Dunbar Broad</author>
+	<title>The Mind and Its Place in Nature</title>
+	<publisher>Harcourt, Brace \&amp; Company, Inc.</publisher>
+	<year>1925</year>
+	<pages>59-61</pages>
+	<url>https://archive.org/details/minditsplaceinna00broa</url>
+</book></entry>
+
+<entry id="matsumoto"><article>
+	<author>松本 俊吉</author>
+	<title>「創発性」について</title>
+	<journal>科学基礎論研究</journal>
+	<year>2001</year>
+	<volume>28</volume>
+	<number>2</number>
+	<pages>79-85</pages>
+	<doi>10.4288/kisoron1954.28.79</doi>
+</article></entry>
+
 <entry id="platon"><incollection>
 	<author>Plátōn</author>
 	<title>ソピステス</title>

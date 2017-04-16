@@ -70,6 +70,10 @@
 
 [aristotle-j]: http://amazon.jp/dp/4061591169 "Aristotle『形而上学』(1994)(講談社)"
 
+[broad]: https://archive.org/details/minditsplaceinna00broa "Charlie Dunbar Broad『The Mind and Its Place in Nature』(pp. 59-61)(1925)(Harcourt, Brace \& Company, Inc.)"
+
+[matsumoto]: http://dx.doi.org/10.4288/kisoron1954.28.79 "松本 俊吉『「創発性」について』(pp. 79-85)in 科学基礎論研究 vol. 28 no. 2(2001)"
+
 [platon]: https://scholar.google.co.jp/scholar?q=Plátōn,ソピステス "Plátōn『ソピステス』(pp. 153-154)in プラトン全集(1976)(岩波書店)"
 
 [platon-e]: http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e "Plato『Sophist』"
