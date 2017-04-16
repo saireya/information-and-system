@@ -28,7 +28,7 @@
 
 [machida]: http://amazon.jp/dp/4061497634 "町田 健『ソシュールと言語学 コトバはなぜ通じるのか』(2004)(講談社)"
 
-[luhmann]: http://dx.doi.org/10.1111/j.1468-2885.1992.tb00042.x "Niklas Luhmann『What is Communication?』(pp. 251-259)in Communication Theory vol. 2 no. 3(1992)(Blackwell Publishing Ltd)"
+[luhmann]: http://doi.org/10.1111/j.1468-2885.1992.tb00042.x "Niklas Luhmann『What is Communication?』(pp. 251-259)in Communication Theory vol. 2 no. 3(1992)(Blackwell Publishing Ltd)"
 
 [luhmann-interfere]: https://scholar.google.co.jp/scholar?q=NiklasLuhmannKarl-EberhardSchorr,WieistErziehungMöglich?-EinewissenschaftssoziologischeAnalysederErziehungswissenschaft教育が可能であるとはどういうことか?――教育科学の社会科学的分析下地ら訳 "Niklas Luhmann, Karl-Eberhard Schorr, 『Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft (教育が可能であるとはどういうことか?――教育科学の社会科学的分析 (下地ら訳))』in 東京大学教育学部教育哲学・教育史研究室紀要 vol. 18(1992)(東京大学)"
 
@@ -40,7 +40,7 @@
 
 [hall2]: http://amazon.jp/dp/0415079063 "Stuart Hall『Encoding/Decoding』in Culture, Media, Language. Working Papers in Cultural Studies, 1972-1979(1980)"
 
-[shannon]: http://dx.doi.org/10.1002/j.1538-7305.1948.tb01338.x "Claude Elwood Shannon『A Mathematical Theory of Communication』(pp. 379-423)in The Bell System Technical Journal vol. 27 no. 3(1948)"
+[shannon]: http://doi.org/10.1002/j.1538-7305.1948.tb01338.x "Claude Elwood Shannon『A Mathematical Theory of Communication』(pp. 379-423)in The Bell System Technical Journal vol. 27 no. 3(1948)"
 
 [usui]: http://hdl.handle.net/2297/935 "碓井 菘『パーソンズ・ルーマン・ハバーマスの象徴的メディア論註解 : 社会システムにおける集権化と分権化(その4)』(pp. 27-43)in 金沢大学文学部論集. 行動科学・哲学篇 vol. 21(2001/mar)(金沢大学)"
 
@@ -72,13 +72,13 @@
 
 [broad]: https://archive.org/details/minditsplaceinna00broa "Charlie Dunbar Broad『The Mind and Its Place in Nature』(pp. 59-61)(1925)(Harcourt, Brace \& Company, Inc.)"
 
-[matsumoto]: http://dx.doi.org/10.4288/kisoron1954.28.79 "松本 俊吉『「創発性」について』(pp. 79-85)in 科学基礎論研究 vol. 28 no. 2(2001)"
+[matsumoto]: http://doi.org/10.4288/kisoron1954.28.79 "松本 俊吉『「創発性」について』(pp. 79-85)in 科学基礎論研究 vol. 28 no. 2(2001)"
 
 [platon]: https://scholar.google.co.jp/scholar?q=Plátōn,ソピステス "Plátōn『ソピステス』(pp. 153-154)in プラトン全集(1976)(岩波書店)"
 
 [platon-e]: http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e "Plato『Sophist』"
 
-[sapir]: http://dx.doi.org/10.2307/409588 "Edward Sapir『The Status of Linguistics as a Science』(pp. 207-214)in Language vol. 5 no. 4(1929)(Linguistic Society of America)"
+[sapir]: http://doi.org/10.2307/409588 "Edward Sapir『The Status of Linguistics as a Science』(pp. 207-214)in Language vol. 5 no. 4(1929)(Linguistic Society of America)"
 
 [whorf]: https://scholar.google.co.jp/scholar?q=BenjaminLeeWhorf,ScienceandLinguistics "Benjamin Lee Whorf『Science and Linguistics』in MIT Technology Review vol. 42(1940)"
 
@@ -90,7 +90,7 @@
 
 [young-j]: http://amazon.jp/dp/4484881047 "James W. Young『アイデアのつくり方』(1960)"
 
-[iba]: http://dx.doi.org/10.1016/j.sbspro.2010.04.071 "井庭 崇『An Autopoietic Systems Theory for Creativity』(pp. 6610-6625)in Procedia - Social and Behavioral Sciences vol. 2 no. 4(2010)"
+[iba]: http://doi.org/10.1016/j.sbspro.2010.04.071 "井庭 崇『An Autopoietic Systems Theory for Creativity』(pp. 6610-6625)in Procedia - Social and Behavioral Sciences vol. 2 no. 4(2010)"
 
 [iba-j]: http://web.sfc.keio.ac.jp/~iba/papers/2010JAFEE-iba.pdf "井庭 崇『創造システム理論の構想』(2010)"
 
