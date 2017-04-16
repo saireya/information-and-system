@@ -42,7 +42,7 @@
 
 [shannon]: http://dx.doi.org/10.1002/j.1538-7305.1948.tb01338.x "Claude Elwood Shannon『A Mathematical Theory of Communication』(pp. 379-423)in The Bell System Technical Journal vol. 27 no. 3(1948)"
 
-[usui]: http://ci.nii.ac.jp/naid/110000032320 "碓井 菘『パーソンズ・ルーマン・ハバーマスの象徴的メディア論註解 : 社会システムにおける集権化と分権化(その4)』(pp. 27-43)in 金沢大学文学部論集. 行動科学・哲学篇 vol. 21(2001/mar)(金沢大学)"
+[usui]: http://hdl.handle.net/2297/935 "碓井 菘『パーソンズ・ルーマン・ハバーマスの象徴的メディア論註解 : 社会システムにおける集権化と分権化(その4)』(pp. 27-43)in 金沢大学文学部論集. 行動科学・哲学篇 vol. 21(2001/mar)(金沢大学)"
 
 [iris1]: https://commons.wikimedia.org/wiki/File:Acorus_calamus_002.JPG "H. Zell『File:Acorus calamus 002.JPG』"
 
