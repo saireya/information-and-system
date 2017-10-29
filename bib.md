@@ -90,6 +90,8 @@
 
 [young-j]: http://amazon.jp/dp/4484881047 "James W. Young『アイデアのつくり方』(1960)"
 
+[schumpeter]: http://amazon.jp/dp/4003414713 "Joseph Alois Schumpeter『経済発展の理論――企業者利潤・資本・信用・利子および景気の回転に関する一研究(上)』(1977)(岩波書店)"
+
 [iba]: http://doi.org/10.1016/j.sbspro.2010.04.071 "井庭 崇『An Autopoietic Systems Theory for Creativity』(pp. 6610-6625)in Procedia - Social and Behavioral Sciences vol. 2 no. 4(2010)"
 
 [iba-j]: http://web.sfc.keio.ac.jp/~iba/papers/2010JAFEE-iba.pdf "井庭 崇『創造システム理論の構想』(2010)"
