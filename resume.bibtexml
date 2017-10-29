@@ -346,16 +346,13 @@
 	<url>https://archive.org/details/minditsplaceinna00broa</url>
 </book></entry>
 
-<entry id="matsumoto"><article>
-	<author>松本 俊吉</author>
-	<title>「創発性」について</title>
-	<journal>科学基礎論研究</journal>
-	<year>2001</year>
-	<volume>28</volume>
-	<number>2</number>
-	<pages>79-85</pages>
-	<doi>10.4288/kisoron1954.28.79</doi>
-</article></entry>
+<entry id="maraterre"><book>
+	<author>Christophe Malaterre</author>
+	<title>生命起源論の科学哲学――創発か、還元的説明か</title>
+	<publisher>みすず書房</publisher>
+	<year>2013</year>
+	<isbn>4622077426</isbn>
+</book></entry>
 
 <entry id="platon"><incollection>
 	<author>Plátōn</author>

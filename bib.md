@@ -72,7 +72,7 @@
 
 [broad]: https://archive.org/details/minditsplaceinna00broa "Charlie Dunbar Broad『The Mind and Its Place in Nature』(pp. 59-61)(1925)(Harcourt, Brace \& Company, Inc.)"
 
-[matsumoto]: http://doi.org/10.4288/kisoron1954.28.79 "松本 俊吉『「創発性」について』(pp. 79-85)in 科学基礎論研究 vol. 28 no. 2(2001)"
+[maraterre]: http://amazon.jp/dp/4622077426 "Christophe Malaterre『生命起源論の科学哲学――創発か、還元的説明か』(2013)(みすず書房)"
 
 [platon]: https://scholar.google.co.jp/scholar?q=Plátōn,ソピステス "Plátōn『ソピステス』(pp. 153-154)in プラトン全集(1976)(岩波書店)"
 
