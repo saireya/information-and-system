@@ -110,6 +110,12 @@
 
 [law-copyright]: http://law.e-gov.go.jp/htmldata/S45/S45HO048.html "『著作権法』(1970)"
 
+[gibson]: http://amazon.jp/dp/4781903932 "James Jerome Gibson『生態学的視覚論――ヒトの知覚世界を探る』(pp. 137-138, 150-151)(1986)(サイエンス社)"
+
+[norman]: http://amazon.jp/dp/0465050654 "Donald Arthur Norman『The Design of Everyday Things』(2014)(The MIT Press)"
+
+[norman-j]: http://amazon.jp/dp/4788514346 "Donald Arthur Norman『誰のためのデザイン？――認知科学者のデザイン原論』(2015)(新曜社)"
+
 [kougo]: http://amazon.jp/dp/4774174610 "向後 千春『上手な教え方の教科書――入門インストラクショナルデザイン』(2015)(技術評論社)"
 
 [user-male]: https://openclipart.org/detail/4749 "acspike『Clipart - male user icon』"
