@@ -505,6 +505,31 @@
 	<url>http://law.e-gov.go.jp/htmldata/S45/S45HO048.html</url>
 </misc></entry>
 
+<entry id="gibson"><book>
+	<author>James Jerome Gibson</author>
+	<title>生態学的視覚論――ヒトの知覚世界を探る</title>
+	<publisher>サイエンス社</publisher>
+	<year>1986</year>
+	<isbn>4781903932</isbn>
+	<pages>137-138, 150-151</pages>
+</book></entry>
+
+<entry id="norman"><book>
+	<author>Donald Arthur Norman</author>
+	<title>The Design of Everyday Things</title>
+	<publisher>The MIT Press</publisher>
+	<year>2014</year>
+	<isbn>0465050654</isbn>
+</book></entry>
+
+<entry id="norman-j"><book>
+	<author>Donald Arthur Norman</author>
+	<title>誰のためのデザイン？――認知科学者のデザイン原論</title>
+	<publisher>新曜社</publisher>
+	<year>2015</year>
+	<isbn>4788514346</isbn>
+</book></entry>
+
 <entry id="kougo"><book>
 	<author>向後 千春</author>
 	<title>上手な教え方の教科書――入門インストラクショナルデザイン</title>
