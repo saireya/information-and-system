@@ -35,7 +35,7 @@ em
 	font-style: normal;
 }
 
-strong
+strong, strong > dfn
 {
 	color: #800000;
 	background-color: #ffefef;
