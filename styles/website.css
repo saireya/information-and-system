@@ -48,6 +48,14 @@ dfn
 	font-style: normal;
 }
 
+/* quote */
+q
+{
+	quotes: "「" "」" "『" "』";
+}
+q:before { content:  open-quote; }
+q:after  { content: close-quote; }
+
 /* table */
 table > tr:first-child
 {
