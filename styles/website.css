@@ -7,6 +7,18 @@ body
 	font-size:14px;
 	letter-spacing:.2px;
 	text-size-adjust:100%;
+	/* 縦書きの場合 */
+	/* 行間を横書きの場合より広げる */
+	/*
+	writing-mode: vertical-rl;
+	-epub-writing-mode: vertical-rl;
+	line-height: 1.75;
+	*/
+}
+
+h1, h2, h3, h4, h5, h6, strong, em, dfn, b, th, figcaption
+{
+	font-family: sans-serif;
 }
 
 /* indenting first line */
@@ -18,12 +30,31 @@ p
 /* emphasizing */
 em
 {
-	color: navy;
+	color: #000080;
 	background-color: #efefff;
+	font-style: normal;
 }
 
 strong
 {
-	color: crimson;
+	color: #800000;
 	background-color: #ffefef;
+}
+
+dfn
+{
+	color: #008000;
+	background-color: #efffef;
+	font-style: normal;
+}
+
+/* table */
+table > tr:first-child
+{
+	border-bottom: 1px solid #d8d8d8;
+}
+table > tr:nth-child(even)
+{
+	color: #000033;
+	background-color: #ffffcc;
 }
