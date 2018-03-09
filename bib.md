@@ -35,7 +35,7 @@
 [aristotle-e2]: http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:8.1045a "Aristotle『Metaphysics』"
 [aristotle-j]: http://amazon.jp/dp/4061591169 "Aristotle『形而上学』(1994)(講談社)"
 [broad]: https://archive.org/details/minditsplaceinna00broa "Charlie Dunbar Broad『The Mind and Its Place in Nature』(pp. 59-61)(1925)(Harcourt, Brace \& Company, Inc.)"
-[maraterre]: http://amazon.jp/dp/4622077426 "Christophe Malaterre『生命起源論の科学哲学――創発か、還元的説明か』(2013)(みすず書房)"
+[malaterre]: http://amazon.jp/dp/4622077426 "Christophe Malaterre『生命起源論の科学哲学――創発か、還元的説明か』(2013)(みすず書房)"
 [platon]: https://scholar.google.co.jp/scholar?q=Plátōn,ソピステス "Plátōn『ソピステス』(pp. 153-154)in プラトン全集(1976)(岩波書店)"
 [platon-e]: http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e "Plato『Sophist』"
 [sapir]: http://doi.org/10.2307/409588 "Edward Sapir『The Status of Linguistics as a Science』(pp. 207-214)in Language vol. 5 no. 4(1929)(Linguistic Society of America)"
