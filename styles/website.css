@@ -1,5 +1,4 @@
-body
-{
+body {
 	/* for speed-up */
 	text-rendering:auto;
 	font-smoothing:none;
@@ -16,53 +15,45 @@ body
 	*/
 }
 
-h1, h2, h3, h4, h5, h6, strong, em, dfn, b, th, figcaption
-{
+h1, h2, h3, h4, h5, h6, strong, em, dfn, b, th, figcaption {
 	font-family: sans-serif;
 }
 
 /* indenting first line */
-p
-{
+p {
 	text-indent: 1em;
 }
 
 /* emphasizing */
-em
-{
+em {
 	color: hsl(240, 100%, 25%);
 	background-color: hsl(240, 100%, 95%);
 	font-style: normal;
 }
 
-strong
-{
+strong {
 	color: hsl(0, 100%, 25%);
 	background-color: hsl(0, 100%, 95%);
 }
 
-dfn
-{
+dfn {
 	color: hsl(120, 100%, 25%);
 	background-color: hsl(120, 100%, 95%);
 	font-style: normal;
 }
 
 /* quote */
-q
-{
+q {
 	quotes: "「" "」" "『" "』";
 }
 q:before { content:  open-quote; }
 q:after  { content: close-quote; }
 
 /* table */
-table > tr:first-child
-{
+table > tr:first-child {
 	border-bottom: 1px solid #d8d8d8;
 }
-table > tr:nth-child(even)
-{
+table > tr:nth-child(even) {
 	color: #000033;
 	background-color: #ffffcc;
 }
