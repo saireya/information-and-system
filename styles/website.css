@@ -30,21 +30,21 @@ p
 /* emphasizing */
 em
 {
-	color: #000080;
-	background-color: #efefff;
+	color: hsl(240, 100%, 25%);
+	background-color: hsl(240, 100%, 95%);
 	font-style: normal;
 }
 
-strong, strong > dfn
+strong
 {
-	color: #800000;
-	background-color: #ffefef;
+	color: hsl(0, 100%, 25%);
+	background-color: hsl(0, 100%, 95%);
 }
 
 dfn
 {
-	color: #008000;
-	background-color: #efffef;
+	color: hsl(120, 100%, 25%);
+	background-color: hsl(120, 100%, 95%);
 	font-style: normal;
 }
 
