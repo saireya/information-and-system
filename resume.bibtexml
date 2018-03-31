@@ -39,6 +39,20 @@
 	<pages>70-74</pages>
 </book></entry>
 
+<entry id="scj"><misc>
+	<author>日本学術会議</author>
+	<title>大学教育の分野別質保証のための教育課程編成上の参照基準 情報学分野</title>
+	<url>http://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-23-h160323-2.pdf</url>
+	<year>2016</year>
+</misc></entry>
+
+<entry id="mext"><misc>
+	<author>文部科学省</author>
+	<title>高等学校学習指導要領</title>
+	<url>http://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2018/03/29/1384661_6_1.pdf</url>
+	<year>2018</year>
+</misc></entry>
+
 <entry id="machlup"><book>
 	<author>Fritz Machlup</author>
 	<title>知識産業</title>
