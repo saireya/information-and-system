@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.2" width="195.51mm" height="140.51mm" viewBox="475 475 19551 14051" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+<!DOCTYPE svg>
+<svg version="1.1" width="195.51mm" height="140.51mm" viewBox="475 475 19551 14051" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
  <defs class="ClipPathGroup">
   <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
    <rect x="475" y="475" width="19551" height="14051"/>
@@ -131,34 +131,34 @@
   </font>
  </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13"/>
+  <g/>
  </defs>
  <defs class="EmbeddedBulletChars">
-  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
   </g>
-  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-57354" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
   </g>
-  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-10146" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
   </g>
-  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-10132" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
   </g>
-  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-10007" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
   </g>
-  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-10004" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
   </g>
-  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-9679" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
   </g>
-  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-8226" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
   </g>
-  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+  <g id="bullet-char-template-8211" transform="scale(0.00048828125,-0.00048828125)">
    <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
   </g>
  </defs>
@@ -180,29 +180,29 @@
         <path style="fill:url(#gradient1)" d="M 3749,11000 L 4089,11009 4418,11035 4733,11076 5034,11134 5319,11206 5587,11292 5836,11391 6065,11503 6272,11626 6456,11760 6616,11905 6750,12058 6857,12220 6935,12390 6963,12478 6983,12567 6995,12658 6999,12750 6995,12842 6983,12933 6963,13022 6935,13110 6857,13280 6750,13442 6616,13595 6456,13740 6272,13874 6065,13997 5836,14109 5587,14208 5319,14294 5034,14366 4733,14424 4418,14465 4089,14491 3749,14500 3409,14491 3081,14465 2765,14424 2464,14366 2179,14294 1912,14208 1663,14109 1434,13997 1227,13874 1042,13740 883,13595 749,13442 642,13280 564,13110 536,13022 516,12933 504,12842 500,12750 504,12658 516,12567 536,12478 564,12390 642,12220 749,12058 883,11905 1042,11760 1227,11626 1434,11503 1663,11391 1912,11292 2179,11206 2464,11134 2765,11076 3081,11035 3409,11009 3749,11000 Z"/>
        </g>
        <path fill="none" stroke="rgb(0,0,127)" stroke-width="50" stroke-linejoin="round" d="M 3749,11000 C 5591,11000 6999,11758 6999,12750 6999,13742 5591,14500 3749,14500 1907,14500 500,13742 500,12750 500,11758 1907,11000 3749,11000 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="2205" y="11780"><tspan fill="rgb(0,0,127)" stroke="none">Information</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="12181"><tspan id="id14.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="12267"><tspan fill="rgb(0,0,127)" stroke="none">生命情報</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="12647"><tspan id="id15.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="12733"><tspan fill="rgb(0,0,127)" stroke="none">社会情報</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="13113"><tspan id="id16.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="13199"><tspan fill="rgb(0,0,127)" stroke="none">機械情報</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="13579"><tspan id="id17.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="13665"><tspan fill="rgb(0,0,127)" stroke="none">意味</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,127)" stroke="none">, </tspan><tspan fill="rgb(0,0,127)" stroke="none">価値</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="14045"><tspan id="id18.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="14131"><tspan fill="rgb(0,0,127)" stroke="none">主観性</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="2205" y="11780"><tspan fill="rgb(0,0,127)" stroke="none">Information</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="12181"><tspan id="id14.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="12267"><tspan fill="rgb(0,0,127)" stroke="none">生命情報</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="12647"><tspan id="id15.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="12733"><tspan fill="rgb(0,0,127)" stroke="none">社会情報</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="13113"><tspan id="id16.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="13199"><tspan fill="rgb(0,0,127)" stroke="none">機械情報</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="13579"><tspan id="id17.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="13665"><tspan fill="rgb(0,0,127)" stroke="none">意味</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(0,0,127)" stroke="none">, </tspan><tspan fill="rgb(0,0,127)" stroke="none">価値</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="14045"><tspan id="id18.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="14131"><tspan fill="rgb(0,0,127)" stroke="none">主観性</tspan></tspan></tspan></text>
        <g class="BulletChars">
-        <g id="bullet-char(id14.bp)" class="BulletChar">
+        <g id="bullet-char-id14.bp" class="BulletChar">
          <g transform="translate(1701,12181)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id15.bp)" class="BulletChar">
+        <g id="bullet-char-id15.bp" class="BulletChar">
          <g transform="translate(1701,12647)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id16.bp)" class="BulletChar">
+        <g id="bullet-char-id16.bp" class="BulletChar">
          <g transform="translate(1701,13113)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id17.bp)" class="BulletChar">
+        <g id="bullet-char-id17.bp" class="BulletChar">
          <g transform="translate(1701,13579)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id18.bp)" class="BulletChar">
+        <g id="bullet-char-id18.bp" class="BulletChar">
          <g transform="translate(1701,14045)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
@@ -223,29 +223,29 @@
         <path style="fill:url(#gradient2)" d="M 10249,7500 L 10589,7509 10918,7535 11233,7576 11534,7634 11819,7706 12087,7792 12336,7891 12565,8003 12772,8126 12956,8260 13116,8405 13250,8558 13357,8720 13435,8890 13463,8978 13483,9067 13495,9158 13499,9250 13495,9342 13483,9433 13463,9522 13435,9610 13357,9780 13250,9942 13116,10095 12956,10240 12772,10374 12565,10497 12336,10609 12087,10708 11819,10794 11534,10866 11233,10924 10918,10965 10589,10991 10249,11000 9909,10991 9581,10965 9265,10924 8964,10866 8679,10794 8412,10708 8163,10609 7934,10497 7727,10374 7542,10240 7383,10095 7249,9942 7142,9780 7064,9610 7036,9522 7016,9433 7004,9342 7000,9250 7004,9158 7016,9067 7036,8978 7064,8890 7142,8720 7249,8558 7383,8405 7542,8260 7727,8126 7934,8003 8163,7891 8412,7792 8679,7706 8964,7634 9265,7576 9581,7535 9909,7509 10249,7500 Z"/>
        </g>
        <path fill="none" stroke="rgb(0,127,0)" stroke-width="50" stroke-linejoin="round" d="M 10249,7500 C 12091,7500 13499,8258 13499,9250 13499,10242 12091,11000 10249,11000 8407,11000 7000,10242 7000,9250 7000,8258 8407,7500 10249,7500 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="8127" y="8280"><tspan fill="rgb(0,127,0)" stroke="none">Communication</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="8681"><tspan id="id19.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="8767"><tspan fill="rgb(0,127,0)" stroke="none">情報の選択</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="9147"><tspan id="id20.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="9233"><tspan fill="rgb(0,127,0)" stroke="none">表現の選択</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="9613"><tspan id="id21.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="9699"><tspan fill="rgb(0,127,0)" stroke="none">理解の選択</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="10079"><tspan id="id22.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="10165"><tspan fill="rgb(0,127,0)" stroke="none">理解の受容の選択</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="10545"><tspan id="id23.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="10631"><tspan fill="rgb(0,127,0)" stroke="none">意図</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="8127" y="8280"><tspan fill="rgb(0,127,0)" stroke="none">Communication</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="8681"><tspan id="id19.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="8767"><tspan fill="rgb(0,127,0)" stroke="none">情報の選択</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="9147"><tspan id="id20.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="9233"><tspan fill="rgb(0,127,0)" stroke="none">表現の選択</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="9613"><tspan id="id21.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="9699"><tspan fill="rgb(0,127,0)" stroke="none">理解の選択</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="10079"><tspan id="id22.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="10165"><tspan fill="rgb(0,127,0)" stroke="none">理解の受容の選択</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8127" y="10545"><tspan id="id23.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8232" y="10631"><tspan fill="rgb(0,127,0)" stroke="none">意図</tspan></tspan></tspan></text>
        <g class="BulletChars">
-        <g id="bullet-char(id19.bp)" class="BulletChar">
+        <g id="bullet-char-id19.bp" class="BulletChar">
          <g transform="translate(8127,8681)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id20.bp)" class="BulletChar">
+        <g id="bullet-char-id20.bp" class="BulletChar">
          <g transform="translate(8127,9147)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id21.bp)" class="BulletChar">
+        <g id="bullet-char-id21.bp" class="BulletChar">
          <g transform="translate(8127,9613)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id22.bp)" class="BulletChar">
+        <g id="bullet-char-id22.bp" class="BulletChar">
          <g transform="translate(8127,10079)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id23.bp)" class="BulletChar">
+        <g id="bullet-char-id23.bp" class="BulletChar">
          <g transform="translate(8127,10545)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
@@ -266,24 +266,24 @@
         <path style="fill:url(#gradient3)" d="M 3749,4000 L 4089,4009 4418,4035 4733,4076 5034,4134 5319,4206 5587,4292 5836,4391 6065,4503 6272,4626 6456,4760 6616,4905 6750,5058 6857,5220 6935,5390 6963,5478 6983,5567 6995,5658 6999,5750 6995,5842 6983,5933 6963,6022 6935,6110 6857,6280 6750,6442 6616,6595 6456,6740 6272,6874 6065,6997 5836,7109 5587,7208 5319,7294 5034,7366 4733,7424 4418,7465 4089,7491 3749,7500 3409,7491 3081,7465 2765,7424 2464,7366 2179,7294 1912,7208 1663,7109 1434,6997 1227,6874 1042,6740 883,6595 749,6442 642,6280 564,6110 536,6022 516,5933 504,5842 500,5750 504,5658 516,5567 536,5478 564,5390 642,5220 749,5058 883,4905 1042,4760 1227,4626 1434,4503 1663,4391 1912,4292 2179,4206 2464,4134 2765,4076 3081,4035 3409,4009 3749,4000 Z"/>
        </g>
        <path fill="none" stroke="rgb(0,127,0)" stroke-width="50" stroke-linejoin="round" d="M 3749,4000 C 5591,4000 6999,4758 6999,5750 6999,6742 5591,7500 3749,7500 1907,7500 500,6742 500,5750 500,4758 1907,4000 3749,4000 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="2952" y="5013"><tspan fill="rgb(0,127,0)" stroke="none">Media</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="5414"><tspan id="id24.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="5500"><tspan fill="rgb(0,127,0)" stroke="none">伝播メディア</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="5880"><tspan id="id25.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="5966"><tspan fill="rgb(0,127,0)" stroke="none">成果メディア</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="6346"><tspan id="id26.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="6432"><tspan fill="rgb(0,127,0)" stroke="none">文化</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="6812"><tspan id="id27.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="6898"><tspan fill="rgb(0,127,0)" stroke="none">現実イメージ</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="2952" y="5013"><tspan fill="rgb(0,127,0)" stroke="none">Media</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="5414"><tspan id="id24.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="5500"><tspan fill="rgb(0,127,0)" stroke="none">伝播メディア</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="5880"><tspan id="id25.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="5966"><tspan fill="rgb(0,127,0)" stroke="none">成果メディア</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="6346"><tspan id="id26.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="6432"><tspan fill="rgb(0,127,0)" stroke="none">文化</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="1701" y="6812"><tspan id="id27.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="1806" y="6898"><tspan fill="rgb(0,127,0)" stroke="none">現実イメージ</tspan></tspan></tspan></text>
        <g class="BulletChars">
-        <g id="bullet-char(id24.bp)" class="BulletChar">
+        <g id="bullet-char-id24.bp" class="BulletChar">
          <g transform="translate(1701,5414)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id25.bp)" class="BulletChar">
+        <g id="bullet-char-id25.bp" class="BulletChar">
          <g transform="translate(1701,5880)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id26.bp)" class="BulletChar">
+        <g id="bullet-char-id26.bp" class="BulletChar">
          <g transform="translate(1701,6346)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id27.bp)" class="BulletChar">
+        <g id="bullet-char-id27.bp" class="BulletChar">
          <g transform="translate(1701,6812)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
@@ -304,29 +304,29 @@
         <path style="fill:url(#gradient4)" d="M 16749,4000 L 17089,4009 17418,4035 17733,4076 18034,4134 18319,4206 18587,4292 18836,4391 19065,4503 19272,4626 19456,4760 19616,4905 19750,5058 19857,5220 19935,5390 19963,5478 19983,5567 19995,5658 19999,5750 19995,5842 19983,5933 19963,6022 19935,6110 19857,6280 19750,6442 19616,6595 19456,6740 19272,6874 19065,6997 18836,7109 18587,7208 18319,7294 18034,7366 17733,7424 17418,7465 17089,7491 16749,7500 16409,7491 16081,7465 15765,7424 15464,7366 15179,7294 14912,7208 14663,7109 14434,6997 14227,6874 14042,6740 13883,6595 13749,6442 13642,6280 13564,6110 13536,6022 13516,5933 13504,5842 13500,5750 13504,5658 13516,5567 13536,5478 13564,5390 13642,5220 13749,5058 13883,4905 14042,4760 14227,4626 14434,4503 14663,4391 14912,4292 15179,4206 15464,4134 15765,4076 16081,4035 16409,4009 16749,4000 Z"/>
        </g>
        <path fill="none" stroke="rgb(255,127,0)" stroke-width="50" stroke-linejoin="round" d="M 16749,4000 C 18591,4000 19999,4758 19999,5750 19999,6742 18591,7500 16749,7500 14907,7500 13500,6742 13500,5750 13500,4758 14907,4000 16749,4000 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="15749" y="4780"><tspan fill="rgb(223,111,0)" stroke="none">System</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="5181"><tspan id="id28.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="5267"><tspan fill="rgb(223,111,0)" stroke="none">心理システム</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="5647"><tspan id="id29.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="5733"><tspan fill="rgb(223,111,0)" stroke="none">社会システム</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="6113"><tspan id="id30.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="6199"><tspan fill="rgb(223,111,0)" stroke="none">閉鎖系</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(223,111,0)" stroke="none">, </tspan><tspan fill="rgb(223,111,0)" stroke="none">半閉鎖系</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(223,111,0)" stroke="none">, </tspan><tspan fill="rgb(223,111,0)" stroke="none">開放系</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="6579"><tspan id="id31.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="6665"><tspan font-family="VL Pゴシック" fill="rgb(223,111,0)" stroke="none">構造</tspan><tspan fill="rgb(223,111,0)" stroke="none">, autopoiesis</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="7045"><tspan id="id32.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="7131"><tspan fill="rgb(223,111,0)" stroke="none">環境</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="15749" y="4780"><tspan fill="rgb(223,111,0)" stroke="none">System</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="5181"><tspan id="id28.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="5267"><tspan fill="rgb(223,111,0)" stroke="none">心理システム</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="5647"><tspan id="id29.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="5733"><tspan fill="rgb(223,111,0)" stroke="none">社会システム</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="6113"><tspan id="id30.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="6199"><tspan fill="rgb(223,111,0)" stroke="none">閉鎖系</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(223,111,0)" stroke="none">, </tspan><tspan fill="rgb(223,111,0)" stroke="none">半閉鎖系</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(223,111,0)" stroke="none">, </tspan><tspan fill="rgb(223,111,0)" stroke="none">開放系</tspan></tspan></tspan><tspan class="ListItem" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="6579"><tspan id="id31.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="6665"><tspan font-family="VL Pゴシック" fill="rgb(223,111,0)" stroke="none">構造</tspan><tspan fill="rgb(223,111,0)" stroke="none">, autopoiesis</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14653" y="7045"><tspan id="id32.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="14758" y="7131"><tspan fill="rgb(223,111,0)" stroke="none">環境</tspan></tspan></tspan></text>
        <g class="BulletChars">
-        <g id="bullet-char(id28.bp)" class="BulletChar">
+        <g id="bullet-char-id28.bp" class="BulletChar">
          <g transform="translate(14653,5181)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id29.bp)" class="BulletChar">
+        <g id="bullet-char-id29.bp" class="BulletChar">
          <g transform="translate(14653,5647)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id30.bp)" class="BulletChar">
+        <g id="bullet-char-id30.bp" class="BulletChar">
          <g transform="translate(14653,6113)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id31.bp)" class="BulletChar">
+        <g id="bullet-char-id31.bp" class="BulletChar">
          <g transform="translate(14653,6579)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id32.bp)" class="BulletChar">
+        <g id="bullet-char-id32.bp" class="BulletChar">
          <g transform="translate(14653,7045)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
@@ -347,29 +347,29 @@
         <path style="fill:url(#gradient5)" d="M 10249,500 L 10589,509 10918,535 11233,576 11534,634 11819,706 12087,792 12336,891 12565,1003 12772,1126 12956,1260 13116,1405 13250,1558 13357,1720 13435,1890 13463,1978 13483,2067 13495,2158 13499,2250 13495,2342 13483,2433 13463,2522 13435,2610 13357,2780 13250,2942 13116,3095 12956,3240 12772,3374 12565,3497 12336,3609 12087,3708 11819,3794 11534,3866 11233,3924 10918,3965 10589,3991 10249,4000 9909,3991 9581,3965 9265,3924 8964,3866 8679,3794 8412,3708 8163,3609 7934,3497 7727,3374 7542,3240 7383,3095 7249,2942 7142,2780 7064,2610 7036,2522 7016,2433 7004,2342 7000,2250 7004,2158 7016,2067 7036,1978 7064,1890 7142,1720 7249,1558 7383,1405 7542,1260 7727,1126 7934,1003 8163,891 8412,792 8679,706 8964,634 9265,576 9581,535 9909,509 10249,500 Z"/>
        </g>
        <path fill="none" stroke="rgb(255,0,127)" stroke-width="50" stroke-linejoin="round" d="M 10249,500 C 12091,500 13499,1258 13499,2250 13499,3242 12091,4000 10249,4000 8407,4000 7000,3242 7000,2250 7000,1258 8407,500 10249,500 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="8578" y="1280"><tspan fill="rgb(255,0,127)" stroke="none">Inter-system</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="1681"><tspan id="id33.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="1767"><tspan fill="rgb(255,0,127)" stroke="none">意図</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="2147"><tspan id="id34.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="2233"><tspan fill="rgb(255,0,127)" stroke="none">介入</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="2613"><tspan id="id35.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="2699"><tspan fill="rgb(255,0,127)" stroke="none">個性</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(255,0,127)" stroke="none">, </tspan><tspan fill="rgb(255,0,127)" stroke="none">創発</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(255,0,127)" stroke="none">, </tspan><tspan fill="rgb(255,0,127)" stroke="none">知的財産</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="3079"><tspan id="id36.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="3165"><tspan fill="rgb(255,0,127)" stroke="none">機能的分化</tspan></tspan></tspan><tspan ooo:numbering-type="bullet-style" class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="3545"><tspan id="id37.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="3631"><tspan fill="rgb(255,0,127)" stroke="none">包摂と排除</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="564px" font-weight="700" text-decoration="underline"><tspan class="TextPosition" x="8578" y="1280"><tspan fill="rgb(255,0,127)" stroke="none">Inter-system</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="1681"><tspan id="id33.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="1767"><tspan fill="rgb(255,0,127)" stroke="none">意図</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="2147"><tspan id="id34.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="2233"><tspan fill="rgb(255,0,127)" stroke="none">介入</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="2613"><tspan id="id35.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="2699"><tspan fill="rgb(255,0,127)" stroke="none">個性</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(255,0,127)" stroke="none">, </tspan><tspan fill="rgb(255,0,127)" stroke="none">創発</tspan><tspan font-family="Liberation Sans, sans-serif" fill="rgb(255,0,127)" stroke="none">, </tspan><tspan fill="rgb(255,0,127)" stroke="none">知的財産</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="3079"><tspan id="id36.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="3165"><tspan fill="rgb(255,0,127)" stroke="none">機能的分化</tspan></tspan></tspan><tspan class="ListItem" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8201" y="3545"><tspan id="id37.bp" class="BulletPlaceholder"/></tspan><tspan class="TextPosition" x="8306" y="3631"><tspan fill="rgb(255,0,127)" stroke="none">包摂と排除</tspan></tspan></tspan></text>
        <g class="BulletChars">
-        <g id="bullet-char(id33.bp)" class="BulletChar">
+        <g id="bullet-char-id33.bp" class="BulletChar">
          <g transform="translate(8201,1681)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id34.bp)" class="BulletChar">
+        <g id="bullet-char-id34.bp" class="BulletChar">
          <g transform="translate(8201,2147)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id35.bp)" class="BulletChar">
+        <g id="bullet-char-id35.bp" class="BulletChar">
          <g transform="translate(8201,2613)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id36.bp)" class="BulletChar">
+        <g id="bullet-char-id36.bp" class="BulletChar">
          <g transform="translate(8201,3079)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
         </g>
-        <g id="bullet-char(id37.bp)" class="BulletChar">
+        <g id="bullet-char-id37.bp" class="BulletChar">
          <g transform="translate(8201,3545)" fill="rgb(0,0,0)" stroke="none">
           <use transform="scale(166,166)" xlink:href="#bullet-char-template(9679)"/>
          </g>
