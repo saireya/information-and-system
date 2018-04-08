@@ -558,6 +558,35 @@
 	<isbn>4774174610</isbn>
 </book></entry>
 
+<entry id="appel-haken1"><article>
+	<author>
+		<person>Kenneth Appel</person>
+		<person>Wolfgang Haken</person>
+	</author>
+	<title>Every planar map is four colorable. Part I: Discharging</title>
+	<journal>Illinois Journal of Mathematics</journal>
+	<year>1977</year>
+	<volume>21</volume>
+	<number>3</number>
+	<pages>429-490</pages>
+	<url>https://projecteuclid.org:443/euclid.ijm/1256049011</url>
+</article></entry>
+
+<entry id="appel-haken2"><article>
+	<author>
+		<person>Kenneth Appel</person>
+		<person>Wolfgang Haken</person>
+		<person>John Koch</person>
+	</author>
+	<title>Every planar map is four colorable. Part II: Reducibility</title>
+	<journal>Illinois Journal of Mathematics</journal>
+	<year>1977</year>
+	<volume>21</volume>
+	<number>3</number>
+	<pages>491-567</pages>
+	<url>https://projecteuclid.org/euclid.ijm/1256049012</url>
+</article></entry>
+
 <entry id="user-male"><misc>
 	<author>acspike</author>
 	<title>Clipart - male user icon</title>
