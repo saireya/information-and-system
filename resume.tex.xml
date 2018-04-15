@@ -751,8 +751,10 @@ Plátōnが<q>魂の内において音声を伴わずに、魂自身を相手に
 
 <s h="問題解決">
 <p>システムによる創発をより実践的に行うのが、問題解決の過程である。
-Simon<cite id="simon2"/>によれば、<dfn en="problem">問題</dfn>は、<dfn strong="0" en="desired state">理想的な状態</dfn>と<dfn strong="0" en="existing state">現在の状態</dfn>の間に<em>差</em>があることである。
-従って<dfn en="problem solving">問題解決</dfn>とは、<em>現在の状態から理想的な状態に至る道を見つける</em>ことであり、この道を問題の<dfn en="solution">解</dfn>という。</p>
+Simon<cite id="simon2"/>によれば、<dfn en="problem">問題</dfn>は、<dfn strong="0" en="To-Be">理想的な状態</dfn>と<dfn strong="0" en="As-Is">現在の状態</dfn>の間に<em>差</em>があることである。
+従って<dfn en="problem solving">問題解決</dfn>とは、<em>現在の状態から理想的な状態に至る道を見つける</em>ことであり、この道を問題の<dfn en="solution">解</dfn>という。
+図<r n="fig:problem"/>に、問題とその解の関係を示す。</p>
+<img src="problem.svg" title="問題の定義と解" scale=".5" n="fig:problem"/>
 <p>問題に対する解は一つしか存在しないとは限らず、複数存在することもある。
 そのうち一つでも解を発見することができれば問題解決は達成されるが、簡単に見つかる解は実行に非常に長い時間を要したり、膨大な資本が必要となったり、実現が困難であることが多い。
 多数ある解のうち、より効果的で実現可能な解を見つけることが重要となる。</p>
