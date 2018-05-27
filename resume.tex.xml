@@ -990,7 +990,7 @@ $P, Q$が集合のとき、「$P$は$Q$である」という命題は「$x$が$P
 <p>図<r n="fig:logic-inference"/>に、これら3種の推論方法を比較した図を示す。
 図中の矢印は命題を表し、「$A ⇒ B$」は前提、「$B ⇒ C$」は規則、「$A ⇒ C$」は結論である。
 また、それぞれの推論法で与えられている命題を実線で、推論により示される命題を点線で示す。</p>
-<img src="logic-inference.svg" title="推論の方法" n="fig:logic-inference" scale=".6"/>
+<img src="logic-inference.svg" title="推論の方法" n="fig:logic-inference" scale=".65"/>
 <s h="演繹">
 <p><dfn en="deduction"><ruby r="えんえき">演繹</ruby></dfn>では、「ソクラテスは人である」という前提と、「人は死ぬ」という規則が与えられたときに、「ソクラテスは死ぬ」という<em>結論が真だと推論</em>する。
 「$A ⇒ B, B ⇒ C$」のとき「$A ⇒ C$」が成り立つという<dfn strong="0">三段論法</dfn>は、演繹による代表的な推論法である。</p>
