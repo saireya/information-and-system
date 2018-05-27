@@ -61,7 +61,7 @@
 [norman]: http://amazon.jp/dp/0465050654 "Donald Arthur Norman『The Design of Everyday Things』(2014)(The MIT Press)"
 [norman-j]: http://amazon.jp/dp/4788514346 "Donald Arthur Norman『誰のためのデザイン？――認知科学者のデザイン原論』(2015)(新曜社)"
 [kougo]: http://amazon.jp/dp/4774174610 "向後 千春『上手な教え方の教科書――入門インストラクショナルデザイン』(2015)(技術評論社)"
-[appel-haken1]: https://projecteuclid.org:443/euclid.ijm/1256049011 "Kenneth Appel, Wolfgang Haken, 『Every planar map is four colorable. Part I: Discharging』(pp. 429-490)in Illinois Journal of Mathematics vol. 21 no. 3(1977)"
+[appel-haken1]: https://projecteuclid.org/euclid.ijm/1256049011 "Kenneth Appel, Wolfgang Haken, 『Every planar map is four colorable. Part I: Discharging』(pp. 429-490)in Illinois Journal of Mathematics vol. 21 no. 3(1977)"
 [appel-haken2]: https://projecteuclid.org/euclid.ijm/1256049012 "Kenneth Appel, Wolfgang Haken, John Koch, 『Every planar map is four colorable. Part II: Reducibility』(pp. 491-567)in Illinois Journal of Mathematics vol. 21 no. 3(1977)"
 [user-male]: https://openclipart.org/detail/4749 "acspike『Clipart - male user icon』"
 [user-female]: https://openclipart.org/detail/1646 "dagobert83『Clipart - female user icon』"
