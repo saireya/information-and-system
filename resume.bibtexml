@@ -558,6 +558,91 @@
 	<isbn>4774174610</isbn>
 </book></entry>
 
+<entry id="aristotle-int"><book>
+	<author>Aristotle</author>
+	<title>On Interpretation</title>
+	<publisher>The University of Adelaide</publisher>
+	<url>https://ebooks.adelaide.edu.au/a/aristotle/interpretation</url>
+	<chapter>4-7</chapter>
+	<note>E. M. Edghill訳</note>
+</book></entry>
+
+<entry id="aristotle-int-j"><inbook>
+	<author>Aristotle</author>
+	<title>命題論</title>
+	<publisher>岩波書店</publisher>
+	<chapter>4-7</chapter>
+	<series>アリストテレス全集</series>
+	<year>2013</year>
+	<isbn>400092771X</isbn>
+	<note>早瀬篤訳</note>
+</inbook></entry>
+
+<entry id="aristotle-ana"><book>
+	<author>Aristotle</author>
+	<title>Prior Analytics</title>
+	<publisher>The University of Adelaide</publisher>
+	<url>https://ebooks.adelaide.edu.au/a/aristotle/a8pra</url>
+	<volume>1</volume>
+	<chapter>4</chapter>
+	<note>A. J. Jenkinson訳</note>
+</book></entry>
+
+<entry id="aristotle-ana2"><book>
+	<author>Aristotle</author>
+	<title>Prior Analytics</title>
+	<publisher>The University of Adelaide</publisher>
+	<url>https://ebooks.adelaide.edu.au/a/aristotle/a8pra</url>
+	<volume>2</volume>
+	<chapter>23, 25</chapter>
+	<note>A. J. Jenkinson訳</note>
+</book></entry>
+
+<entry id="aristotle-ana-j"><inbook>
+	<author>Aristotle</author>
+	<title>分析論前書</title>
+	<publisher>岩波書店</publisher>
+	<chapter>4</chapter>
+	<volume>2</volume>
+	<series>アリストテレス全集</series>
+	<pages>28-37</pages>
+	<year>2014</year>
+	<isbn>4000927728</isbn>
+	<note>今井知正・河谷淳訳</note>
+</inbook></entry>
+
+<entry id="aristotle-ana-j2"><inbook>
+	<author>Aristotle</author>
+	<title>分析論前書</title>
+	<publisher>岩波書店</publisher>
+	<chapter>23</chapter>
+	<volume>2</volume>
+	<series>アリストテレス全集</series>
+	<pages>292-294, 296-299</pages>
+	<year>2014</year>
+	<isbn>4000927728</isbn>
+	<note>今井知正・河谷淳訳</note>
+</inbook></entry>
+
+<entry id="bacon"><book>
+	<author>Francis Bacon</author>
+	<title>ノヴム・オルガヌム――新機関</title>
+	<publisher>岩波書店</publisher>
+	<isbn>4003361725</isbn>
+	<pages>39, 73</pages>
+	<year>1978</year>
+	<note>桂寿一訳</note>
+</book></entry>
+
+<entry id="yonemori"><book>
+	<author>米盛 裕二</author>
+	<title>アブダクション――仮説と発見の論理</title>
+	<publisher>勁草書房</publisher>
+	<isbn>4326153938</isbn>
+	<pages>53-61</pages>
+	<year>2007</year>
+</book></entry>
+
 <entry id="appel-haken1"><article>
 	<author>
 		<person>Kenneth Appel</person>
