@@ -310,13 +310,13 @@
 	<isbn>4791753879</isbn>
 </book></entry>
 
-<entry id="descartes"><inbook>
+<entry id="descartes"><book>
 	<author>René Descartes</author>
-	<title>方法序説</title>
+	<title>Discourse on the Method of Rightly Conducting the Reason, and Seeking the Truth in the Sciences</title>
 	<year>1637</year>
 	<chapter>4</chapter>
-	<url>http://www.gutenberg.org/files/59/59-h/59-h.htm</url>
-</inbook></entry>
+	<url>https://ebooks.adelaide.edu.au/d/descartes/rene/d44dm</url>
+</book></entry>
 
 <entry id="descartes-j"><book>
 	<author>René Descartes</author>
@@ -328,17 +328,27 @@
 	<note>山田弘明訳</note>
 </book></entry>
 
-<entry id="aristotle-e1"><misc>
+<entry id="aristotle-e1"><book>
 	<author>Aristotle</author>
 	<title>Metaphysics</title>
-	<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:5.1023b</url>
-</misc></entry>
+	<publisher>The University of Adelaide</publisher>
+	<url>https://ebooks.adelaide.edu.au/p/plato/p71so</url>
+	<volume>5</volume>
+	<chapter>26-27</chapter>
+	<note>Benjamin Jowett訳</note>
+	<!--<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:5.1023b</url>-->
+</book></entry>
 
-<entry id="aristotle-e2"><misc>
+<entry id="aristotle-e2"><book>
 	<author>Aristotle</author>
 	<title>Metaphysics</title>
-	<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:8.1045a</url>
-</misc></entry>
+	<publisher>The University of Adelaide</publisher>
+	<url>https://ebooks.adelaide.edu.au/p/plato/p71so</url>
+	<volume>8</volume>
+	<chapter>6</chapter>
+	<note>Benjamin Jowett訳</note>
+	<!--<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:8.1045a</url>-->
+</book></entry>
 
 <entry id="aristotle-j"><inbook>
 	<author>Aristotle</author>
@@ -348,7 +358,7 @@
 	<publisher>講談社</publisher>
 	<year>1994</year>
 	<isbn>4061591169</isbn>
-	<note>岩崎勉訳</note>
+	<note>岩崎勉訳, 原文1023b, 1045a</note>
 </inbook></entry>
 
 <entry id="broad"><book>
@@ -379,11 +389,14 @@
 	<note>藤沢令夫訳, 原文263E</note>
 </incollection></entry>
 
-<entry id="platon-e"><misc>
+<entry id="platon-e"><book>
 	<author>Plato</author>
 	<title>Sophist</title>
-	<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e</url>
-</misc></entry>
+	<publisher>The University of Adelaide</publisher>
+	<url>https://ebooks.adelaide.edu.au/p/plato/p71so</url>
+	<note>Benjamin Jowett訳</note>
+	<!--<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e</url>-->
+</book></entry>
 
 <entry id="sapir"><article>
 	<author>Edward Sapir</author>
@@ -575,7 +588,7 @@
 	<series>アリストテレス全集</series>
 	<year>2013</year>
 	<isbn>400092771X</isbn>
-	<note>早瀬篤訳</note>
+	<note>早瀬篤訳, 原文16b25-18a12</note>
 </inbook></entry>
 
 <entry id="aristotle-ana"><book>
@@ -608,7 +621,7 @@
 	<pages>28-37</pages>
 	<year>2014</year>
 	<isbn>4000927728</isbn>
-	<note>今井知正・河谷淳訳</note>
+	<note>今井知正・河谷淳訳, 原文25b27-26b33</note>
 </inbook></entry>
 
 <entry id="aristotle-ana-j2"><inbook>
@@ -621,7 +634,7 @@
 	<pages>292-294, 296-299</pages>
 	<year>2014</year>
 	<isbn>4000927728</isbn>
-	<note>今井知正・河谷淳訳</note>
+	<note>今井知正・河谷淳訳, 原文68b7-68b35, 69a20-38</note>
 </inbook></entry>
 
 <entry id="bacon"><book>
