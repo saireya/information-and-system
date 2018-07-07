@@ -49,6 +49,7 @@
 [schumpeter]: http://amazon.jp/dp/4003414713 "Joseph Alois Schumpeter『経済発展の理論――企業者利潤・資本・信用・利子および景気の回転に関する一研究(上)』(1977)(岩波書店)"
 [iba]: http://doi.org/10.1016/j.sbspro.2010.04.071 "井庭 崇『An Autopoietic Systems Theory for Creativity』(pp. 6610-6625)in Procedia - Social and Behavioral Sciences vol. 2 no. 4(2010)"
 [iba-j]: http://web.sfc.keio.ac.jp/~iba/papers/2010JAFEE-iba.pdf "井庭 崇『創造システム理論の構想』(2010)"
+[osborn]: https://scholar.google.co.jp/scholar?q=AlexFaickneyOsborn,AppliedImagination:PrinciplesandProceduresofCreativeWriting "Alex Faickney Osborn『Applied Imagination: Principles and Procedures of Creative Writing』(1953)(Scribner)"
 [debono]: http://amazon.jp/dp/0060903252 "Edward de Bono『Lateral Thinking: Creativity Step by Step』(1970)(Harper)"
 [wilson]: http://amazon.jp/dp/4320027523 "Brian Wilson『システム仕様の分析学――ソフトシステム方法論』(pp. 14)(1996)(共立出版)"
 [kodama]: http://amazon.jp/dp/4822283585 "児玉 公信『UMLモデリング入門』(2008)(日経BP社)"
