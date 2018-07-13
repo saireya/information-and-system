@@ -1078,6 +1078,7 @@ Aristotleによる三段論法<cite id="aristotle-ana"/><cite id="aristotle-ana-
 
 <s h="分割統治法と還元主義">
 <p>そのままで解決不可能な複雑な問題や大規模な問題に対しては、<em>元の問題をより小さく単純な問題に分割</em>し、分割した問題を解く<dfn en="divide and conquer method">分割統治法</dfn>を行うことが多い。
+元の問題を$P$、分割した問題を$P_1, \cdots, P_n$とするとき、分割統治法による問題分割は$P = \bigwedge_{i=1}^n P_i$または$P = \bigvee_{i=1}^n P_i$と表せる。
 このように、<em>問題を分割して分析することで問題の解決や現象の解明が可能</em>だと考える立場を<dfn en="reductionism">還元主義</dfn>といい、Descartesらが有名である<cite id="descartes"/><cite id="descartes-j"/>。</p>
 </s>
 
