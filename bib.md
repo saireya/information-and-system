@@ -32,7 +32,7 @@
 [simon2]: http://amazon.jp/dp/489362167X "Herbert A. Simon『システムの科学』(1999)(パーソナルメディア)"
 [kawamoto]: http://amazon.jp/dp/4791753879 "河本 英夫『オートポイエーシス――第三世代システム』(pp. 158, 176-177, 230-231, 238)(1995)(青土社)"
 [descartes]: https://ebooks.adelaide.edu.au/d/descartes/rene/d44dm "René Descartes『Discourse on the Method of Rightly Conducting the Reason, and Seeking the Truth in the Sciences』(1637)"
-[descartes-j]: http://amazon.jp/dp/4480093060 "René Descartes『方法序説』(pp. 55-58)(2010)(筑摩書房)"
+[descartes-j]: http://amazon.jp/dp/4480093060 "René Descartes『方法序説』(pp. 36-38, 55-58)(2010)(筑摩書房)"
 [aristotle-e1]: https://ebooks.adelaide.edu.au/p/plato/p71so "Aristotle『Metaphysics』(The University of Adelaide)"
 [aristotle-e2]: https://ebooks.adelaide.edu.au/p/plato/p71so "Aristotle『Metaphysics』(The University of Adelaide)"
 [aristotle-j]: http://amazon.jp/dp/4061591169 "Aristotle『形而上学』(1994)(講談社)"
