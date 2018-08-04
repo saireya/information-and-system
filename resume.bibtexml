@@ -711,6 +711,13 @@
 	<url>http://tango.freedesktop.org</url>
 </misc></entry>
 
+<entry id="tango-locked"><misc>
+	<author>Tango Desktop Project</author>
+	<title>locked, unlocked</title>
+	<url>http://tango.freedesktop.org</url>
+	<note>Licensed under CC-BY-SA 2.5: https://creativecommons.org/licenses/by-sa/2.5</note>
+</misc></entry>
+
 <entry id="Golden_key_icon"><misc>
 	<author>Fleshgrinder</author>
 	<title>File:Golden key icon.svg</title>
