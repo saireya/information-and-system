@@ -75,5 +75,6 @@
 [user-male]: https://openclipart.org/detail/4749 "acspike『Clipart - male user icon』"
 [user-female]: https://openclipart.org/detail/1646 "dagobert83『Clipart - female user icon』"
 [tango]: http://tango.freedesktop.org "Tango Desktop Project『Tango Desktop Project』"
+[tango-locked]: http://tango.freedesktop.org "Tango Desktop Project『locked, unlocked』"
 [Golden_key_icon]: https://commons.wikimedia.org/wiki/File:Golden_key_icon.svg "Fleshgrinder『File:Golden key icon.svg』"
 [tango-style-pen]: https://openclipart.org/detail/35443 "warszawianka『tango style pen』"
