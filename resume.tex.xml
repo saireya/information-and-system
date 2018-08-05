@@ -969,7 +969,9 @@ instructorには、多数考えられる解のうちで、最も<strong>対象�
 <aside h="「すべて」「ある」の形式的定義とその否定" class="info">
 <p>「すべて」や「ある」を含む命題については、Aristotleの時代から議論されてきた<cite id="aristotle-int"/><cite id="aristotle-int-j"/>。
 集合$X$の<em>すべての</em>(<em>任意の</em>)要素$x$について命題$P_x$が成り立つことを、全称記号と呼ばれる記号「$\forall$」を用いて「$\forall x \in X, P_x$」と表す。
-また、集合$X$の<em>ある</em>要素$x$について命題$P_x$が成り立つ($P_x$が成り立つような$x$が<em>存在する</em>)ことを、特称記号と呼ばれる記号「$\exists$」を用いて「$\exists x \in X, P_x$」と表す。これらを、前のコラムで用いた「$:=$」「$\wedge$」「$\vee$」を用いて形式的に定義すると、次のようになる。
+また、集合$X$の<em>ある</em>要素$x$について命題$P_x$が成り立つ($P_x$が成り立つような$x$が<em>存在する</em>)ことを、特称記号と呼ばれる記号「$\exists$」を用いて「$\exists x \in X, P_x$」と表す。
+$\forall, \exists$はそれぞれ、「<em>A</em>ll」と「<em>E</em>xists」の頭文字を逆さにした記号である。
+これらを、前のコラムで用いた「$:=$」「$\wedge$」「$\vee$」を用いて形式的に定義すると、次のようになる。
 なお、$X = \{x_1, \cdots, x_n\}$のとき$\bigwedge_{x \in X} P_x := P_{x_1} \wedge \cdots \wedge P_{x_n}$とする。
 \[ (\forall x \in X, P_x) := \bigwedge_{x \in X} P_x, \hspace{1em}
    (\exists x \in X, P_x) := \bigvee_{x \in X} P_x \]</p>
