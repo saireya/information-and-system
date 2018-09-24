@@ -190,6 +190,16 @@
 	<note>庄司信訳</note>
 </book></entry>
 
+<entry id="ohnishi"><article>
+	<author>
+		<person>大西 洋</person>
+		<person>藤岡 健史</person>
+	</author>
+	<title>コミュニケーション・情報・メディアの統合モデルに基づく教育実践</title>
+	<url>http://www.scribd.com/doc/299911454</url>
+	<year>2016</year>
+</article></entry>
+
 <entry id="chen"><incollection>
 	<author>Dominique Chen</author>
 	<title>基礎情報学の情報システムデザインへの応用に向けた試論</title>
@@ -280,6 +290,16 @@
 	<note>長野敬・太田邦昌訳</note>
 </book></entry>
 
+<entry id="levi-strauss"><incollection>
+	<author>Claude Lévi-Strauss</author>
+	<title>構造主義再考</title>
+	<publisher>みすず書房</publisher>
+	<booktitle>構造・神話・労働</booktitle>
+	<pages>37-38</pages>
+	<year>1979</year>
+	<isbn>4622004801</isbn>
+</incollection></entry>
+
 <entry id="simon"><book>
 	<author>
 		<person>James G. March</person>
@@ -299,6 +319,19 @@
 	<year>1999</year>
 	<isbn>489362167X</isbn>
 	<note>稲葉元吉・吉原英樹訳</note>
+</book></entry>
+
+<entry id="maturana-j"><book>
+	<author>
+		<person>Humberto Romesín Maturana</person>
+		<person>Francisco Javier Varela Garcia</person>
+	</author>
+	<title>オートポイエーシス――生命システムとはなにか</title>
+	<publisher>国文社</publisher>
+	<pages>70-79</pages>
+	<year>1991</year>
+	<isbn>4772003673</isbn>
+	<note>河本英夫訳</note>
 </book></entry>
 
 <entry id="kawamoto"><book>
