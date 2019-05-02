@@ -531,6 +531,17 @@
 	<isbn>0060903252</isbn>
 </book></entry>
 
+<entry id="guilford"><article>
+	<author>Joy Paul Guilford</author>
+	<title>The Structure of Intellect</title>
+	<journal>Psychological Bulletin</journal>
+	<year>1956</year>
+	<volume>53</volume>
+	<number>4</number>
+	<pages>267-293</pages>
+	<doi>10.1037/h0040755</doi>
+</article></entry>
+
 <entry id="wilson"><book>
 	<author>Brian Wilson</author>
 	<title>システム仕様の分析学――ソフトシステム方法論</title>
