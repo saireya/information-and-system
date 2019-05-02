@@ -32,6 +32,7 @@
 [levi-strauss]: http://amazon.jp/dp/4622004801 "Claude Lévi-Strauss『構造主義再考』(pp. 37-38)in 構造・神話・労働(1979)(みすず書房)"
 [simon]: http://amazon.jp/dp/4478021767 "James G. March, Herbert A. Simon, 『オーガニゼーションズ 第2版――現代組織論の原典』(2014)(ダイヤモンド社)"
 [simon2]: http://amazon.jp/dp/489362167X "Herbert A. Simon『システムの科学』(1999)(パーソナルメディア)"
+[newell]: http://doi.org/10.1037/h0048495 "Allen Newell, J. C. Shaw, Herbert A. Simon, 『Elements of a Theory of Human Problem Solving』(pp. 151-166)in Psychological Review vol. 65 no. 3(1958)"
 [maturana-j]: http://amazon.jp/dp/4772003673 "Humberto Romesín Maturana, Francisco Javier Varela Garcia, 『オートポイエーシス――生命システムとはなにか』(pp. 70-79)(1991)(国文社)"
 [kawamoto]: http://amazon.jp/dp/4791753879 "河本 英夫『オートポイエーシス――第三世代システム』(pp. 158, 176-177, 230-231, 238)(1995)(青土社)"
 [descartes]: https://ebooks.adelaide.edu.au/d/descartes/rene/d44dm "René Descartes『Discourse on the Method of Rightly Conducting the Reason, and Seeking the Truth in the Sciences』(1637)"

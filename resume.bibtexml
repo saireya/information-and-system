@@ -321,6 +321,21 @@
 	<note>稲葉元吉・吉原英樹訳</note>
 </book></entry>
 
+<entry id="newell"><article>
+	<author>
+		<person>Allen Newell</person>
+		<person>J. C. Shaw</person>
+		<person>Herbert A. Simon</person>
+	</author>
+	<title>Elements of a Theory of Human Problem Solving</title>
+	<journal>Psychological Review</journal>
+	<year>1958</year>
+	<doi>10.1037/h0048495</doi>
+	<volume>65</volume>
+	<number>3</number>
+	<pages>151-166</pages>
+</article></entry>
+
 <entry id="maturana-j"><book>
 	<author>
 		<person>Humberto Romesín Maturana</person>
