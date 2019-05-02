@@ -54,6 +54,7 @@
 [iba-j]: http://web.sfc.keio.ac.jp/~iba/papers/2010JAFEE-iba.pdf "井庭 崇『創造システム理論の構想』(2010)"
 [osborn]: https://scholar.google.co.jp/scholar?q=AlexFaickneyOsborn,AppliedImagination:PrinciplesandProceduresofCreativeWriting "Alex Faickney Osborn『Applied Imagination: Principles and Procedures of Creative Writing』(1953)(Scribner)"
 [debono]: http://amazon.jp/dp/0060903252 "Edward de Bono『Lateral Thinking: Creativity Step by Step』(1970)(Harper)"
+[guilford]: http://doi.org/10.1037/h0040755 "Joy Paul Guilford『The Structure of Intellect』(pp. 267-293)in Psychological Bulletin vol. 53 no. 4(1956)"
 [wilson]: http://amazon.jp/dp/4320027523 "Brian Wilson『システム仕様の分析学――ソフトシステム方法論』(pp. 14)(1996)(共立出版)"
 [kodama]: http://amazon.jp/dp/4822283585 "児玉 公信『UMLモデリング入門』(2008)(日経BP社)"
 [uml]: http://www.uml.org "Object Management Group『UML Web Site』"
