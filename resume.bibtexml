@@ -280,6 +280,33 @@
 	<isbn>4779304113</isbn>
 </book></entry>
 
+<entry id="dalton"><inbook>
+	<author>John Dalton</author>
+	<title>A New System of Chemical Philosophy</title>
+	<publisher>Manchester</publisher>
+	<year>1808</year>
+	<volume>1</volume>
+	<number>1</number>
+	<pages>141-144, 211-220</pages>
+	<url>https://archive.org/details/newsystemofchemi01daltuoft</url>
+</inbook></entry>
+
+<entry id="avogadro"><article>
+	<author>Amedeo Avogadro</author>
+	<title>Essay on a Manner of Determining the Relative Masses of the Elementary Molecules of Bodies, and the Proportions in Which They Enter into These Compounds</title>
+	<journal>Journal de Physique</journal>
+	<year>1811</year>
+	<number>73</number>
+	<pages>58-76</pages>
+	<url>https://archive.org/details/journaldephysiqu73pari</url>
+</article></entry>
+
+<entry id="avogadro-e"><article>
+	<author>Carmen Giunta</author>
+	<title>Amedeo Avogadro: Essay on a Manner of Determining the Relative Masses of the Elementary Molecules of Bodies, and the Proportions in Which They Enter into These Compounds</title>
+	<url>http://web.lemoyne.edu/~giunta/avogadro.html</url>
+</article></entry>
+
 <entry id="bertalanffy"><book>
 	<author>Ludwig von Bertalanffy</author>
 	<title>一般システム理論――その基礎・発展・応用</title>
