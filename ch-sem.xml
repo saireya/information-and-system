@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter xml:id="ch-sem">
+	<title>記号と意味</title>
+	<introduction>
+		<p>本章では、本稿で扱う最も基本的な概念として、記号と意味を定義し、これらの対応づけについて述べる。
+		<xref ref="sec-sem-semiotics"/>節では、記号と意味を定義する。
+		<xref ref="sec-sem-code"/>節では、記号と意味を対応づける操作である、符号化と復号について述べる。
+		<xref ref="sec-sem-subject"/>節では、符号化と復号における主観性について述べる。</p>
+	</introduction>
+
+	<section xml:id="sec-sem-semiotics">
+		<title>記号と意味</title>
+		<p><dfn>記号</dfn>とは、日本語の漢字や仮名、英語のアルファベットなどの文字、手話の身振り、点字、絵文字、顔文字、人間以外の生物が使う鳴き声、マーキングなどをいう。
+		また、<dfn>意味</dfn>とは、印象、感情、認識、概念、イメージなど、日常生活の中で頭の中で思い浮かべる事柄をいう。</p>
+		<p>例えば、日本語の漢字である「菖蒲」は記号の例、頭の中に思い浮かべた「植物のショウブ(🌱)」は意味の例である。</p>
+		<p>ここで、ある<em>生命にとっての意味の「大きさ」</em>を、その生命にとっての<dfn>価値</dfn>という。
+		意味は思考の過程で思い浮かべるものであるため、<em>意味の「大きさ」、つまり価値は、客観的に測ることができない</em>。
+		一方で、記号は1文字、2文字と数えることができるため、<em>記号の「大きさ」は、客観的に測ることができる</em>。</p>
+		<p>なお本節の定義は、言語学者<ruby r="ソシュール">Saussure</ruby>によるものを基にしている。
+		Saussureは、本稿の「記号」にあたるものを<ruby r="シニフィアン"><dfn strong="0">signifiant</dfn></ruby>(能記、記号表現)、本稿の「意味」にあたるものを<ruby r="シニフィエ"><dfn strong="0">signifié</dfn></ruby>(所記、記号内容)と呼んだ<xref ref="bib-saussure"/><xref ref="bib-machida"/>。</p>
+	</section>
+
+	<section xml:id="sec-sem-code">
+		<title>符号化と復号</title>
+		<p>人間もそれ以外の動植物も含め、生命は常に、見聞きした記号に対して意味を対応づけることで、その生命の外側にある世界の様子を理解している。
+		また、思い浮かべた意味に対して記号を対応づけることで、その生命の外側で意味を表現している。</p>
+		<p>ある意味が与えられたとき、その<em>意味に記号を対応づける</em>ことを<dfn en="encode">符号化</dfn>という。
+		逆に、ある記号が与えられたとき、その<em>記号に意味を対応づける</em>ことを<dfn en="decode">復号</dfn>という<xref ref="bib-hall"/><xref ref="bib-hall2"/>。</p>
+
+		<definition>
+			<title>符号化と復号</title>
+			<statement>
+				生命<m>i</m>が行う符号化を<m>e_i</m>、復号を<m>d_i</m>で表す。
+				<ul>
+					<li><m>\alpha = e_i(\beta)</m>となるとき、<m>i</m>は意味<m>\beta</m>を記号<m>\alpha</m>に<dfn en="encode">符号化</dfn>したという。また、<m>\alpha</m>を意味<m>\beta</m>に対応する記号という。</li>
+					<li><m>\beta  = d_i(\alpha)</m>となるとき、<m>i</m>は記号<m>\alpha</m>を意味<m>\beta</m>に<dfn en="decode">復号</dfn>したという。また、<m>\beta</m>を記号<m>\alpha</m>に対応する意味という。</li>
+				</ul>
+				<md>
+					<mrow>\text{符号化} e_i \amp: \text{意味} \longrightarrow \text{記号}</mrow>
+					<mrow>\text{復号}   d_i \amp: \text{記号} \longrightarrow \text{意味}</mrow>
+				</md>
+			</statement>
+		</definition>
+		<p>例えば、<m>A</m>さんが「植物のショウブ(🌱)」を表現しようとして「菖蒲」という漢字を書いたなら、文字「菖蒲」は思い浮かべた「🌱」に対応する記号である(<m>e_A(\text{🌱}) = \text{菖蒲}</m>)。
+		また、<m>A</m>さんが「菖蒲」という漢字を見て、「植物のショウブ(🌱)」を思い浮かべたとき、思い浮かべた「🌱」は文字「菖蒲」に対応する意味である(<m>d_A(\text{菖蒲}) = \text{🌱}</m>)。</p>
+	</section>
+
+	<section xml:id="sec-sem-subject">
+		<title>主観性</title>
+		<p>記号<m>\alpha</m>と意味<m>\beta</m>の対応づけは常に同じとは限らず、人それぞれ異なりうる。
+		人はそれぞれ、生まれてから今までに得た知識や、育った環境、考え方が異なる上、同じ人間でも、その日の体調や気分などにより、この対応づけは変わりうる。
+		どのような符号化を行うか、つまり<em>ある意味をどのような記号に表現するかは、意味を表現する人ごとに異なっており、絶対的・客観的に決まるわけではない</em>。
+		同様に、どのような復号を行うか、つまり<em>ある記号をどのような意味に理解するかは、記号を理解する人ごとに異なっており、絶対的・客観的に決まるわけではない</em>。
+		記号や意味が<em>主観により決定される</em>というこの性質を、符号化や復号における<dfn>主観性</dfn>という。</p>
+
+		<theorem>
+			<title>主観性</title>
+			<statement>
+				<m>i, j</m>を生命、<m>\alpha</m>を記号、<m>\beta</m>を意味とする。このとき、
+				<ul>
+					<li><m>e_i(\beta)  = e_j(\beta)</m>となる<em>とは限らない</em>(<em>記号</em>の対応づけ(符号化)の主観性)。</li>
+					<li><m>d_i(\alpha) = d_j(\alpha)</m>となる<em>とは限らない</em>(<em>意味</em>の対応づけ(復号)の主観性)。</li>
+				</ul>
+			</statement>
+		</theorem>
+
+		<p>例えば、<xref ref="sec-sem-code"/>節で、「菖蒲」という文字を見た<m>A</m>さんは植物のショウブを想起すると述べた(<m>d_A(\text{菖蒲}) = \text{🌱}</m>)。
+		だが、「菖蒲」という漢字には「しょうぶ」と「あやめ」の2通りの読み方があり、「菖蒲」に当てはまる植物には、サトイモ科のショウブ(図<xref ref="fig-iris-1"/>)<xref ref="bib-iris1"/>とアヤメ科のアヤメ(図<xref ref="fig-iris-2"/>)の2種類がある。
+		また、「菖蒲」として一般的に知られているのは、アヤメ科のハナショウブ(図<xref ref="fig-iris-3"/>)である。
+		そのため、同じ「菖蒲」という漢字を見ても、<m>A</m>さんはショウブを想起し、<m>B</m>さんはアヤメを想起し、それぞれ別のものを思い浮かべるということが生じうる。</p>
+		<sidebyside widths="20% 30% 30%" valign="bottom">
+			<figure xml:id="fig-iris-1">
+				<image source="image/iris1.jpg"/>
+				<caption>ショウブ</caption>
+			</figure>
+			<figure xml:id="fig-iris-2">
+				<image source="image/iris2.jpg"/>
+				<caption>アヤメ</caption>
+			</figure>
+			<figure xml:id="fig-iris-3">
+				<image source="image/iris4.jpg"/>
+				<caption>ハナショウブ</caption>
+			</figure>
+		</sidebyside>
+
+		<p>従って、「<m>A</m>さんの内部で形成される意味(<m>d_A(\text{菖蒲})</m>)」と「<m>B</m>さんの内部で形成される意味(<m>d_B(\text{菖蒲})</m>)」は異なりうる(<m>d_A(\text{菖蒲}) \ne d_B(\text{菖蒲})</m>)。
+		たとえ<m>A</m>さんと<m>B</m>さんがお互い「通じ合え」たり、「共感」したりしているように感じても、それはお互いに、相手にとっての意味が自分にとっての意味と同じだと<em>思い込んでいるだけ</em>であり、実際には両者の内部で生じた意味が異なることが多い。</p>
+	</section>
+
+</chapter>

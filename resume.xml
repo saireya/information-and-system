@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="ja-JP">
+	<docinfo>
+		<!-- the other option is "long" which will produce an -->
+		<!-- entire front matter section with more headings   -->
+		<author-biographies length="short"/>
+
+		<cross-references text="global"/>
+
+		<latex-preamble>
+			<package>luatexja</package>
+			<package>luatexja-ruby</package>
+			<!-- 和文なので最初の段落も字下げする -->
+			<package>indentfirst</package>
+			<!-- 数式の書体を変更 -->
+			<package>unicode-math</package>
+			<!-- 🌱 -->
+			<package>newunicodechar</package>
+		</latex-preamble>
+
+		<!-- Math-related macros from "macros.tex" in previous LaTeX version -->
+		<macros>
+			% 数式の書体を変更
+			\unimathsetup{math-style=ISO,bold-style=ISO}
+			\setmathfont{xits-math.otf}
+			% 書体をNotoに変更
+			\usepackage[match,deluxe,expert,bold,noto-otf]{luatexja-preset}
+			\setmonofont{Noto Sans Mono CJK JP}
+			\setmainfont[ BoldFont=Noto Sans CJK JP Medium]{Noto Serif CJK JP}
+			\setmainjfont[BoldFont=Noto Sans CJK JP Medium]{Noto Serif CJK JP}
+			\setsansjfont{Noto Sans CJK JP}
+			% 🌱
+			\newunicodechar{🌱}{\includegraphics[width=1em]{image/seedling.png}}
+
+			% 行間を広くする
+			\renewcommand{\baselinestretch}{1.2}
+			\setlength{\parskip}{6pt plus 2pt minus 2pt}
+			% 見出しの前後の間隔を狭める
+			\titlespacing{\chapter}{0pt}{10pt}{15pt}
+			\titlespacing{\section}{0pt}{5pt plus 3pt minus 3pt}{3pt plus 1pt}
+			\titlespacing{\subsection}{0pt}{3pt plus 2pt minus 2pt}{2pt plus 1pt}
+			\titlespacing{\subsubsection}{0pt}{1pt plus 1pt minus 1pt}{1pt plus 1pt}
+
+			% 段落の字下げを1文字分にする
+			\parindent = 1\zw
+
+			% 強調部分の文字の色を変更
+			\renewcommand{\alert      }[1]{\textcolor{red}{\textbf{#1}}}
+			\renewcommand{\terminology}[1]{\textcolor{magenta}{\textbf{#1}}}
+			\renewcommand{\emph       }[1]{\textcolor{blue}{\textbf{#1}}}
+
+			% tcolorbox
+			\tcbset{fonttitle=\bfseries}
+			\tcbset{   theoremstyle/.style={colframe=red!75!black,  colback=red!5!white  }}
+			\tcbset{definitionstyle/.style={colframe=blue!75!black, colback=blue!5!white }}
+			\tcbset{    remarkstyle/.style={colframe=black!75!white,colback=black!5!white}}
+
+			% PDFのブックマーク表示設定
+			\hypersetup{bookmarksopen,bookmarksnumbered}
+
+			% PreTeXtで定義している\gtはluatexjaで使っているため、消しておく
+			\let\gt\undefined
+		</macros>
+	</docinfo>
+
+	<book xml:id="sample-book">
+		<title>情報学基礎 補助資料</title>
+
+		<xi:include href="ch-intro.xml"/>
+
+		<xi:include href="ch-sem.xml"/>
+		<xi:include href="ch-info.xml"/>
+		<xi:include href="ch-comm.xml"/>
+		<xi:include href="ch-media.xml"/>
+
+		<xi:include href="ch-em.xml"/>
+		<xi:include href="ch-sys.xml"/>
+		<xi:include href="ch-emergence.xml"/>
+		<xi:include href="ch-interference.xml"/>
+
+		<xi:include href="ch-logic.xml"/>
+		<xi:include href="ch-reduction.xml"/>
+
+		<backmatter>
+			<xi:include href="references.xml.ptx"/>
+			<index><index-list/></index>
+		</backmatter>
+	</book>
+</pretext>

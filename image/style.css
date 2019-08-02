@@ -1,0 +1,25 @@
+
+strong, strong > dfn {
+	color: crimson;
+	font-weight: bold;
+	font-style: normal !important;
+}
+dfn {
+	color: magenta;
+	font-weight: bold;
+	font-style: normal !important;
+}
+em {
+	color: navy;
+	font-weight: bold;
+	font-style: normal !important;
+}
+
+.heading {
+	font-family: sans-serif !important;
+	display: block !important;
+}
+
+p {
+	text-indent: 1em;
+}
