@@ -32,7 +32,7 @@
 		従って<dfn en="problem solving">問題解決</dfn>とは、<em>現在の状態から目標とする状態に至る道を見つける</em>ことであり、この道を問題の<dfn en="solution">解</dfn>という<xref ref="bib-newell"/>。
 		図<xref ref="fig-problem"/>に、問題とその解の関係を示す。</p>
 		<figure xml:id="fig-problem">
-			<image source="image/problem" width="50%"/>
+			<image source="image/problem" width="25%"/>
 			<caption>問題の定義と解</caption>
 		</figure>
 		<p>問題に対する解は一つしか存在しないとは限らず、複数存在することもある。

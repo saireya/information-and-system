@@ -67,7 +67,7 @@
 				なお、たとえ個人の氏名が公開されていても、大抵の場合は同姓同名の別人がいるため、それ単独では個人を特定するには至らないことが多い。
 				そのため、氏名単体では個人情報とはいえない。</p>
 				<figure xml:id="fig-pi">
-					<image source="image/personality-individual" width="75%"/>
+					<image source="image/personality-individual" width="50%"/>
 					<caption>個人情報</caption>
 				</figure>
 				<p>一方、<dfn en="privacy">プライバシー</dfn>は、他人に知られたくない<em>私的な情報</em>を指す。
