@@ -87,10 +87,12 @@
 			<remark>
 				<title>力学系</title>
 				<statement>
-					システムにおける動的な構造の変化を強調して、システムを<dfn en="dynamical system" strong="0">力学系</dfn>や<dfn en="complex system">複雑系</dfn>ということがある。
-					ここで、力学系の「力学」はdynamicalの訳語であり、物理における「力学」との直接的な関係はない。
-					<!-- TODO: 微分方程式での状態記述 -->
-					力学系は、初期状態の微小な差が系全体の挙動に影響するバタフライ効果など、カオス理論の基礎になっている。
+					<p>システムにおける動的な構造の変化を強調して、システムを<dfn en="dynamical system" strong="0">力学系</dfn>や<dfn en="complex system">複雑系</dfn>ということがある。
+					ここで、力学系の「力学」はdynamicalの訳語であり、物理における「力学」との直接的な関係はない。</p>
+					<p>力学系では、状態を<m>n</m>個の変数<m>x_1, \cdots, x_n</m>で表せると仮定する。
+					状態の変化を<m>n</m>個の関数<m>f_1, \cdots, f_n</m>で表せるとしたとき、力学系は次の<m>n</m>個の微分方程式で表される。</p>
+					<me>\frac{d}{dt} x_i = f_i(x_1, \cdots, x_n, t) (i = 1, \cdots, n)</me>
+					<p>力学系は、初期状態の微小な差が系全体の挙動に影響するバタフライ効果など、カオス理論の基礎になっている。</p>
 				</statement>
 			</remark>
 		</subsection>
