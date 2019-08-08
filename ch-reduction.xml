@@ -82,13 +82,13 @@
 				</statement>
 			</definition>
 
-			<remark>
+			<note>
 				<title>「互いに素」を表す記法</title>
 				<statement>
 					<m>A_i</m>と<m>A_j</m>が互いに素な集合であるとき、<m>A_i</m>と<m>A_j</m>の和集合<m>A_i \cup A_j</m>を、互いに素なことを強調して記号「<m>\sqcup</m>」を使い、<m>A_i \sqcup A_j</m>と表すことがある。
 					同様に、<m>A = A_1 \cup \cdots \cup A_n (= \bigcup_{i=1}^n A_i)</m>となる分割が直和のとき、<m>A = A_1 \sqcup \cdots \sqcup A_n (= \bigsqcup_{i=1}^n A_i)</m>と表すことがある。
 				</statement>
-			</remark>
+			</note>
 		</subsection>
 	</section>
 

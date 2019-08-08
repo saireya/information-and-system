@@ -16,13 +16,13 @@
 		<p>ここで、ある<em>生命にとっての意味の「大きさ」</em>を、その生命にとっての<dfn>価値</dfn>という。
 		意味は思考の過程で思い浮かべるものであるため、<em>意味の「大きさ」、つまり価値は、客観的に測ることができない</em>。
 		一方で、記号は1文字、2文字と数えることができるため、<em>記号の「大きさ」は、客観的に測ることができる</em>。</p>
-		<remark>
+		<note>
 			<title>記号論</title>
 			<statement>
 				<p>本節の定義は、言語学者<ruby r="ソシュール">Saussure</ruby>によるものを基にしている。
 				Saussureは、本稿の「記号」にあたるものを<ruby r="シニフィアン"><dfn strong="0">signifiant</dfn></ruby>(能記、記号表現)、本稿の「意味」にあたるものを<ruby r="シニフィエ"><dfn strong="0">signifié</dfn></ruby>(所記、記号内容)と呼んだ<xref ref="bib-saussure"/><xref ref="bib-machida"/>。</p>
 			</statement>
-		</remark>
+		</note>
 	</section>
 
 	<section xml:id="sec-sem-code">
@@ -58,7 +58,7 @@
 		同様に、どのような復号を行うか、つまり<em>ある記号をどのような意味に理解するかは、記号を理解する人ごとに異なっており、絶対的・客観的に決まるわけではない</em>。
 		記号や意味が<em>主観により決定される</em>というこの性質を、符号化や復号における<dfn>主観性</dfn>という。</p>
 
-		<theorem>
+		<proposition>
 			<title>主観性</title>
 			<statement>
 				<m>i, j</m>を生命、<m>\alpha</m>を記号、<m>\beta</m>を意味とする。このとき、
@@ -67,7 +67,7 @@
 					<li><m>d_i(\alpha) = d_j(\alpha)</m>となる<em>とは限らない</em>(<em>意味</em>の対応づけ(復号)の主観性)。</li>
 				</ul>
 			</statement>
-		</theorem>
+		</proposition>
 
 		<p>例えば、<xref ref="sec-sem-code"/>節で、「菖蒲」という文字を見た<m>A</m>さんは植物のショウブを想起すると述べた(<m>d_A(\text{菖蒲}) = \text{🌱}</m>)。
 		だが、「菖蒲」という漢字には「しょうぶ」と「あやめ」の2通りの読み方があり、「菖蒲」に当てはまる植物には、サトイモ科のショウブ(図<xref ref="fig-iris-1"/>)<xref ref="bib-iris1"/>とアヤメ科のアヤメ(図<xref ref="fig-iris-2"/>)の2種類がある。

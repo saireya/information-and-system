@@ -58,7 +58,7 @@
 			また、対象者が方法を実践している際に困難に遭遇した場合や、疑問が浮かんだ場合に、教師や支援員など、対象者の変容を支援する体制があることも重要である。</li>
 		</ol>
 
-		<remark>
+		<note>
 			<title>Instructional Design</title>
 			<statement>
 				<p><dfn strong="0" abbr="ID">Instructional Design</dfn>は、教育を介入であると捉えて、授業やカリキュラムの設計を行う理論である<xref ref="bib-kougo"/>。
@@ -73,7 +73,7 @@
 				だが、対象者にとってその解がどれほど効果的かは、対象者が実際に問題を解決できたかを見れば明確に測定できる。
 				instructorには、多数考えられる解のうちで、最も<strong>対象者にとって効果的</strong>なものを提案することが求められる。</p>
 			</statement>
-		</remark>
+		</note>
 	</section>
 
 	<section xml:id="sec-interference-im">

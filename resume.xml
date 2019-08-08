@@ -51,9 +51,9 @@
 
 			% tcolorbox
 			\tcbset{fonttitle=\bfseries}
-			\tcbset{   theoremstyle/.style={colframe=red!75!black,  colback=red!5!white  }}
-			\tcbset{definitionstyle/.style={colframe=blue!75!black, colback=blue!5!white }}
-			\tcbset{    remarkstyle/.style={colframe=black!75!white,colback=black!5!white}}
+			\tcbset{propositionstyle/.style={colframe=red!75!black,  colback=red!5!white  }}
+			\tcbset{ definitionstyle/.style={colframe=blue!75!black, colback=blue!5!white }}
+			\tcbset{       notestyle/.style={colframe=black!75!white,colback=black!5!white}}
 
 			% PDFのブックマーク表示設定
 			\hypersetup{bookmarksopen,bookmarksnumbered}

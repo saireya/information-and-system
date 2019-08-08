@@ -52,7 +52,7 @@
 		西垣<xref ref="bib-nishigaki1"/>は『何か』を「パターン」だとして、情報を<em><q ref="bib-nishigaki1">それによって生物がパターンをつくりだすパターン</q></em>と定義した。
 		また、Batesonは『何か』を「差異」、つまり複数のものの間にある違いだとして、情報を<em><q ref="bib-bateson">差異をつくる差異</q></em>と定義した<xref ref="bib-bateson"/>。</p>
 
-		<remark>
+		<note>
 			<title>個人情報とプライバシー</title>
 			<statement>
 				<p>近年、個人の権利が尊重される中で個人情報やプライバシーが重視されている。</p>
@@ -77,7 +77,7 @@
 				プライバシー権には、顔写真などの<ruby r="しょうぞう"><em>肖像</em></ruby>に関するプライバシー権である<dfn>肖像権</dfn>などがある。
 				最近では、プライバシーの削除に関するプライバシー権として「<dfn strong="0">忘れられる権利</dfn>」も国際的に認められつつある。</p>
 			</statement>
-		</remark>
+		</note>
 	</section>
 
 	<section xml:id="sec-info-class">

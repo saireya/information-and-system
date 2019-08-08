@@ -101,7 +101,7 @@
 			</statement>
 		</definition>
 		<p>この定義に従うとき、次のことがいえる。</p>
-		<theorem>
+		<proposition>
 			<title>コミュニケーションの断絶</title>
 			<statement>
 				<md>
@@ -113,7 +113,7 @@
 				</md>
 				より、コミュニケーションが断絶する場合は、4つの選択のいずれかが成功していない。
 			</statement>
-		</theorem>
+		</proposition>
 		<p>4つの選択のいずれかが成功しないことでコミュニケーションが断絶する例を、次に示す。</p>
 		<ol>
 			<li>送り手が受け手にとって全く興味のない情報を伝えてしまう(<em>情報の選択</em>に失敗)</li>
@@ -124,13 +124,13 @@
 		<p>これらの例が起こらないようにするには、それぞれの選択における主体だけでなく、相手側にも適切な配慮や考慮が必要である。
 		送り手と受け手が互いに情報の主観性を認識した上でコミュニケーションすることで、お互いが意図しないコミュニケーションの断絶を防ぐことができる。</p>
 
-		<remark>
+		<note>
 			<title>Postelの法則</title>
 			<statement>
 				<p>インターネットで使われる通信プロトコルの1つであるTCPの仕様書<xref ref="bib-ietf"/>には、コンピュータ科学者のPostelが記した<q ref="bib-ietf">Be <em>conservative</em> in what you <em>do</em>, be <em>liberal</em> in what you <em>accept</em> from others.</q>という一節がある。
 				和訳すると「情報を<em>伝える</em>ときは<em>厳格</em>に、<em>受け取る</em>ときは<em>寛容</em>に」となるこの文言は<dfn>Postelの法則</dfn>と呼ばれ、通信の基本原則として広く知られている。</p>
 			</statement>
-		</remark>
+		</note>
 	</section>
 
 </chapter>

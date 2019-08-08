@@ -48,7 +48,7 @@
 		「ネコは動物である」も真偽が定まるので命題だが、「ネコ」「動物」は単なる集合で真偽が定まらないため、この命題を「<m>\text{ネコ} ⇒ \text{動物}</m>」と表すことはできない。
 		代わりに、部分集合を表す記号「<m>\subset</m>」を使うと、この命題は「<m>\text{ネコ} \subset \text{動物}</m>」と表せる。</p>
 
-		<remark>
+		<note>
 			<title>「ならば」の形式的定義と対偶</title>
 			<statement>
 				<p><m>P, Q</m>が命題のとき、命題「<m>P ⇒ Q</m>」の厳密な定義は「命題<m>P</m>が真であれば命題<m>Q</m>が真である」である。
@@ -57,9 +57,9 @@
 				<p>この定義に従えば、「命題「<m>P ⇒ Q</m>」とその対偶「<m>\bar{Q} ⇒ \bar{P}</m>」の真偽は等しい」という定理は、次の式変形で示せる。
 				<me>(\bar{Q} ⇒ \bar{P}) = (\bar{\bar{Q}} \vee \bar{P}) = (Q \vee \bar{P}) = (\bar{P} \vee Q) = (P ⇒ Q)</me></p>
 			</statement>
-		</remark>
+		</note>
 
-		<remark>
+		<note>
 			<title>「すべて」「ある」の形式的定義とその否定</title>
 			<statement>
 				<p>「すべて」や「ある」を含む命題については、Aristotleの時代から議論されてきた<xref ref="bib-aristotle-int"/><xref ref="bib-aristotle-int-j"/>。
@@ -74,7 +74,7 @@
 				<me>\overline{\forall x \in X, P_x} = \overline{\bigwedge_{x \in X} P_x} = \bigvee_{x \in X} \overline{P_x} = (\exists x \in X, \overline{P_x}) \hspace{1em}
 				\overline{\exists x \in X, P_x} = \overline{\bigvee_{x \in X} P_x} = \bigwedge_{x \in X} \overline{P_x} = (\forall x \in X, \overline{P_x})</me></p>
 			</statement>
-		</remark>
+		</note>
 	</section>
 
 	<section xml:id="sec-logic-infer">
@@ -129,7 +129,7 @@
 			そこで、アブダクションで得られた命題を<em>仮説</em>として、演繹により仮説の正しさを示し、帰納により実例で仮説の正しさを裏付けることがよく行われる。</p>
 		</subsection>
 
-		<remark>
+		<note>
 			<title>証明の形式的定義</title>
 			<statement>
 				<p>命題の列<m>P_1, \cdots, P_n</m>について、任意の<m>i (1 \leq i \leq n)</m>について「<m>P_i</m>は公理である」または「<m>P_1, \cdots, P_{i-1} ⇒ P_i</m>が真である」を満たすとき、<m>P_1, \cdots, P_n</m>を<m>P_n</m>の<dfn en="proof">証明</dfn>と呼び、<m>P_n</m>を<dfn en="theorem">定理</dfn>と呼ぶ。</p>
@@ -143,7 +143,7 @@
 				</ul></p>
 				<p>このとき、命題の列<m>P_1, \cdots, P_5</m>について、<m>P_1</m>は偶数の定義により真、<m>P_2</m>は<m>P_1</m>により真、<m>P_3</m>は加法・乗法の定義と分配法則により真、<m>P_4</m>は偶数の定義により真、<m>P_5</m>は<m>P_1, \cdots, P_4</m>により真となり、元の命題は真である。</p>
 			</statement>
-		</remark>
+		</note>
 	</section>
 
 	<section xml:id="sec-logic-science">
