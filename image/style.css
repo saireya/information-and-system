@@ -23,3 +23,26 @@ em {
 p {
 	text-indent: 1em;
 }
+
+article {
+	border-radius: 3px;
+}
+article > h6 {
+	margin-left: -0.4em !important;
+	margin-bottom: 5px !important;
+	padding: 5px 10px;
+	background-color: hsl(0, 0%, 20%);
+	color: white !important;
+	border-radius: 3px 3px 0 0;
+}
+
+article.definition-like > h6 {
+	background-color: hsl(240, 100%, 40%);
+}
+
+article.theorem-like > h6 {
+	background-color: hsl(0, 100%, 40%);
+}
+
+article.remark-like {
+}
