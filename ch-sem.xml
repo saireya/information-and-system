@@ -16,8 +16,13 @@
 		<p>ここで、ある<em>生命にとっての意味の「大きさ」</em>を、その生命にとっての<dfn>価値</dfn>という。
 		意味は思考の過程で思い浮かべるものであるため、<em>意味の「大きさ」、つまり価値は、客観的に測ることができない</em>。
 		一方で、記号は1文字、2文字と数えることができるため、<em>記号の「大きさ」は、客観的に測ることができる</em>。</p>
-		<p>なお本節の定義は、言語学者<ruby r="ソシュール">Saussure</ruby>によるものを基にしている。
-		Saussureは、本稿の「記号」にあたるものを<ruby r="シニフィアン"><dfn strong="0">signifiant</dfn></ruby>(能記、記号表現)、本稿の「意味」にあたるものを<ruby r="シニフィエ"><dfn strong="0">signifié</dfn></ruby>(所記、記号内容)と呼んだ<xref ref="bib-saussure"/><xref ref="bib-machida"/>。</p>
+		<remark>
+			<title>記号論</title>
+			<statement>
+				<p>本節の定義は、言語学者<ruby r="ソシュール">Saussure</ruby>によるものを基にしている。
+				Saussureは、本稿の「記号」にあたるものを<ruby r="シニフィアン"><dfn strong="0">signifiant</dfn></ruby>(能記、記号表現)、本稿の「意味」にあたるものを<ruby r="シニフィエ"><dfn strong="0">signifié</dfn></ruby>(所記、記号内容)と呼んだ<xref ref="bib-saussure"/><xref ref="bib-machida"/>。</p>
+			</statement>
+		</remark>
 	</section>
 
 	<section xml:id="sec-sem-code">
