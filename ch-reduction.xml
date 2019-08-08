@@ -60,20 +60,20 @@
 
 		<subsection xml:id="ssec-reduction-mece">
 			<title>MECE</title>
-			<p>ある性質について還元性のある集合<m>A</m>は、その性質について集合を分解することができる。
-			このとき、<m>A = A_1 \cup \cdots \cup A_n</m>と分解できるが、この分割が適切な分割だとは限らない。</p>
+			<p>ある性質について還元性のある集合<m>A</m>は、その性質について集合を分割することができる。
+			このとき、<m>A = A_1 \cup \cdots \cup A_n</m>と分割できるが、この分割が適切な分割だとは限らない。</p>
 			<p><m>A</m>の要素のうち、<m>A_1, \cdots, A_n</m>に<em>含まれない要素があり、「漏れ」が生じる</em>ことがありうる。
 			分割に「漏れ」があると、必要な要素を見落として分析することになり、正しい解に到達しない。</p>
 			<p>また、<m>A_1, \cdots, A_n</m>に<em>同じ要素を含む集合があり、「重複」が生じる</em>ことがありうる。
 			分割に「重複」があると、必要な要素を複数回分析することになり、効率の良い分析ができない。</p>
 			<!-- TODO: 適切な還元の例を示す図 -->
-			<p>以上のような誤りを避け、<m>A</m>を<strong>漏れなく(Collectively Exhaustive)重複なく(Mutually Exclusive)分解</strong>する<m>A_1, \cdots, A_n</m>をとることができる。</p>
+			<p>以上のような誤りを避け、<m>A</m>を<strong>漏れなく(Collectively Exhaustive)重複なく(Mutually Exclusive)分割</strong>する<m>A_1, \cdots, A_n</m>をとることができる。</p>
 
 			<definition>
 				<title>Mutually Exclusive and Collectively Exhaustive (MECE)</title>
 				<statement>
 					集合<m>A</m>に対して、部分集合<m>A_1, \cdots, A_n (\subset A)</m>があるとする。
-					このとき、次の2つの条件を満たすならば、<m>A_1, \cdots, A_n</m>は<m>A</m>の<dfn en="Mutually Exclusive and Collectively Exhaustive">MECE</dfn>な分解、または<ruby r="ちょくわ"><dfn>直和</dfn></ruby>であるという。
+					このとき、次の2つの条件を満たすならば、<m>A_1, \cdots, A_n</m>は<m>A</m>の<dfn en="Mutually Exclusive and Collectively Exhaustive">MECE</dfn>な分割、または<ruby r="ちょくわ"><dfn>直和</dfn></ruby>であるという。
 					<ul>
 						<li>任意の<m>i, j (i \neq j)</m>について、<m>A_i \cap A_j = \emptyset</m>が成り立つ(<em>Mutually Exclusive</em>)<br/>
 							(このとき、<m>A_1, \cdots, A_n</m>は<dfn>互いに素</dfn>な集合であるという)</li>
@@ -94,15 +94,11 @@
 
 	<section xml:id="sec-reduction-eg">
 		<title>還元の例</title>
-		<p>還元の例には、大きく複雑な作業をより小さな作業に分解した<dfn en="Work Breakdown Structure">WBS</dfn>や、異なる機能を持つ複数の部門からなる組織の組織図にあたる<dfn en="Organization Breakdown Structure">OBS</dfn>などがある。
-		このとき、作業の見落としや組織の重複が生じないよう、MECEな分解を行うことが重要である。
+		<p>還元の例には、大きく複雑な作業をより小さな作業に分割した<dfn en="Work Breakdown Structure">WBS</dfn>や、異なる機能を持つ複数の部門からなる組織の組織図にあたる<dfn en="Organization Breakdown Structure">OBS</dfn>などがある。
+		このとき、作業の見落としや組織の重複が生じないよう、MECEな分割を行うことが重要である。
 		また、問題解決の場面では、そのままで解決できない<em>複雑で大規模な問題を、より小さく単純な問題に分割</em>し、分割した問題を解く<dfn en="divide and conquer method">分割統治法</dfn>が行われる。
 		分割統治法は、歴史上では古代ローマ帝国の統治にも遡ることができるが、数学の問題での場合分けなど、身近な場面で使うことも多い。</p>
 		<!-- TODO: WBSの例 -->
-
-		<!--
-		<p>準分解可能なシステムは、最も上位のシステムから下位の部分システムに枝分かれしていく<dfn en="tree">木構造</dfn>のグラフで表せるため、木構造を順に辿って解を探す、<dfn en="search">探索</dfn>を行うことも多い。
-		探索は場合の数の数え上げなど日常的に使う他、囲碁や将棋、チェスなどの機械によるゲームプレイで、次の手を決めるために使うこともある。</p>-->
 	</section>
 
 		<!--TODO: 定義・階層・抽象化・chunk -->

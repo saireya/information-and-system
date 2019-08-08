@@ -195,7 +195,7 @@
 	</section>
 
 	<section xml:id="sec-sys-decompose">
-		<title>システムの分解</title>
+		<title>システムの分割</title>
 		<p>システムにおいても、集合と同様に、分割を定義することを考える。
 		システム<m>S</m>とシステム<m>S_1, \cdots, S_n</m>があり、<m>S = S_1 \cup \cdots \cup S_n</m>とする。
 		ここで、<m>S_1, \cdots, S_n</m>が互いに共通部分を持たないとすると、システム<m>S</m>は分割可能だといえる。</p>
