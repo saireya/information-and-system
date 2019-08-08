@@ -15,14 +15,22 @@
 		<p>コミュニケーションを説明するモデルには、Luhmann<xref ref="bib-luhmann"/>やHall<xref ref="bib-hall"/><xref ref="bib-hall2"/>、Chen<xref ref="bib-chen"/>のものが挙げられる。
 		これらはいずれも、いくつかの段階をコミュニケーションの単位として、その反復によりコミュニケーションが継続する、と説明する点で共通している。
 		ここでは、Luhmannに基づくコミュニケーションのモデルを紹介する。</p>
-		<p>Luhmannは、<dfn>コミュニケーション</dfn>は二者間でなされる<em>4つの選択からなる過程</em>であり、その反復によりコミュニケーションが継続するとした<xref ref="bib-borch"/><xref ref="bib-ohnishi"/>。
+		<p>Luhmannは、<dfn en="communication">コミュニケーション</dfn>は二者間でなされる<em>4つの選択からなる過程</em>であり、その反復によりコミュニケーションが継続するとした<xref ref="bib-borch"/><xref ref="bib-ohnishi"/>。
 		4つの選択は下記の通りであり、3つの選択と、それに続く1つの選択からなる。</p>
-		<ol>
-			<li><dfn>情報</dfn>の選択</li>
-			<li><dfn>表現</dfn>の選択</li>
-			<li><dfn>理解</dfn>の選択</li>
-			<li><dfn>理解の受容</dfn>の選択</li>
-		</ol>
+
+		<definition>
+			<title>Luhmannのコミュニケーション・モデル</title>
+			<statement>
+				<p><em>送り手</em>と<em>受け手</em>の間でなされる、次の<em>4つの選択からなる過程</em>を<dfn en="communication">コミュニケーション</dfn>という<xref ref="bib-borch"/><xref ref="bib-ohnishi"/>。</p>
+				<ol>
+					<li><dfn>情報</dfn>の選択</li>
+					<li><dfn>表現</dfn>の選択</li>
+					<li><dfn>理解</dfn>の選択</li>
+					<li><dfn>理解の受容</dfn>の選択</li>
+				</ol>
+			</statement>
+		</definition>
+
 		<p>このモデルは、第<xref ref="ch-info"/>章の3つの情報概念と図<xref ref="fig-model"/>のように対応する。
 		図では、コミュニケーションの過程を矢印で、Luhmannのコミュニケーション・モデルにおける選択を実線の楕円で表している。
 		また、左右の点線の楕円はそれぞれ、情報の送り手と受け手が行う行為の範囲を表している。</p>
