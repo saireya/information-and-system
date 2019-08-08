@@ -2,8 +2,8 @@
 <chapter xml:id="ch-logic">
 	<title>論理</title>
 	<introduction>
-		<p>本章では、他者への介入において不可欠な論理について述べる。
-		<xref ref="sec-logic-purpose"/>節では、論理が必要とされる理由を述べる。
+		<p>本章では、他者への介入において不可欠な論理について述べる。</p>
+		<p><xref ref="sec-logic-purpose"/>節では、論理が必要とされる理由を述べる。
 		<xref ref="sec-logic-def"/>節では、論理において重要な定義について、<xref ref="sec-logic-prop"/>節では、命題や定理、証明について述べる。
 		<xref ref="sec-logic-infer"/>節では、代表的な推論の形式を述べ、<xref ref="sec-logic-science"/>節では、科学における方法について述べる。</p>
 	</introduction>
