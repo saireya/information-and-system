@@ -73,13 +73,13 @@
 		<xi:include href="ch-comm.xml"/>
 		<xi:include href="ch-media.xml"/>
 
-		<xi:include href="ch-em.xml"/>
-		<xi:include href="ch-sys.xml"/>
-		<xi:include href="ch-emergence.xml"/>
-		<xi:include href="ch-interference.xml"/>
-
-		<xi:include href="ch-logic.xml"/>
+		<xi:include href="ch-problem.xml"/>
 		<xi:include href="ch-reduction.xml"/>
+		<xi:include href="ch-sys.xml"/>
+		<xi:include href="ch-em.xml"/>
+
+		<xi:include href="ch-interference.xml"/>
+		<xi:include href="ch-logic.xml"/>
 
 		<backmatter>
 			<xi:include href="references.xml.ptx"/>
