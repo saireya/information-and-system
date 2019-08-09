@@ -1,0 +1,103 @@
+@startuml package
+left to right direction
+
+skinparam Shadowing false
+skinparam PackageBorderColor #909090
+skinparam ClassBorderColor #9090ff
+skinparam ClassBackgroundColor transparent
+skinparam ArrowColor #ff9090
+skinparam ArrowThickness 3
+skinparam DefaultFontName "Noto Sans CJK JP"
+
+package I:情報/コミュニケーション/メディア as I {
+	class 記号と意味 <<(2,white)>> {
+		+記号
+		+意味
+		+符号化/復号
+		+主観性
+	}
+	class 情報 <<(3,white)>> {
+		#生命情報
+		#社会情報
+		#機械情報
+	}
+	class コミュニケーション <<(4,white)>> {
+		+Luhmannのモデル
+		#情報の選択
+		#表現の選択
+		#理解の選択
+		#理解の受容の選択
+	}
+	class メディア <<(5,white)>> {
+		+現実イメージ
+		+メディア・リテラシー
+		#伝播メディア
+		#成果メディア
+	}
+
+	記号と意味-left-情報
+	情報-コミュニケーション
+	情報-down-メディア
+	コミュニケーション-left-メディア
+}
+
+package II:問題解決 as II {
+	class 問題 <<(6,white)>> {
+		+複雑性
+		+問題
+		+問題解決
+	}
+	class 還元 <<(7,white)>> {
+		+還元主義
+		+集合
+		+MECE
+		+モデル
+	}
+	class システム <<(8,white)>> {
+		+構造主義
+		+構造
+		+状態
+		+オートポイエーシス
+		+機能的分化
+		+準分解可能
+		#心理システム
+		#社会システム
+	}
+	class 創発 <<(9,white)>> {
+		+創発主義
+		+アイデア
+		+イノベーション
+		#思考の発散
+		#思考の収束
+	}
+	問題-right-還元
+	問題-right-システム
+	問題-right-創発
+	創発-down-システム
+	システム-left-還元
+	情報-left-創発
+	メディア-システム
+}
+
+package III:応用 as III {
+	class 介入 <<(a,white)>> {
+		+意図
+		+アフォーダンス
+		#明示的な介入
+		#暗示的な介入
+	}
+	class 論理 <<(b,white)>> {
+		+定義
+		+命題/定理
+		+推論
+		#演繹
+		#帰納
+		#アブダクション
+	}
+	介入-left-論理
+	コミュニケーション-down-介入
+	システム-down-介入
+}
+I-left[hidden]-II
+II-down[hidden]-III
+@enduml
