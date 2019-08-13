@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<symbol id="system-2d" viewBox="-50,-50 100,100">
+		<!--<rect x="-50" y="-50" width="100" height="100"/>-->
+		<circle r="40" cx="0" cy="0" style="stroke-dasharray:3"/>
+		<path d="m 35,0 h 10 l -5,-10 z" style="fill-opacity:1"/>
+		<text>開放系</text>
+	</symbol>
+	<symbol id="system-2d-semiclosed" viewBox="-50,-50 100,100">
+		<!--<rect x="-50" y="-50" width="100" height="100"/>-->
+		<circle r="40" cx="0" cy="0" style="stroke-dasharray:3"/>
+		<path d="m 35,0 h 10 l -5,-10 z" style="fill-opacity:1"/>
+		<text>半開放系</text>
+	</symbol>
+	<symbol id="system-2d-closed" viewBox="-50,-50 100,100">
+		<!--<rect x="-50" y="-50" width="100" height="100"/>-->
+		<circle r="40" cx="0" cy="0"/>
+		<path d="m 35,0 h 10 l -5,-10 z" style="fill-opacity:1"/>
+		<text>閉鎖系</text>
+	</symbol>
+	<style>
+	@media print {
+		@page {
+			/* Remove header and footer when exporting */
+			margin: 0;
+		}
+	}
+	:root {
+		/* CUD color scheme */
+		/* http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf */
+		--cud-accent-red      : rgb(255, 75,  0);
+		--cud-accent-green    : rgb(  3,175,122);
+		--cud-accent-blue     : rgb(  0, 90,255);
+		--cud-accent-yellow   : rgb(255,241,  0);
+		--cud-accent-sky      : rgb( 77,196,255);
+		--cud-accent-pink     : rgb(255,128,130);
+		--cud-accent-orange   : rgb(246,170,  0);
+		--cud-accent-purple   : rgb(153,  0,153);
+		--cud-accent-brown    : rgb(128, 64,  0);
+		--cud-base-lightpink  : rgb(255,202,191);
+		--cud-base-cream      : rgb(255,255,128);
+		--cud-base-lime       : rgb(216,242, 85);
+		--cud-base-lightsky   : rgb(191,228,255);
+		--cud-base-beige      : rgb(255,202,128);
+		--cud-base-lightgreen : rgb(119,217,168);
+		--cud-base-lightpurple: rgb(201,172,230);
+		--cud-lightgray       : rgb(200,200,203);
+		--cud-gray            : rgb(132,145,158);
+	}
+	g, path, ellipse, circle {
+		fill: currentColor;
+		fill-opacity: 0.2;
+		stroke: currentColor;
+		stroke-width: 1.5;
+	}
+	use {
+		transform-origin: center;
+	}
+	text {
+		text-anchor: middle;
+		dominant-baseline: middle;
+	}
+	.cud-accent-red   { color: var(--cud-accent-red   ); }
+	.cud-accent-green { color: var(--cud-accent-green ); }
+	.cud-accent-blue  { color: var(--cud-accent-blue  ); }
+	.cud-accent-yellow{ color: var(--cud-accent-yellow); }
+	.cud-accent-sky   { color: var(--cud-accent-sky   ); }
+	.cud-accent-pink  { color: var(--cud-accent-pink  ); }
+	.cud-accent-orange{ color: var(--cud-accent-orange); }
+	.cud-accent-purple{ color: var(--cud-accent-purple); }
+	.cud-accent-brown { color: var(--cud-accent-brown ); }
+	.cud-gray         { color: var(--cud-gray         ); }
+	.fill {
+		fill-opacity: 1;
+		stroke-width: 1;
+	}
+	</style>
+
+	<use class="cud-accent-blue" xlink:href="#system-2d-closed"/>
+</svg>

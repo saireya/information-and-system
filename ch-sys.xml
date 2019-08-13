@@ -110,22 +110,43 @@
 			半閉鎖系は、システムの<em>内部から外部を観察し、外部の変化に反応</em>することで、間接的に環境の影響を受ける。
 			内部からの観察や反応がなければ、外部からどれだけ強い刺激を与えても、半閉鎖系のシステムに影響を及ぼすことはできない。
 			また内部から反応がありシステムが変化した場合も、その反応が外部から与えた刺激の通りのものになるとは限らない。</p>
-			<p>図<xref ref="fig-system"/>に、システムを閉鎖性により分類して示した。
-			図<xref ref="fig-system"/>ではシステムを円で、システムの境界を円周で表している。
-			外部の影響を受ける開放系は点線で、外部の影響を受けない閉鎖系は実線とした。
+			<p>図<xref ref="fig-system-2d-open"/>、図<xref ref="fig-system-2d-semiclosed"/>、図<xref ref="fig-system-2d-closed"/>に、システムを閉鎖性により分類して示した。
+			図では、システムを円で、システムの境界を円周で表している。
+			外部の影響を受ける開放系(図<xref ref="fig-system-2d-open"/>、図<xref ref="fig-system-2d-semiclosed"/>)は点線で、外部の影響を受けない閉鎖系(図<xref ref="fig-system-2d-closed"/>)は実線とした。
 			また、システムが時間の経過と共に変化することを、境界に三角を付して表した。</p>
-			<figure xml:id="fig-system">
-				<image source="image/system" width="75%"/>
-				<caption>開放性によるシステムの分類</caption>
-			</figure>
-			<p>図<xref ref="fig-system-autopoiesis"/>に、閉鎖性によるオートポイエーシスの違いを示す。
-			外部の影響を受ける開放系では、外部の変化によりシステムの状態が変化し、次の状態が決まる。
-			半閉鎖系では、外部が変化しても直接影響を受けることはないが、システム内部から外部の変化を観察することで外部の影響を受け、次の状態が変化することがありうる。
-			閉鎖系は外部から影響を受けないため、外部で生じた変化の影響を受けてシステム内部の状態が変化することはない。</p>
-			<figure xml:id="fig-system-autopoiesis">
-				<image source="image/system-autopoiesis" width="75%"/>
-				<caption>閉鎖性とオートポイエーシス</caption>
-			</figure>
+			<sidebyside width="15%">
+				<figure xml:id="fig-system-2d-open">
+					<image source="image/system-2d-open"/>
+					<caption>開放系</caption>
+				</figure>
+				<figure xml:id="fig-system-2d-semiclosed">
+					<image source="image/system-2d-semiclosed"/>
+					<caption>半閉鎖系</caption>
+				</figure>
+				<figure xml:id="fig-system-2d-closed">
+					<image source="image/system-2d-closed"/>
+					<caption>閉鎖系</caption>
+				</figure>
+			</sidebyside>
+
+			<p>図<xref ref="fig-autopoiesis-open"/>、図<xref ref="fig-autopoiesis-semiclosed"/>、図<xref ref="fig-autopoiesis-closed"/>に、閉鎖性によるオートポイエーシスの違いを示す。
+			外部の影響を受ける開放系(図<xref ref="fig-autopoiesis-open"/>)では、外部の変化によりシステムの状態が変化し、次の状態が決まる。
+			半閉鎖系(図<xref ref="fig-autopoiesis-semiclosed"/>)では、外部が変化しても直接影響を受けることはないが、システム内部から外部の変化を観察することで外部の影響を受け、次の状態が変化することがありうる。
+			閉鎖系(図<xref ref="fig-autopoiesis-closed"/>)は外部から影響を受けないため、外部で生じた変化の影響を受けてシステム内部の状態が変化することはない。</p>
+			<sidebyside width="15%">
+				<figure xml:id="fig-autopoiesis-open">
+					<image source="image/system-autopoiesis-open"/>
+					<caption>開放系</caption>
+				</figure>
+				<figure xml:id="fig-autopoiesis-semiclosed">
+					<image source="image/system-autopoiesis-semiclosed"/>
+					<caption>半閉鎖系</caption>
+				</figure>
+				<figure xml:id="fig-autopoiesis-closed">
+					<image source="image/system-autopoiesis-closed"/>
+					<caption>閉鎖系</caption>
+				</figure>
+			</sidebyside>
 		</subsection>
 	</section>
 
