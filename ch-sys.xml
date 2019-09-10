@@ -6,8 +6,7 @@
 		<p><xref ref="sec-sys-bg"/>節では還元主義の背景を述べ、<xref ref="sec-sys-def"/>節でシステムを定義する。
 		<xref ref="sec-sys-dynamic"/>節では時間の経過に伴うシステムの変化について述べる。
 		<xref ref="sec-sys-eg"/>節ではシステムの例を示し、心理や社会、創造など、人間の活動がシステムという統一的な視点で俯瞰できることを述べる。
-		<xref ref="sec-sys-autopoiesis"/>節では、オートポイエーシスがシステムに及ぼす影響について述べる。
-		<xref ref="sec-sys-decompose"/>節では、システムの分割について述べる。</p>
+		<xref ref="sec-sys-decompose"/>節でシステムの分割について述べた上で、<xref ref="sec-sys-autopoiesis"/>節で時間発展に伴うシステムの分化について述べる。</p>
 	</introduction>
 
 	<section xml:id="sec-sys-bg">
@@ -16,44 +15,47 @@
 		物質の化学反応や生命の維持、人間の思考、地域やSNSのコミュニティ、政治や経済は、いずれも要素間の相互作用を考慮しなければ、適切に分析できない。</p>
 		<p>Lévi-Straussは、要素間の関係を<dfn en="structure">構造</dfn>と呼んだ<xref ref="bib-levi-strauss"/>。
 		構造主義では構造を重視し、対象<m>A</m>を要素とその関係からなるシステムとみなし、関係に注目して分析する。</p>
+		<definition>
+			<title>構造</title>
+			<statement>
+				集合<m>V = \{ v_i | i = 1, \cdots, n \}</m>の2つの要素<m>v_i, v_j</m>間に関係があるとき<m>e_{ij} = 1</m>とし、それ以外のとき<m>e_{ij} = 0</m>とする。
+				このとき、集合<m>E = \{ e_{ij} | i = 1, \cdots, n; j = 1, \cdots, n \}</m>を、集合<m>V</m>の<dfn en="structure">構造</dfn>という。
+			</statement>
+		</definition>
 	</section>
 
 	<section xml:id="sec-sys-def">
 		<title>システムの定義</title>
 		<p><ruby r="ベルタランフィ">Bertalanffy</ruby><xref ref="bib-bertalanffy"/>によれば、<dfn en="system">システム</dfn>または<ruby r="けい"><dfn>系</dfn></ruby>とは<em>相互に作用しあう要素の集合</em>である。
-		システムは、要素の集合<m>V</m>と、相互作用を表す要素間の関係<m>E</m>の集合の組<m>S = (V, E)</m>として定義される。</p>
-
+		システムは、要素の集合<m>V</m>と、要素間の相互作用を表す<m>V</m>の構造<m>E</m>の組<m>S = (V, E)</m>として定義される。</p>
 		<definition>
-			<title>システムと構造</title>
+			<title>システム</title>
 			<statement>
-				要素の集合を<m>V = \{ a_i | i = 1, \cdots, n \}</m>、要素間の関係の集合を<m>E = \{ e_i | i = 1, \cdots, m \}</m>としたとき、組<m>(V, E)</m>を、<dfn en="system">システム</dfn>または<ruby r="けい"><dfn>系</dfn></ruby>という。
-				また、<m>E</m>をシステム<m>(V, E)</m>の<dfn en="structure">構造</dfn>という<xref ref="bib-levi-strauss"/>。
+				要素の集合を<m>V = \{ v_i | i = 1, \cdots, n \}</m>、<m>V</m>の構造を<m>E = \{ e_{ij} | i = 1, \cdots, n; j = 1, \cdots, n; \}</m>としたとき、組<m>(V, E)</m>を<dfn en="system">システム</dfn>または<ruby r="けい"><dfn>系</dfn></ruby>という。
+				このとき、<m>E</m>をシステム<m>(V, E)</m>の構造という。
 			</statement>
 		</definition>
-
 		<note>
 			<title>グラフ</title>
 			<statement>
 				<p>システムのように、点と、2点を結ぶ線の組を<dfn en="graph">グラフ</dfn>という。
-				グラフでは、「点」を<dfn strong="0" en="node">節点</dfn>や頂点、「線」を<dfn strong="0" en="edge">枝</dfn>や辺という。</p>
-				<p>グラフは節点と枝のみからなるため、節点と枝を記述すれば、グラフを表せる。
-				節点<m>v_1, \cdots, v_n</m>と枝<m>e_1, \cdots, e_m</m>からなるグラフについて、節点の集合を<m>V = \{v_i | i = 1, \cdots, n\}</m>、枝の集合を<m>E = \{e_j | j = 1, \cdots, m\}</m>とすると、<m>(V, E)</m>と表せる。</p>
-				<p>枝は2点を結ぶ線であるので、枝の端となる2点を定めれば枝を表現できるため、2点<m>v_k, v_l</m>を結ぶ枝は<m>e = (v_k, v_l)</m>と表せる。
-				枝の2つの端点が区別できず、枝に「向き」がないグラフを<dfn en="undirected graph">無向グラフ</dfn>という。
+				グラフでは、「点」を<dfn strong="0" en="node">節点</dfn>や頂点、「線」を<dfn strong="0" en="edge">枝</dfn>や辺という。
+				数学の関数<m>y = f(x)</m>の概形を表す「グラフ」や、理科の実験で測定値に対応する点を繋いだ「グラフ」も、その関数が通る「点」を「線」で結んで表したものなので、ここでいうグラフの一種である。</p>
+				<p>グラフは節点と枝のみからなるため、節点の集合を<m>V</m>、枝の集合を<m>E</m>とすれば、グラフは<m>(V, E)</m>と表せる。
+				グラフのうち、枝の2つの端点が区別できず、枝に「向き」がないグラフを<dfn en="undirected graph">無向グラフ</dfn>という。
 				一方、すべての枝に「向き」があるグラフを<dfn en="directed graph">有向グラフ</dfn>という。</p>
-				<p>有向グラフでは、起点を<m>v_k</m>、終点を<m>v_l</m>とする枝を<m>e_{kl} = (v_k, v_l)</m>と表せる。
-				ここで、<m>e_{kl}</m>が存在すれば<m>\varepsilon_{kl} = 1</m>、存在しなければ<m>\varepsilon_{kl} = 0</m>と定義すると、<m>\varepsilon_{ij} (i = 1, \cdots, n; j = 1, \cdots, n)</m>を並べた行列<m>E = (\varepsilon_{ij})</m>を定義できる。
+				<p>枝は単純に2点を結ぶ線と定義する以外に、非負の実数を枝の<dfn en="capacity">容量</dfn>と定めて重み付けすることで、重みのある枝を表せる。
+				このとき、枝の容量<m>e_{ij} (i = 1, \cdots, n; j = 1, \cdots, n)</m>を並べることで、行列<m>E = (e_{ij})</m>を定義できる。
 				この行列を<dfn strong="0">隣接行列</dfn>と呼び、グラフをこの行列で表現できる。</p>
-				<me>E = (\varepsilon_{ij})
+				<me>E = (e_{ij})
 					= \begin{pmatrix}
-						\varepsilon_{11} \amp \varepsilon_{12} \amp \cdots \amp \varepsilon_{1n} \\
-						\varepsilon_{21} \amp \varepsilon_{22} \amp \cdots \amp \varepsilon_{2n} \\
+						e_{11} \amp e_{12} \amp \cdots \amp e_{1n} \\
+						e_{21} \amp e_{22} \amp \cdots \amp e_{2n} \\
 						\vdots           \amp \vdots           \amp \ddots \amp \vdots \\
-						\varepsilon_{n1} \amp \varepsilon_{n2} \amp \cdots \amp \varepsilon_{nn} \\
+						e_{n1} \amp e_{n2} \amp \cdots \amp e_{nn} \\
 					\end{pmatrix}
 				</me>
-				<p>以上のようなグラフに関する理論はグラフ理論と呼ばれ、ネットワークや送電網の分析など、工学の各方面で応用される。
-				なお、関数<m>y = f(x)</m>の概形を表す「グラフ」も、その関数が通る「点」を「線」で結んで表したものなので、ここでいうグラフの一種である。</p>
+				<p>以上のようなグラフに関する理論はグラフ理論と呼ばれ、ネットワークや送電網の分析など、工学の各方面で応用される。</p>
 			</statement>
 		</note>
 
@@ -73,22 +75,28 @@
 		<subsection xml:id="ssec-sys-state">
 			<title>状態</title>
 			<p>それぞれの時刻でのシステムの構造を、そのシステムの<dfn en="state">状態</dfn>という。</p>
-
 			<definition>
 				<title>状態</title>
 				<statement>
-					ある<em>時刻<m>t</m>におけるシステム<m>S</m>の構造</em>を、<m>S</m>の時刻<m>t</m>における<dfn en="state">状態</dfn>という。
-					最初の時刻、即ち時刻0におけるシステムの状態を<dfn en="initial state">初期状態</dfn>という。
+					ある<em>時刻<m>t</m>におけるシステム<m>S</m>の構造</em>を、<m>S</m>の時刻<m>t</m>における<dfn en="state">状態</dfn>といい、<m>S(t) = (V(t), E(t))</m>と表す。
+					ここで<m>V(t), E(t)</m>はそれぞれ、<m>S(t)</m>の要素の集合と構造である。
+					最初の時刻、即ち時刻0におけるシステムの状態<m>S(0)</m>を、システム<m>S</m>の<dfn en="initial state">初期状態</dfn>という。
 					またシステムの状態が一定になり、もはや変化しなくなったとき、その状態を<dfn>定常状態</dfn>という。
 					<!-- むしろ、システムの状態が変化することを、時間が経過したと呼ぶこともできる。-->
 				</statement>
 			</definition>
-
+			<definition>
+				<title>オートポイエーシス</title>
+				<statement>
+					時刻<m>t = T</m>において<m>S(T-1) \ne S(T)</m>となるとき、システム<m>S</m>は<m>t = T</m>において<dfn en="autopoiesis">オートポイエーシス</dfn>が生じた、または<dfn>自己創発</dfn>したという。
+					ここで<m>S(T-1) \ne S(T)</m>とは、<m>V(T-1) \ne V(T)</m>または<m>E(T-1) \ne E(T)</m>となることをいう。
+				</statement>
+			</definition>
 			<note>
 				<title>力学系</title>
 				<statement>
 					<p>システムにおける動的な構造の変化を強調して、システムを<dfn en="dynamical system" strong="0">力学系</dfn>や<dfn en="complex system">複雑系</dfn>ということがある。
-					ここで、力学系の「力学」はdynamicalの訳語であり、物理における「力学」との直接的な関係はない。</p>
+					この「力学」はdynamicalの訳語であり、物理における「力学」との直接的な関係はない。</p>
 					<p>力学系では、状態を<m>n</m>個の変数<m>x_1, \cdots, x_n</m>で表せると仮定する。
 					状態の変化を<m>n</m>個の関数<m>f_1, \cdots, f_n</m>で表せるとしたとき、力学系は次の<m>n</m>個の微分方程式で表される。</p>
 					<me>\frac{d}{dt} x_i = f_i(x_1, \cdots, x_n, t) (i = 1, \cdots, n)</me>
@@ -202,10 +210,47 @@
 		</subsection>
 	</section>
 
+	<section xml:id="sec-sys-decompose">
+		<title>システムの分割</title>
+		<p>システムにおいても、集合と同様に、分割を定義することを考える。
+		「相互に関連する」というシステムの定義より、そのままでは分割できないことは明らかである。
+		もしシステムの中に分割可能な部分が存在すれば、その部分はシステムの他の部分と関連していないため、システムの定義に反している。</p>
+		<proposition>
+			<title>システムの連結性</title>
+			<statement>
+				システム<m>(V, E)</m>は<dfn>連結</dfn>である。
+				つまり、グラフ<m>(V, E)</m>の任意の2要素<m>v_i, v_j (\in V)</m>に対して、<m>v_i</m>から<m>v_j</m>まで辿る枝が存在する。
+			</statement>
+		</proposition>
+
+		<p>Simonは、システム内部の要素間の関連性には強弱があり、互いに強い関連性をもつ部分と、互いに弱い関連性しかもたない部分があることに着目した<xref ref="bib-simon2"/>。
+		ここで、<m>S_i = (V_i, E_i) (i = 1, \cdots, n)</m>について、<m>V = V_1 \cup \cdots \cup V_n, E = E_1 \cup \cdots \cup E_n</m>となるとき、「互いに弱い関連性しかもたない」とは、任意の<m>i, j (= 1, \cdots, n)</m>について<m>V_i \cap V_j ≒ \emptyset, E_i \cap E_j ≒ \emptyset</m>が成り立つことである。
+		Simonはこうしたシステム<m>S</m>は<dfn en="nearly decomposable">準分解可能</dfn>だといい、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>と呼んだ。
+		準分解可能なシステムでは、システムを複数の部分システムに分解しても、失われる創発性は無視できるほど小さいものとみなせる。</p>
+		<!--TODO: 分割/準分解の図-->
+		<definition>
+			<title>システムの準分解</title>
+			<statement>
+				システム<m>S = (V, E)</m>について、構造<m>E</m>を<m>E = \{e_{ij} \}</m>と定義する。
+				ここで<m>e_{ij}</m>は、<m>S</m>における<m>v_i (\in V)</m>と<m>v_j (\in V)</m>の関連性の強さを表す非負の実数である。
+				あるしきい値<m>\tau</m>をとり、「<m>e_{ij} \leq \tau</m>なら<m>e_{ij} = 0</m>」とみなすことで<m>S</m>を<m>S_1, \cdots, S_n</m>に分割できるとする。
+				このとき、システム<m>S</m>はしきい値<m>\tau</m>で<m>S_1, \cdots, S_n</m>に<dfn en="nearly decomposable">準分解可能</dfn>だといい、<m>S = S_1 \sqcup \cdots \sqcup S_n</m>と表す。
+				また、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>という。
+			</statement>
+		</definition>
+	</section>
+
 	<section xml:id="sec-sys-autopoiesis">
 		<title>オートポイエーシスの影響</title>
 		<p>システムにおいて、<em>オートポイエーシスはそのシステムの機能や特徴を強める</em>方向に作用する<xref ref="bib-borch"/>。
 		特に社会システムの場合、オートポイエーシスにより<em>それぞれの組織がその機能や特性を強める</em>現象を、その社会の<dfn>機能的分化</dfn>という。</p>
+		<definition>
+			<title>システムの機能的分化</title>
+			<statement>
+				システム<m>S</m>に時刻<m>t = T</m>で生じたオートポイエーシスにより、<m>S(T) = S_1(T) \sqcup S_2(T)</m>と準分解できるようになったとする。
+				このとき、システム<m>S</m>は時刻<m>t = T</m>で<m>S_1</m>と<m>S_2</m>に<dfn>機能的分化</dfn>したという。
+			</statement>
+		</definition>
 		<p>社会システムである組織の場合は、ある組織内のルールが成果メディアとして働くと、そのルールはより強固なものとなり、他の組織との差異を増大させる。
 		例えば、陸上部には陸上部のルールが存在する。
 		陸上部の部員がそのルールに従いながらも少しずつ変化させていくことにより、陸上部の独自性が増す。
@@ -216,21 +261,4 @@
 		<p>同様の現象は心理システムでも生じ、オートポイエーシスにより思考が深化することで、その個人の思想や信条として固定化していく。</p>
 		<!-- TODO: 機能的分化の図 -->
 	</section>
-
-	<section xml:id="sec-sys-decompose">
-		<title>システムの分割</title>
-		<p>システムにおいても、集合と同様に、分割を定義することを考える。
-		システム<m>S</m>とシステム<m>S_1, \cdots, S_n</m>があり、<m>S = S_1 \cup \cdots \cup S_n</m>とする。
-		ここで、<m>S_1, \cdots, S_n</m>が互いに共通部分を持たないとすると、システム<m>S</m>は分割可能だといえる。</p>
-		<p>だが、システムは「要素が互いに関連する」集合であり、創発性がある。
-		もしシステムの中に分割可能な部分が存在すると仮定すれば、その部分はシステムの他の部分と関連していないため、システムの定義に反しており、別のシステムだといえる。
-		従ってシステムに対しては、集合のような素朴な分割は行えない。</p>
-		<p>Simonは、システム内部の要素間の関連性には強弱があり、互いに強い関連性をもつ部分と、互いに弱い関連性しかもたない部分があることに着目した<xref ref="bib-simon2"/>。
-		ここで、<m>S_1, \cdots, S_n</m>が「互いに弱い関連性しかもたない」とは、任意の<m>i, j</m>について<m>S_i \cap S_j ≒ \emptyset</m>が成り立つことである。
-		このとき、<m>S_1, \cdots, S_n</m>は「<em>ほとんど</em>互いに素」であり、<m>S ≒ S_1 \sqcup \cdots \sqcup S_n</m>とみなせる。
-		Simonはこうしたシステム<m>S</m>は<dfn en="nearly decomposable">準分解可能</dfn>だといい、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>と呼んだ。
-		準分解可能なシステムでは、システムを複数の部分システムに分解しても、失われる創発性は無視できるほど小さいものとみなせる。</p>
-		<!--TODO: 分割/準分解の図-->
-	</section>
-
 </chapter>

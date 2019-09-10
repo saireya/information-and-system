@@ -29,6 +29,13 @@
 		<p>Youngはアイデアを、<strong>既存の要素の新たな組み合わせ</strong>だと述べている<xref ref="bib-young"/><xref ref="bib-young-j"/>。
 		あらゆる発想は全く何もないところから湧き出すのではなく、意識的であれ無意識的であれ、既知のものを組み合わせて生まれる。</p>
 		<p><ruby r="シュンペーター">Schumpeter</ruby>は、このように新たな組み合わせを生じさせることを<dfn en="innovation">イノベーション</dfn>と呼び、社会発展の源泉だとした<xref ref="bib-schumpeter"/>。</p>
+		<definition>
+			<title>アイデア</title>
+			<statement>
+				時刻<m>t = T</m>において<m>S</m>にオートポイエーシスが生じたとき、システムの定義により、<m>e \in E(T) \setminus E(T-1)</m>となる<m>e</m>が存在する。
+				この<m>e</m>を、システム<m>S</m>に時刻<m>T</m>で生じた<dfn en="idea">アイデア</dfn>という。
+			</statement>
+		</definition>
 	</section>
 
 	<section xml:id="sec-em-gen">
