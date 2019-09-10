@@ -32,7 +32,7 @@
 		<definition>
 			<title>アイデア</title>
 			<statement>
-				時刻<m>t = T</m>において<m>S</m>にオートポイエーシスが生じたとき、システムの定義により、<m>e \in E(T) \setminus E(T-1)</m>となる<m>e</m>が存在する。
+				時刻<m>t = T</m>においてシステム<m>S</m>にオートポイエーシスが生じたとき、システムの定義により、<m>e \in E(T)</m>かつ<m>e \notin E(T-1)</m>となる<m>e</m>が存在する。
 				この<m>e</m>を、システム<m>S</m>に時刻<m>T</m>で生じた<dfn en="idea">アイデア</dfn>という。
 			</statement>
 		</definition>

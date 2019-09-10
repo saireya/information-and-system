@@ -18,8 +18,29 @@
 		<definition>
 			<title>構造</title>
 			<statement>
-				集合<m>V = \{ v_i | i = 1, \cdots, n \}</m>の2つの要素<m>v_i, v_j</m>間に関係があるとき<m>e_{ij} = 1</m>とし、それ以外のとき<m>e_{ij} = 0</m>とする。
-				このとき、集合<m>E = \{ e_{ij} | i = 1, \cdots, n; j = 1, \cdots, n \}</m>を、集合<m>V</m>の<dfn en="structure">構造</dfn>という。
+				集合<m>V = \{ v_i | i = 1, \cdots, n \}</m>の2つの要素<m>v_i, v_j</m>間に関係があるとき、この関係を2要素の組<m>(v_i, v_j)</m>として表す。
+				このとき、関係の集合<m>E = \{ (v_i, v_j) \}</m>を、集合<m>V</m>の<dfn en="structure">構造</dfn>という。
+			</statement>
+		</definition>
+		<p>構造の表し方には、要素の組として表す以外に、次のように隣接行列を用いる方法もある。</p>
+		<definition>
+			<title>隣接行列</title>
+			<statement>
+				集合<m>V = \{ v_i | i = 1, \cdots, n \}</m>の2つの要素<m>v_i, v_j</m>間に関係がある、つまり<m>(v_i, v_j) \in E</m>のとき<m>e_{ij} = 1</m>とし、それ以外のとき<m>e_{ij} = 0</m>とする。
+				このとき、<m>e_{ij}</m>を次のように並べた行列<m>\varepsilon = (e_{ij})</m>を、集合<m>V</m>の<dfn>隣接行列</dfn>という。
+				<me>\varepsilon = (e_{ij})
+					= \begin{pmatrix}
+						e_{11} \amp e_{12} \amp \cdots \amp e_{1n} \\
+						e_{21} \amp e_{22} \amp \cdots \amp e_{2n} \\
+						\vdots           \amp \vdots           \amp \ddots \amp \vdots \\
+						e_{n1} \amp e_{n2} \amp \cdots \amp e_{nn} \\
+					\end{pmatrix} \ 
+					\left( e_{ij} = \begin{cases}
+						1 \amp ((v_i, v_j) \in E) \\
+						0 \amp ((v_i, v_j) \notin E) \\
+					\end{cases} \right)
+				</me>
+				より一般的に、<m>e_{ij}</m>の値を非負の実数とすることもある。このとき、<m>e_{ij}</m>は関係<m>(v_i, v_j)</m>の大きさや強さ、広さなどを表すことができるので、<m>(v_i, v_j)</m>の<dfn en="capacity">容量</dfn>という。
 			</statement>
 		</definition>
 	</section>
@@ -32,7 +53,7 @@
 			<title>システム</title>
 			<statement>
 				要素の集合を<m>V = \{ v_i | i = 1, \cdots, n \}</m>、<m>V</m>の構造を<m>E = \{ e_{ij} | i = 1, \cdots, n; j = 1, \cdots, n; \}</m>としたとき、組<m>(V, E)</m>を<dfn en="system">システム</dfn>または<ruby r="けい"><dfn>系</dfn></ruby>という。
-				このとき、<m>E</m>をシステム<m>(V, E)</m>の構造という。
+				このとき、<m>V</m>の要素をシステム<m>(V, E)</m>の要素といい、集合<m>E</m>をシステム<m>(V, E)</m>の構造という。
 			</statement>
 		</definition>
 		<note>
@@ -44,23 +65,25 @@
 				<p>グラフは節点と枝のみからなるため、節点の集合を<m>V</m>、枝の集合を<m>E</m>とすれば、グラフは<m>(V, E)</m>と表せる。
 				グラフのうち、枝の2つの端点が区別できず、枝に「向き」がないグラフを<dfn en="undirected graph">無向グラフ</dfn>という。
 				一方、すべての枝に「向き」があるグラフを<dfn en="directed graph">有向グラフ</dfn>という。</p>
-				<p>枝は単純に2点を結ぶ線と定義する以外に、非負の実数を枝の<dfn en="capacity">容量</dfn>と定めて重み付けすることで、重みのある枝を表せる。
-				このとき、枝の容量<m>e_{ij} (i = 1, \cdots, n; j = 1, \cdots, n)</m>を並べることで、行列<m>E = (e_{ij})</m>を定義できる。
-				この行列を<dfn strong="0">隣接行列</dfn>と呼び、グラフをこの行列で表現できる。</p>
-				<me>E = (e_{ij})
-					= \begin{pmatrix}
-						e_{11} \amp e_{12} \amp \cdots \amp e_{1n} \\
-						e_{21} \amp e_{22} \amp \cdots \amp e_{2n} \\
-						\vdots           \amp \vdots           \amp \ddots \amp \vdots \\
-						e_{n1} \amp e_{n2} \amp \cdots \amp e_{nn} \\
-					\end{pmatrix}
-				</me>
 				<p>以上のようなグラフに関する理論はグラフ理論と呼ばれ、ネットワークや送電網の分析など、工学の各方面で応用される。</p>
 			</statement>
 		</note>
 
 		<!-- TODO: グラフのEとVを具体的に示した図 -->
-
+		<p>集合についての和集合や共通部分と同様に、システムの相等性や、合併、共通部分を定義できる。</p>
+		<definition>
+			<title>システムの相等・合併・共通部分</title>
+			<statement>
+				<m>S_1 = (V_1, E_1), S_2 = (V_2, E_2)</m>をシステムとする。
+				このとき、
+				<ul>
+					<li><m>E_1 = E_2</m>であれば、<m>S_1</m>と<m>S_2</m>は同じシステムであるといい、<m>S_1 = S_2</m>と表す。<m>S_1 = S_2</m>でないことを、<m>S_1 \ne S_2</m>と表す。</li>
+					<li><m>S_1 \cup S_2 = (V_1 \cup V_2, E_1 \cup E_2)</m>を<m>S_1</m>と<m>S_2</m>の<dfn en="union">合併</dfn>という。<m>V_1 \cap V_2 \ne \emptyset</m>ならば、<m>S_1 \cup S_2</m>はシステムである。</li>
+					<li><m>S_1 \cap S_2 = (V_1 \cap V_2, E_1 \cap E_2)</m>を<m>S_1</m>と<m>S_2</m>の<dfn en="intersection">共通部分</dfn>という。<m>S_1, S_2</m>がシステムなら<m>S_1 \cap S_2</m>はシステムである。</li>
+				</ul>
+				同様にして、3つ以上のシステムの合併や共通部分も定義する。
+			</statement>
+		</definition>
 		<p>構造主義に基づく分析では、還元主義では分析しにくい要素間の関係、つまり相互作用を考慮するため、複数の要素が密接に関係し合う、ネットワークや社会の分析に適している。
 		一方で、要素間にある関係が明確でない場合や、関係の種類や形式が多様である場合が多く、現実で生じる現象をシステムとして表すのが難しい場合がある。</p>
 	</section>
@@ -89,7 +112,6 @@
 				<title>オートポイエーシス</title>
 				<statement>
 					時刻<m>t = T</m>において<m>S(T-1) \ne S(T)</m>となるとき、システム<m>S</m>は<m>t = T</m>において<dfn en="autopoiesis">オートポイエーシス</dfn>が生じた、または<dfn>自己創発</dfn>したという。
-					ここで<m>S(T-1) \ne S(T)</m>とは、<m>V(T-1) \ne V(T)</m>または<m>E(T-1) \ne E(T)</m>となることをいう。
 				</statement>
 			</definition>
 			<note>
@@ -224,18 +246,18 @@
 		</proposition>
 
 		<p>Simonは、システム内部の要素間の関連性には強弱があり、互いに強い関連性をもつ部分と、互いに弱い関連性しかもたない部分があることに着目した<xref ref="bib-simon2"/>。
-		ここで、<m>S_i = (V_i, E_i) (i = 1, \cdots, n)</m>について、<m>V = V_1 \cup \cdots \cup V_n, E = E_1 \cup \cdots \cup E_n</m>となるとき、「互いに弱い関連性しかもたない」とは、任意の<m>i, j (= 1, \cdots, n)</m>について<m>V_i \cap V_j ≒ \emptyset, E_i \cap E_j ≒ \emptyset</m>が成り立つことである。
+		システム<m>S_i = (V_i, E_i) (i = 1, \cdots, n)</m>について、<m>S = S_1 \cup \cdots \cup S_n</m>となるとき、「互いに弱い関連性しかもたない」とは、任意の<m>i, j (= 1, \cdots, n)</m>について<m>S_i \cap S_j ≒ (\emptyset, \emptyset)</m>が成り立つことである。
 		Simonはこうしたシステム<m>S</m>は<dfn en="nearly decomposable">準分解可能</dfn>だといい、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>と呼んだ。
 		準分解可能なシステムでは、システムを複数の部分システムに分解しても、失われる創発性は無視できるほど小さいものとみなせる。</p>
 		<!--TODO: 分割/準分解の図-->
 		<definition>
 			<title>システムの準分解</title>
 			<statement>
-				システム<m>S = (V, E)</m>について、構造<m>E</m>を<m>E = \{e_{ij} \}</m>と定義する。
-				ここで<m>e_{ij}</m>は、<m>S</m>における<m>v_i (\in V)</m>と<m>v_j (\in V)</m>の関連性の強さを表す非負の実数である。
+				システム<m>S = (V, E)</m>の隣接行列を<m>\epsilon = \{e_{ij} \}</m>と定義する。
+				ここで<m>e_{ij}</m>は、関係<m>(v_i, v_j)</m>の強さを表す非負の実数である。
 				あるしきい値<m>\tau</m>をとり、「<m>e_{ij} \leq \tau</m>なら<m>e_{ij} = 0</m>」とみなすことで<m>S</m>を<m>S_1, \cdots, S_n</m>に分割できるとする。
 				このとき、システム<m>S</m>はしきい値<m>\tau</m>で<m>S_1, \cdots, S_n</m>に<dfn en="nearly decomposable">準分解可能</dfn>だといい、<m>S = S_1 \sqcup \cdots \sqcup S_n</m>と表す。
-				また、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>という。
+				また、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>といい、<m>S_i \subset S</m>と表す。
 			</statement>
 		</definition>
 	</section>
