@@ -21,7 +21,7 @@
 	<section xml:id="sec-sys-def">
 		<title>システムの定義</title>
 		<p><ruby r="ベルタランフィ">Bertalanffy</ruby><xref ref="bib-bertalanffy"/>によれば、<dfn en="system">システム</dfn>または<ruby r="けい"><dfn>系</dfn></ruby>とは<em>相互に作用しあう要素の集合</em>である。
-		システムは、要素の集合<m>V</m>と、相互作用を表す要素間の関係<m>E</m>の集合の組<m>A = (V, E)</m>として定義される。</p>
+		システムは、要素の集合<m>V</m>と、相互作用を表す要素間の関係<m>E</m>の集合の組<m>S = (V, E)</m>として定義される。</p>
 
 		<definition>
 			<title>システムと構造</title>
