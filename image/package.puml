@@ -1,14 +1,7 @@
 @startuml package
-left to right direction
+'AutoInclude
 
-skinparam Shadowing false
-skinparam PackageBorderColor #909090
-skinparam ClassBorderColor #9090ff
-skinparam ClassBackgroundColor transparent
-skinparam ClassHeaderBackgroundColor #ddddff
-skinparam ArrowColor #ff9090
-skinparam ArrowThickness 3
-skinparam DefaultFontName "Noto Sans CJK JP"
+left to right direction
 
 package I:情報/コミュニケーション/メディア as I {
 	class 記号と意味 <<(2,transparent)>> {
