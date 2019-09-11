@@ -61,14 +61,27 @@
 		<subsection xml:id="ssec-reduction-mece">
 			<title>MECE</title>
 			<p>ある性質について還元性のある集合<m>A</m>は、その性質について集合を分割することができる。
-			このとき、<m>A = A_1 \cup \cdots \cup A_n</m>と分割できるが、この分割が適切な分割だとは限らない。</p>
-			<p><m>A</m>の要素のうち、<m>A_1, \cdots, A_n</m>に<em>含まれない要素があり、「漏れ」が生じる</em>ことがありうる。
+			このとき、<m>A = A_1 \cup \cdots \cup A_n</m>と分割できるが、この分割が適切な分割だとは限らない。
+			図<xref ref="fig-system-2d-set-ce"/>、図<xref ref="fig-system-2d-set-me"/>、図<xref ref="fig-system-2d-set-mece"/>に、分割で起こりうる可能性を示す。</p>
+			<p><m>A</m>の要素のうち、<m>A_1, \cdots, A_n</m>に<em>含まれない要素があり、図<xref ref="fig-system-2d-set-ce"/>のように「漏れ」が生じる</em>ことがありうる。
 			分割に「漏れ」があると、必要な要素を見落として分析することになり、正しい解に到達しない。</p>
-			<p>また、<m>A_1, \cdots, A_n</m>に<em>同じ要素を含む集合があり、「重複」が生じる</em>ことがありうる。
+			<p>また、<m>A_1, \cdots, A_n</m>に<em>同じ要素を含む集合があり、図<xref ref="fig-system-2d-set-me"/>のように「重複」が生じる</em>ことがありうる。
 			分割に「重複」があると、必要な要素を複数回分析することになり、効率の良い分析ができない。</p>
-			<!-- TODO: 適切な還元の例を示す図 -->
-			<p>以上のような誤りを避け、<m>A</m>を<strong>漏れなく(Collectively Exhaustive)重複なく(Mutually Exclusive)分割</strong>する<m>A_1, \cdots, A_n</m>をとることができる。</p>
-
+			<p>以上のような誤りを避けると、図<xref ref="fig-system-2d-set-mece"/>のように<m>A</m>を<strong>漏れなく(Collectively Exhaustive)重複なく(Mutually Exclusive)分割</strong>する<m>A_1, \cdots, A_n</m>をとることができる。</p>
+			<sidebyside width="15%">
+				<figure xml:id="fig-system-2d-set-ce">
+					<image source="image/system-2d-set-ce"/>
+					<caption>漏れがある場合</caption>
+				</figure>
+				<figure xml:id="fig-system-2d-set-me">
+					<image source="image/system-2d-set-me"/>
+					<caption>重複がある場合</caption>
+				</figure>
+				<figure xml:id="fig-system-2d-set-mece">
+					<image source="image/system-2d-set"/>
+					<caption>適切な分割(MECE)</caption>
+				</figure>
+			</sidebyside>
 			<definition>
 				<title>Mutually Exclusive and Collectively Exhaustive (MECE)</title>
 				<statement>
