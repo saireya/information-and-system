@@ -59,9 +59,8 @@
 			<li><dfn>構造主義</dfn>: 複雑な対象を何らかの基準に従って<em>より単純な複数の要素に分割</em>し、<em>要素間の関係を分析</em>して対象を説明する。</li>
 			<li><dfn>創発主義</dfn>: 複雑な対象を<em>要素に分割せず</em>、<em>対象全体を分析</em>して対象を説明する。</li>
 		</ul>
-		<!-- TODO: 3種類の方針を比較する図 -->
-
-		<p>還元主義、構造主義、創発主義の方針を比較して表<xref ref="table-problem-compare"/>に示す。</p>
+		<p>還元主義、構造主義、創発主義の方針を示した模式図を、それぞれ図<xref ref="fig-system-2d-set"/>、図<xref ref="fig-system-2d-sys"/>、図<xref ref="fig-system-2d-eme"/>に示す。
+		また、還元主義、構造主義、創発主義の方針を比較して表<xref ref="table-problem-compare"/>に示す。</p>
 		<table xml:id="table-problem-compare">
 			<caption>還元主義、構造主義、創発主義の比較</caption>
 			<tbody>
@@ -81,6 +80,20 @@
 				</tr>
 			</tbody>
 		</table>
+		<sidebyside width="15%">
+			<figure xml:id="fig-system-2d-set">
+				<image source="image/system-2d-set"/>
+				<caption>還元主義</caption>
+			</figure>
+			<figure xml:id="fig-system-2d-sys">
+				<image source="image/system-2d-sys"/>
+				<caption>構造主義</caption>
+			</figure>
+			<figure xml:id="fig-system-2d-eme">
+				<image source="image/system-2d-eme"/>
+				<caption>創発主義</caption>
+			</figure>
+		</sidebyside>
 
 		<!--
 		<p>準分解可能なシステムは、最も上位のシステムから下位の部分システムに枝分かれしていく<dfn en="tree">木構造</dfn>のグラフで表せるため、木構造を順に辿って解を探す、<dfn en="search">探索</dfn>を行うことも多い。
