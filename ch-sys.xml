@@ -234,6 +234,17 @@
 			<p>また、心理システムの思考と同様に、社会システムのコミュニケーションも、外部から影響を与えることは難しい。
 			たとえ企業が倒産したり、国がなくなったとしても、それらに関するコミュニケーションには直接、影響を及ぼすことができない。
 			従って、<em>社会システムは半閉鎖系</em>である。</p>
+
+			<note>
+				<title>実体関連モデルと関係データベース</title>
+				<statement>
+					<p>コンピュータで情報をデータとして蓄積し、利用できるようにしたものを<dfn en="database">データベース</dfn>(<dfn>DB</dfn>)といい、データベースを管理するためのシステムを<dfn en="database management system">データベース管理システム</dfn>(<dfn>DBMS</dfn>)という。
+					DBMSでは、DBの情報の追加・削除を行うことや、DBから情報を検索し読み出すことができる。</p>
+					<p>現在広く使われるDBの大半が、Codd<xref ref="bib-codd"/>の提案に基づく<dfn en="relational database">関係データベース</dfn>(<dfn>RDB</dfn>)と呼ばれる種類のDBであり、RDBの管理システムを<dfn en="RDBMS">関係データベース管理システム</dfn>という。
+					このRDBの設計には、Chenによる<dfn en="Entity-Relationship model">実体関連モデル</dfn>(<dfn>E-Rモデル</dfn>)<xref ref="bib-chen-er"/>と呼ばれるモデルが使われる。
+					E-Rモデルでは、DBの作成対象を<dfn en="entity">実体</dfn>と、実体間の<dfn en="relationship">関連</dfn>と捉え、実体や関連を属性付きで蓄積したDBをそれぞれ作成し、個々のDBを関連付けて管理する。</p>
+				</statement>
+			</note>
 		</subsection>
 	</section>
 

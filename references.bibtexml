@@ -515,6 +515,27 @@
 	<note>山本安次郎訳</note>
 </book></entry>
 
+<entry id="codd"><article>
+	<title>A relational model of data for large shared data banks</title>
+	<author>Edgar F. Codd</author>
+	<journal>Commun. ACM</journal>
+	<volume>13</volume>
+	<number>6</number>
+	<year>1970</year>
+	<doi>10.1145/362384.362685</doi>
+	<pages>377-387</pages>
+</article></entry>
+
+<entry id="chen-er"><article>
+	<title>The Entity-Relationship Model-Toward a Unified View of Data</title>
+	<author>Peter Chen</author>
+	<journal>ACM Transactions on Database Systems</journal>
+	<volume>1</volume>
+	<year>1976</year>
+	<doi>10.1145/320434.320440</doi>
+	<pages>9-36</pages>
+</article></entry>
+
 <entry id="young"><book>
 	<author>James W. Young</author>
 	<title>A Technique for Producing Ideas</title>
