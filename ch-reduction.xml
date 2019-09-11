@@ -68,7 +68,7 @@
 			<p>また、<m>A_1, \cdots, A_n</m>に<em>同じ要素を含む集合があり、図<xref ref="fig-system-2d-set-me"/>のように「重複」が生じる</em>ことがありうる。
 			分割に「重複」があると、必要な要素を複数回分析することになり、効率の良い分析ができない。</p>
 			<p>以上のような誤りを避けると、図<xref ref="fig-system-2d-set-mece"/>のように<m>A</m>を<strong>漏れなく(Collectively Exhaustive)重複なく(Mutually Exclusive)分割</strong>する<m>A_1, \cdots, A_n</m>をとることができる。</p>
-			<sidebyside width="15%">
+			<sidebyside width="25%">
 				<figure xml:id="fig-system-2d-set-ce">
 					<image source="image/system-2d-set-ce"/>
 					<caption>漏れがある場合</caption>
