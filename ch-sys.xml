@@ -276,6 +276,19 @@
 				また、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>といい、<m>S_i \subset S</m>と表す。
 			</statement>
 		</definition>
+		<p>システムの準分解を示した模式図を、図<xref ref="fig-system-2d-sys-univ"/>と図<xref ref="fig-system-2d-sys-sub"/>に示す。
+		元のシステム(図<xref ref="fig-system-2d-sys-univ"/>)の関係のうち、しきい値以下の強さの関係を無視して準分解したものが図<xref ref="fig-system-2d-sys-sub"/>である。
+		準分解の際に無視した関係は、図<xref ref="fig-system-2d-sys-sub"/>では点線で表している。</p>
+		<sidebyside width="25%">
+			<figure xml:id="fig-system-2d-sys-univ">
+				<image source="image/system-2d-sys"/>
+				<caption>元のシステム</caption>
+			</figure>
+			<figure xml:id="fig-system-2d-sys-sub">
+				<image source="image/system-2d-sys-sub"/>
+				<caption>システムの準分解</caption>
+			</figure>
+		</sidebyside>
 	</section>
 
 	<section xml:id="sec-sys-autopoiesis">
