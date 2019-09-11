@@ -3,7 +3,7 @@
 	<title>システム</title>
 	<introduction>
 		<p>本章では、対象をシステムとみなして分割する、構造主義に基づく分析について述べる。</p>
-		<p><xref ref="sec-sys-bg"/>節では還元主義の背景を述べ、<xref ref="sec-sys-def"/>節でシステムを定義する。
+		<p><xref ref="sec-sys-bg"/>節で構造主義の背景を述べて構造を定義した上で、<xref ref="sec-sys-def"/>節でシステムを定義する。
 		<xref ref="sec-sys-dynamic"/>節では時間の経過に伴うシステムの変化について述べる。
 		<xref ref="sec-sys-eg"/>節ではシステムの例を示し、心理や社会、創造など、人間の活動がシステムという統一的な視点で俯瞰できることを述べる。
 		<xref ref="sec-sys-decompose"/>節でシステムの分割について述べた上で、<xref ref="sec-sys-autopoiesis"/>節で時間発展に伴うシステムの分化について述べる。</p>
@@ -19,7 +19,7 @@
 			<title>構造</title>
 			<statement>
 				集合<m>V = \{ v_i | i = 1, \cdots, n \}</m>の2つの要素<m>v_i, v_j</m>間に関係があるとき、この関係を2要素の組<m>(v_i, v_j)</m>として表す。
-				このとき、関係の集合<m>E = \{ (v_i, v_j) \}</m>を、集合<m>V</m>の<dfn en="structure">構造</dfn>という。
+				関係の集合<m>E = \{ (v_i, v_j) \}</m>を、集合<m>V</m>の<dfn en="structure">構造</dfn>という。
 			</statement>
 		</definition>
 		<p>構造の表し方には、要素の組として表す以外に、次のように隣接行列を用いる方法もある。</p>
