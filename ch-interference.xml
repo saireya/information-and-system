@@ -13,6 +13,13 @@
 		<p>Luhmannは、<em>あるシステムがその行為を通して、他のシステムがどのように行為するか規定</em>する行為を<dfn en="interference">介入</dfn>と呼んだ<xref ref="bib-luhmann-interfere"/>。
 		端的にいえば、介入とは、他者や組織など<em>他のシステムを変化させるために行うコミュニケーション</em>である。
 		本章では、介入の対象となる他者や組織などのシステムを<dfn en="target">対象者</dfn>と呼ぶ。</p>
+		<definition>
+			<title>介入</title>
+			<statement>
+				<m>S, S'</m>をシステムとし、時刻<m>t = T</m>で<m>S'</m>が何らかの行為を行ったときの<m>t = T + 1</m>における<m>S</m>の状態を<m>\hat{S}(T + 1)</m>、<m>S'</m>が行為を行わなかったときの<m>t = T + 1</m>における<m>S</m>の状態を<m>S(T + 1)</m>とする。
+				このとき、<m>\hat{S}(T + 1) \ne S(T + 1)</m>であれば、システム<m>S'</m>はシステム<m>S</m>に時刻<m>t = T</m>で<dfn en="interference">介入</dfn>したという。
+			</statement>
+		</definition>
 		<p><em>勧誘</em>、<em>印象操作</em>、<em>プレゼンテーション</em>、<em>説得</em>、<ruby r="げきぶん"><em>檄文</em></ruby>、<em>指示</em>、<em>命令</em>などはいずれも、聴衆である心理システムの思考に<dfn en="explicit">明示的</dfn>に介入し、その言動の変容を促す行為である。
 		また、施設などにおける<em>誘導</em>、モノのデザインにおける<em>afford</em>や、Luhmannが介入の例に挙げた<em>教育</em>は、対象者に明示せずとも、特定の行為や学習を<dfn en="implicit">暗示的</dfn>に促す点で同様であり、これらもここでいう介入に当たる。</p>
 		<p>図<xref ref="fig-system-interference"/>に、介入の概念図を示す。
