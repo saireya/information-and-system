@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<symbol id="system" viewBox="-40,-75 80,85">
+		<defs>
+			<path id="path1" d="m 0,  7 c  40,0  40,-35 0,-35" style="fill:none"/>
+			<path id="path2" d="m 0,-14 c -40,0 -40,-14 0,-14" style="fill:none"/>
+			<path id="triangle1" d="m 3, 0 h -6 l  3,-6 z" style="fill-opacity:1"/>
+			<path id="triangle2" d="m 0,-3 v  6 l -6,-3 z" style="fill-opacity:1"/>
+		</defs>
+		<!--<rect x="-40" y="-75" width="80" height="85"/>-->
+		<ellipse rx="30" ry="7" cx="0" cy="0"/>
+		<use xlink:href="#path1"     x= "0" y=  "0"/>
+		<use xlink:href="#path2"     x= "0" y=  "0"/>
+		<use xlink:href="#path1"     x= "0" y="-21"/>
+		<use xlink:href="#path2"     x= "0" y="-21"/>
+		<use xlink:href="#path1"     x= "0" y="-42"/>
+		<use xlink:href="#triangle1" x="30" y= "-6.5"/>
+		<use xlink:href="#triangle1" x="30" y="-27.5"/>
+		<use xlink:href="#triangle1" x="30" y="-48.5"/>
+		<use xlink:href="#triangle2" x= "0" y="-28"/>
+		<use xlink:href="#triangle2" x= "0" y="-49"/>
+		<use xlink:href="#triangle2" x= "0" y="-70"/>
+		<path d="M -35,-75 l 0,80 M 35,-75 l 0,80" style="color:ivory"/>
+	</symbol>
+	<symbol id="system-semiclosed" viewBox="-40,-75 80,85">
+		<!--<rect x="-40" y="-75" width="80" height="85"/>-->
+		<use xlink:href="#system" x="-40" y="-75"/>
+		<path d="M -35,-75 l 0,80 M 35,-75 l 0,80" style="stroke-dasharray:3"/>
+	</symbol>
+	<symbol id="system-closed" viewBox="-40,-75 80,85">
+		<!--<rect x="-40" y="-75" width="80" height="85"/>-->
+		<use xlink:href="#system" x="-40" y="-75"/>
+		<path d="M -35,-75 l 0,80 M 35,-75 l 0,80"/>
+	</symbol>
+	<symbol id="system-rot" viewBox="-20,-20 120,120">
+		<g transform="rotate(30,35,40)">
+			<use xlink:href="#system" width="80" height="85"/>
+		</g>
+	</symbol>
+	<symbol id="system-rot-semiclosed" viewBox="-20,-20 120,120">
+		<g transform="rotate(30,35,40)">
+			<use xlink:href="#system-semiclosed" width="80" height="85"/>
+		</g>
+	</symbol>
+	<symbol id="system-rot-closed" viewBox="-20,-20 120,120">
+		<g transform="rotate(30,35,40)">
+			<use xlink:href="#system-closed" width="80" height="85"/>
+		</g>
+	</symbol>
+	<symbol id="system-dots" viewBox="-40,-75 80,85">
+		<!--<rect x="-40" y="-75" width="80" height="85"/>-->
+		<use xlink:href="#system" x="-40" y="-75"/>
+		<circle r="2" cx="-30" cy=  "0" class="fill" style="stroke: hsl(-40, 100%, 70%); fill: hsl(-40, 100%, 90%)"/>
+		<circle r="2" cx= "10" cy="-28" class="fill" style="stroke: hsl(-20, 100%, 70%); fill: hsl(-20, 100%, 90%)"/>
+		<circle r="2" cx="-10" cy="-14" class="fill" style="stroke: hsl(  0, 100%, 70%); fill: hsl(  0, 100%, 90%)"/>
+		<circle r="2" cx= "10" cy="-49" class="fill" style="stroke: hsl( 20, 100%, 70%); fill: hsl( 20, 100%, 90%)"/>
+		<circle r="2" cx="-15" cy="-36" class="fill" style="stroke: hsl( 40, 100%, 70%); fill: hsl( 40, 100%, 90%)"/>
+		<!--
+		<circle r="2" cx="-10" cy="-70" class="fill" style="stroke: hsl( 60, 100%, 70%); fill: hsl( 60, 100%, 90%)"/>
+		-->
+	</symbol>
+	<symbol id="system-dots-semiclosed" viewBox="-40,-75 80,85">
+		<!--<rect x="-40" y="-75" width="80" height="85"/>-->
+		<use xlink:href="#system-semiclosed" x="-40" y="-75"/>
+		<circle r="2" cx="-30" cy=  "0" class="fill" style="stroke: hsl( 80, 100%, 70%); fill: hsl( 80, 100%, 90%)"/>
+		<circle r="2" cx= "10" cy="-28" class="fill" style="stroke: hsl(100, 100%, 70%); fill: hsl(100, 100%, 90%)"/>
+		<circle r="2" cx="-10" cy="-14" class="fill" style="stroke: hsl(120, 100%, 70%); fill: hsl(120, 100%, 90%)"/>
+		<circle r="2" cx= "10" cy="-49" class="fill" style="stroke: hsl(140, 100%, 70%); fill: hsl(140, 100%, 90%)"/>
+		<circle r="2" cx="-15" cy="-36" class="fill" style="stroke: hsl(160, 100%, 70%); fill: hsl(160, 100%, 90%)"/>
+		<!--
+		<circle r="2" cx="-10" cy="-70" class="fill" style="stroke: hsl(180, 100%, 70%); fill: hsl(180, 100%, 90%)"/>
+		-->
+	</symbol>
+	<symbol id="system-dots-closed" viewBox="-40,-75 80,85">
+		<!--<rect x="-40" y="-75" width="80" height="85"/>-->
+		<use xlink:href="#system-closed" x="-40" y="-75"/>
+		<circle r="2" cx="-30" cy=  "0" class="fill" style="stroke: hsl(200, 100%, 70%); fill: hsl(200, 100%, 90%)"/>
+		<circle r="2" cx= "10" cy="-28" class="fill" style="stroke: hsl(220, 100%, 70%); fill: hsl(220, 100%, 90%)"/>
+		<circle r="2" cx="-10" cy="-14" class="fill" style="stroke: hsl(240, 100%, 70%); fill: hsl(240, 100%, 90%)"/>
+		<circle r="2" cx= "10" cy="-49" class="fill" style="stroke: hsl(260, 100%, 70%); fill: hsl(260, 100%, 90%)"/>
+		<circle r="2" cx="-15" cy="-36" class="fill" style="stroke: hsl(280, 100%, 70%); fill: hsl(280, 100%, 90%)"/>
+		<circle r="2" cx="-10" cy="-70" class="fill" style="stroke: hsl(300, 100%, 70%); fill: hsl(300, 100%, 90%)"/>
+	</symbol>
+	<symbol id="system-auto" viewBox="-20,-20 120,120">
+		<g transform="rotate(30,35,40)">
+			<use xlink:href="#system-dots" width="80" height="85"/>
+		</g>
+	</symbol>
+	<symbol id="system-auto-semiclosed" viewBox="-20,-20 120,120">
+		<g transform="rotate(30,35,40)">
+			<use xlink:href="#system-dots-semiclosed" width="80" height="85"/>
+			<g class="cud-accent-red">
+				<!--<marker id="marker-red" viewBox="-8,-8 16,16" markerWidth="7" markerHeight="7" orient="180" refY="-5">
+					<use xlink:href="#triangle1"/>
+				</marker>-->
+				<circle r="2" cx="-20"  cy="20"/>
+				<path d="m -18,20 Q 25,20 25,35" style="fill:none; stroke-dasharray:2"/>
+				<path d="m 24,33 h 2 l -1,2 z" style="fill-opacity:1"/>
+				<circle r="2" cx="30" cy="5" class="fill" style="stroke: hsl(20, 100%, 70%); fill: hsl(20, 100%, 90%)"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol id="system-auto-closed" viewBox="-20,-20 120,120">
+		<g transform="rotate(30,35,40)">
+			<use xlink:href="#system-dots-closed" width="80" height="85"/>
+			<g class="cud-accent-green">
+				<!--<marker id="marker-green" viewBox="-8,-8 16,16" markerWidth="7" markerHeight="7" orient="90" refY="-5">
+					<use xlink:href="#triangle1"/>
+				</marker>-->
+				<circle r="2" cx="-20"  cy="20"/>
+				<path d="m -20,20 h 14" style="fill:none; stroke-dasharray:2"/>
+				<path d="m -8,19 v 2 l 2,-1 z" style="fill-opacity:1"/>
+				<path d="m -4,20 h 8 m -4,-4 v 8" style="color:red"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol id="system-2d" viewBox="-50,-50 100,100">
+		<!--<rect x="-50" y="-50" width="100" height="100"/>-->
+		<circle r="40" cx="0" cy="0" style="stroke-dasharray:3"/>
+		<path d="m 35,0 h 10 l -5,-10 z" style="fill-opacity:1"/>
+		<text>開放系</text>
+	</symbol>
+	<symbol id="system-2d-semiclosed" viewBox="-50,-50 100,100">
+		<!--<rect x="-50" y="-50" width="100" height="100"/>-->
+		<circle r="40" cx="0" cy="0" style="stroke-dasharray:3"/>
+		<path d="m 35,0 h 10 l -5,-10 z" style="fill-opacity:1"/>
+		<text>半開放系</text>
+	</symbol>
+	<symbol id="system-2d-closed" viewBox="-50,-50 100,100">
+		<!--<rect x="-50" y="-50" width="100" height="100"/>-->
+		<circle r="40" cx="0" cy="0"/>
+		<path d="m 35,0 h 10 l -5,-10 z" style="fill-opacity:1"/>
+		<text>閉鎖系</text>
+	</symbol>
+	<style>
+	@media print {
+		@page {
+			/* Remove header and footer when exporting */
+			margin: 0;
+		}
+	}
+	:root {
+		/* CUD color scheme */
+		/* http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf */
+		--cud-accent-red      : rgb(255, 75,  0);
+		--cud-accent-green    : rgb(  3,175,122);
+		--cud-accent-blue     : rgb(  0, 90,255);
+		--cud-accent-yellow   : rgb(255,241,  0);
+		--cud-accent-sky      : rgb( 77,196,255);
+		--cud-accent-pink     : rgb(255,128,130);
+		--cud-accent-orange   : rgb(246,170,  0);
+		--cud-accent-purple   : rgb(153,  0,153);
+		--cud-accent-brown    : rgb(128, 64,  0);
+		--cud-base-lightpink  : rgb(255,202,191);
+		--cud-base-cream      : rgb(255,255,128);
+		--cud-base-lime       : rgb(216,242, 85);
+		--cud-base-lightsky   : rgb(191,228,255);
+		--cud-base-beige      : rgb(255,202,128);
+		--cud-base-lightgreen : rgb(119,217,168);
+		--cud-base-lightpurple: rgb(201,172,230);
+		--cud-lightgray       : rgb(200,200,203);
+		--cud-gray            : rgb(132,145,158);
+	}
+	g, path, ellipse, circle {
+		fill: currentColor;
+		fill-opacity: 0.2;
+		stroke: currentColor;
+		stroke-width: 1.5;
+	}
+	use {
+		transform-origin: center;
+	}
+	text {
+		text-anchor: middle;
+		dominant-baseline: middle;
+	}
+	.cud-accent-red   { color: var(--cud-accent-red   ); }
+	.cud-accent-green { color: var(--cud-accent-green ); }
+	.cud-accent-blue  { color: var(--cud-accent-blue  ); }
+	.cud-accent-yellow{ color: var(--cud-accent-yellow); }
+	.cud-accent-sky   { color: var(--cud-accent-sky   ); }
+	.cud-accent-pink  { color: var(--cud-accent-pink  ); }
+	.cud-accent-orange{ color: var(--cud-accent-orange); }
+	.cud-accent-purple{ color: var(--cud-accent-purple); }
+	.cud-accent-brown { color: var(--cud-accent-brown ); }
+	.cud-gray         { color: var(--cud-gray         ); }
+	.fill {
+		fill-opacity: 1;
+		stroke-width: 1;
+	}
+	</style>
+
+	<use class="cud-accent-red" xlink:href="#system-auto"/>
+</svg>

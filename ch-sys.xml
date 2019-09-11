@@ -119,6 +119,11 @@
 					時刻<m>t = T</m>において<m>S(T-1) \ne S(T)</m>となるとき、システム<m>S</m>は<m>t = T</m>において<dfn en="autopoiesis">オートポイエーシス</dfn>が生じた、または<dfn>自己創発</dfn>したという。
 				</statement>
 			</definition>
+			<p>図<xref ref="fig-autopoiesis"/>に、システムのオートポイエーシスの模式図を示す。図<xref ref="fig-autopoiesis"/>では、丸印でシステムの状態を示し、状態間を結ぶ矢印でオートポイエーシスを示した。</p>
+			<figure xml:id="fig-autopoiesis">
+				<image source="image/system-autopoiesis" width="25%"/>
+				<caption>システムのオートポイエーシス</caption>
+			</figure>
 			<note>
 				<title>力学系</title>
 				<statement>
