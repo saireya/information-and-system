@@ -21,6 +21,14 @@
 	<month>aug</month>
 </incollection></entry>
 
+<entry id="umesao-book"><book>
+	<author>梅棹 忠夫</author>
+	<title>情報の文明学</title>
+	<publisher>中央公論新社</publisher>
+	<year>1999</year>
+	<isbn>4122033985</isbn>
+</book></entry>
+
 <entry id="hayashi"><article>
 	<author>林 雄二郎</author>
 	<title>情報社会と新しい価値体系</title>
@@ -515,6 +523,18 @@
 	<note>山本安次郎訳</note>
 </book></entry>
 
+<entry id="katori"><book>
+	<author>
+		<person>鹿取 廣人</person>
+		<person>杉本 敏夫</person>
+		<person>鳥居 修晃</person>
+	</author>
+	<title>心理学 第4版</title>
+	<publisher>東京大学出版会</publisher>
+	<year>2011</year>
+	<isbn>4130121057</isbn>
+</book></entry>
+
 <entry id="codd"><article>
 	<title>A relational model of data for large shared data banks</title>
 	<author>Edgar F. Codd</author>
@@ -653,6 +673,26 @@
 	<url>http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048</url>
 </misc></entry>
 
+<entry id="shimanami"><book>
+	<author>
+		<person>島並 良</person>
+		<person>上野 達弘</person>
+		<person>横山 久芳</person>
+	</author>
+	<title>著作権法入門</title>
+	<publisher>有斐閣</publisher>
+	<year>2009</year>
+	<isbn>4641143730</isbn>
+</book></entry>
+
+<entry id="hirabayashi"><book>
+	<author>平林 純</author>
+	<title>論理的にプレゼンする技術 聴き手の記憶に残る話し方の極意</title>
+	<publisher>SBクリエイティブ</publisher>
+	<year>2009</year>
+	<isbn>4797349778</isbn>
+</book></entry>
+
 <entry id="gibson"><book>
 	<author>James Jerome Gibson</author>
 	<title>生態学的視覚論――ヒトの知覚世界を探る</title>
@@ -760,6 +800,14 @@
 	<pages>39, 73</pages>
 	<year>1978</year>
 	<note>桂寿一訳</note>
+</book></entry>
+
+<entry id="bekki"><book>
+	<author>戸次 大介</author>
+	<title>数理論理学</title>
+	<publisher>東京大学出版会</publisher>
+	<isbn>4130629158</isbn>
+	<year>2012</year>
 </book></entry>
 
 <entry id="yonemori"><book>

@@ -46,6 +46,85 @@
 		</figure>
 	</section>
 
+	<section xml:id="sec-intro-bib">
+		<title>関連分野と参考文献</title>
+		<p>情報学は多数の分野にまたがる<dfn en="interdiscipline">学際的</dfn>な学術分野であり、<dfn en="metascience">メタ科学</dfn>とも呼ばれる<xref ref="bib-scj"/>。
+		こうした学際的な分野は、原典となる書籍や論文よりも、後世に作成された入門書などの方が、内容が整理され分かりやすいことも多い。
+		表<xref ref="table-intro-bib"/>に、本稿の各章が関連する学術分野を挙げ、各分野における入門書を示す。</p>
+		<table xml:id="table-intro-bib">
+			<caption>各章と関連する分野・文献</caption>
+			<tbody>
+				<tr><th>章</th><th>内容</th><th>関連分野</th><th>参考文献</th></tr>
+				<tr>
+					<th>1</th>
+					<td>情報社会と情報学</td>
+					<td>情報社会論</td>
+					<td>梅棹<xref ref="bib-umesao-book"/></td>
+				</tr>
+				<tr>
+					<th>2</th>
+					<td>記号と意味</td>
+					<td>言語学/記号論/符号理論</td>
+					<td>町田<xref ref="bib-machida"/></td>
+				</tr>
+				<tr>
+					<th>3</th>
+					<td>情報</td>
+					<td>基礎情報学/社会情報学/情報理論</td>
+					<td>西垣<xref ref="bib-nishigaki1"/><xref ref="bib-nishigaki2"/></td>
+				</tr>
+				<tr>
+					<th>4</th>
+					<td>コミュニケーション</td>
+					<td>社会学/社会システム論</td>
+					<td>Borch<xref ref="bib-borch"/></td>
+				</tr>
+				<tr>
+					<th>5</th>
+					<td>メディア</td>
+					<td>社会学/社会システム論</td>
+					<td>Borch<xref ref="bib-borch"/>/西垣<xref ref="bib-nishigaki1"/><xref ref="bib-nishigaki2"/></td>
+				</tr>
+				<tr>
+					<th>6</th>
+					<td>問題</td>
+					<td>システム論/人工知能/計算理論<!--/<br/>最適化/ソフトウェア工学--></td>
+					<td>Simon<xref ref="bib-simon"/></td>
+				</tr>
+				<tr>
+					<th>7</th>
+					<td>還元主義</td>
+					<td>システム論</td>
+					<td>Simon<xref ref="bib-simon"/>/児玉<xref ref="bib-kodama"/></td>
+				</tr>
+				<tr>
+					<th>8</th>
+					<td>構造主義</td>
+					<td>システム論/経営学/組織論/心理学<!--/<br/>グラフ理論/オートマトン理論--></td>
+					<td>Bertalanffy<xref ref="bib-bertalanffy"/>/河本<xref ref="bib-kawamoto"/>/桑田ら<xref ref="bib-kuwata"/>/鹿取ら<xref ref="bib-katori"/></td>
+				</tr>
+				<tr>
+					<th>9</th>
+					<td>創発主義</td>
+					<td>発想法/思考法/知的財産法</td>
+					<td>Malaterre<xref ref="bib-malaterre"/>/Young<xref ref="bib-young-j"/>/de Bono<xref ref="bib-debono"/>/島並ら<xref ref="bib-shimanami"/></td>
+				</tr>
+				<tr>
+					<th>10</th>
+					<td>介入</td>
+					<td>社会システム論/デザイン学/人間工学</td>
+					<td>平林<xref ref="bib-hirabayashi"/>/Luhmann<xref ref="bib-luhmann-interfere"/></td>
+				</tr>
+				<tr>
+					<th>11</th>
+					<td>論理</td>
+					<td>論理学/数理論理学</td>
+					<td>戸次<xref ref="bib-bekki"/>/米盛<xref ref="bib-yonemori"/></td>
+				</tr>
+			</tbody>
+		</table>
+	</section>
+
 	<section xml:id="sec-intro-symbol">
 		<title>本稿で用いる記号</title>
 		<p>本稿では、集合・関数・論理に関する以下の基本的な記号を使う。</p>
