@@ -1,18 +1,38 @@
+:root {
+	/* CUD color scheme */
+	/* http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf */
+	--cud-accent-red      : rgb(255, 75,  0);
+	--cud-accent-green    : rgb(  3,175,122);
+	--cud-accent-blue     : rgb(  0, 90,255);
+	--cud-accent-yellow   : rgb(255,241,  0);
+	--cud-accent-sky      : rgb( 77,196,255);
+	--cud-accent-pink     : rgb(255,128,130);
+	--cud-accent-orange   : rgb(246,170,  0);
+	--cud-accent-purple   : rgb(153,  0,153);
+	--cud-accent-brown    : rgb(128, 64,  0);
+	--cud-base-lightpink  : rgb(255,202,191);
+	--cud-base-cream      : rgb(255,255,128);
+	--cud-base-lime       : rgb(216,242, 85);
+	--cud-base-lightsky   : rgb(191,228,255);
+	--cud-base-beige      : rgb(255,202,128);
+	--cud-base-lightgreen : rgb(119,217,168);
+	--cud-base-lightpurple: rgb(201,172,230);
+	--cud-lightgray       : rgb(200,200,203);
+	--cud-gray            : rgb(132,145,158);
+}
 
-strong, strong > dfn {
-	color: crimson;
+strong, dfn, em {
 	font-weight: bold;
 	font-style: normal !important;
+}
+strong, strong > dfn {
+	color: var(--cud-accent-red);
 }
 dfn {
-	color: magenta;
-	font-weight: bold;
-	font-style: normal !important;
+	color: var(--cud-accent-green);
 }
 em {
-	color: navy;
-	font-weight: bold;
-	font-style: normal !important;
+	color: var(--cud-accent-blue);
 }
 
 .heading {
@@ -31,17 +51,17 @@ article > h6 {
 	margin-left: -0.4em !important;
 	margin-bottom: 5px !important;
 	padding: 5px 10px;
-	background-color: hsl(0, 0%, 20%);
+	background-color: var(--cud-accent-blue);
 	color: white !important;
 	border-radius: 3px 3px 0 0;
 }
 
 article.definition-like > h6 {
-	background-color: hsl(240, 100%, 40%);
+	background-color: var(--cud-accent-green);
 }
 
 article.theorem-like > h6 {
-	background-color: hsl(0, 100%, 40%);
+	background-color: var(--cud-accent-red);
 }
 
 article.remark-like {
