@@ -64,6 +64,6 @@ article.theorem-like > h6 {
 	background-color: var(--cud-accent-red);
 }
 
-article.remark-like {
+article.remark-like > h6 {
 	background-color: hsl(0, 0%, 20%);
 }
