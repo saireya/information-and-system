@@ -25,7 +25,7 @@ strong, dfn, em {
 	font-weight: bold;
 	font-style: normal !important;
 }
-strong, strong > dfn {
+strong, strong > dfn, em.alert {
 	color: var(--cud-accent-red);
 }
 dfn {
@@ -65,4 +65,5 @@ article.theorem-like > h6 {
 }
 
 article.remark-like {
+	background-color: hsl(0, 0%, 20%);
 }

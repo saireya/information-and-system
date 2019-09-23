@@ -45,15 +45,15 @@
 			\parindent = 1\zw
 
 			% 強調部分の文字の色を変更
-			\renewcommand{\alert      }[1]{\textcolor{red}{\textbf{#1}}}
-			\renewcommand{\terminology}[1]{\textcolor{magenta}{\textbf{#1}}}
-			\renewcommand{\emph       }[1]{\textcolor{blue}{\textbf{#1}}}
+			\renewcommand{\alert      }[1]{\textcolor{RedOrange}{\textbf{#1}}}
+			\renewcommand{\terminology}[1]{\textcolor{OliveGreen}{\textbf{#1}}}
+			\renewcommand{\emph       }[1]{\textcolor{RoyalBlue}{\textbf{#1}}}
 
 			% tcolorbox
 			\tcbset{fonttitle=\bfseries}
-			\tcbset{propositionstyle/.style={colframe=red!75!black,  colback=red!5!white  }}
-			\tcbset{ definitionstyle/.style={colframe=blue!75!black, colback=blue!5!white }}
-			\tcbset{       notestyle/.style={colframe=black!75!white,colback=black!5!white}}
+			\tcbset{propositionstyle/.style={colframe=RedOrange,     colback=RedOrange!2!white }}
+			\tcbset{ definitionstyle/.style={colframe=OliveGreen,    colback=OliveGreen!2!white}}
+			\tcbset{       notestyle/.style={colframe=black!75!white,colback=black!2!white     }}
 
 			% PDFのブックマーク表示設定
 			\hypersetup{bookmarksopen,bookmarksnumbered}
