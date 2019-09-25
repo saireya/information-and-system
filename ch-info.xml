@@ -6,7 +6,8 @@
 		<p><xref ref="sec-info-history"/>節では、日本語の「情報」と英語の「information」の語源に着目し、情報と生命の関係を概説する。
 		<xref ref="sec-info-def"/>節では、学術的な情報の定義とその性質を紹介する。
 		<xref ref="sec-info-class"/>節では、情報を生命情報・社会情報・機械情報の3つに分類し、それらの性質を述べる。
-		<xref ref="sec-info-subject"/>節では、情報についての主観性について述べ、<xref ref="sec-info-code"/>節では、コンピュータによる情報処理で用いる符号化や復号について述べる。</p>
+		<xref ref="sec-info-subject"/>節では、情報についての主観性について述べる。
+		その上で、<xref ref="sec-info-entropy"/>節で機械情報の「大きさ」を表す単位について述べ、<xref ref="sec-info-code"/>節でコンピュータによる情報処理で用いる符号化や復号について述べる。</p>
 	</introduction>
 
 	<section xml:id="sec-info-history">
