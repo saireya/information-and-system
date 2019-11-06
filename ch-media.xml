@@ -37,14 +37,34 @@
 		<p>メディアというと書籍や放送、音楽などが想起されるが、より一般的なメディアも考えうる。
 		Luhmannは、メディアを<q ref="bib-borch">起こりそうにないコミュニケーションを起こりそうなコミュニケーションに変換することに関与するメカニズム</q>だという<xref ref="bib-borch"/>。
 		これをより簡潔に言えば、「コミュニケーションを秩序づけるもの」がメディアである。</p>
+		<p>メディアは、送り手と受け手の間で共有される情報の集合として定義できる。</p>
+		<definition>
+			<title>メディア</title>
+			<statement>
+				情報の集合<m>M = \{ I | I: \text{情報} \}</m>を、<dfn en="media">メディア</dfn>という。
+			</statement>
+		</definition>
 	</section>
 
 	<section xml:id="sec-media-class">
 		<title>メディアの分類</title>
 		<introduction>
 			<p>Luhmannは、メディアを伝播メディアと成果メディアに分類した<xref ref="bib-borch"/>。
-			機械情報を物理的に媒介するのが伝播メディア、社会情報を論理的に媒介するのが成果メディアであり、これらの存在により、<xref ref="sec-media-bg"/>節の「ありそうにない」ことが「ありうる」ことになる。
-			図<xref ref="fig-model"/>に両端付きの矢印でそれぞれのメディアを追記すると、図<xref ref="fig-model-media"/>のようになる。</p>
+			機械情報を物理的に媒介するのが伝播メディア、社会情報を論理的に媒介するのが成果メディアである。
+			これらの存在により、<xref ref="sec-media-bg"/>節の「ありそうにない」ことが「ありうる」ことになる。</p>
+			<p>伝播メディアと成果メディアはそれぞれ、機械情報と社会情報の集合として定義できる。</p>
+			<definition>
+				<m>(\alpha, \beta)</m>を情報とする。
+				<ul>
+					<li>機械情報<m>(\alpha, \varepsilon)</m>の集合を<dfn>伝播メディア</dfn>という。</li>
+					<li>社会情報<m>(\alpha, \beta)</m>の集合を<dfn>成果メディア</dfn>という。</li>
+				</ul>
+				<md>
+					<mrow>\text{伝播メディア} \amp = \{ (\alpha, \varepsilon) | \alpha: \text{記号} \}</mrow>
+					<mrow>\text{成果メディア} \amp = \{ (\alpha, \beta)       | \alpha: \text{記号}, \beta: \text{意味} \}</mrow>
+				</md>
+			</definition>
+			<p>図<xref ref="fig-model"/>に両端付きの矢印でそれぞれのメディアを追記すると、図<xref ref="fig-model-media"/>のようになる。</p>
 			<figure xml:id="fig-model-media">
 				<image source="image/model-media"/>
 				<caption>Luhmannのコミュニケーション・モデルとメディアの対応</caption>
@@ -97,6 +117,27 @@
 					これらの成果メディアが存在しない場合は、自分にとって利益をもたらさない可能性が高い「見知らぬ他人を救助する」という行為は生じにくい。</p>
 				</statement>
 			</note>
+			<p>コミュニケーションにおいて、送り手<m>A</m>と受け手<m>B</m>が成果メディア<m>M</m>を共有している状況を考える。
+			このとき、送り手<m>A</m>は表現の選択、つまり符号化を行い、受け手<m>B</m>は理解の選択、つまり復号を行う。
+			この符号化と復号において、いずれも成果メディア<m>M</m>が参照されるとすれば、情報が正しく伝わる可能性は高いといえる。
+			但し、<xref ref="sec-info-subject"/>節で述べた情報の主観性があるため、正しく伝わらないこともある。</p>
+			<proposition>
+				<title>符号化や復号における成果メディアの作用</title>
+				<statement>
+					生命<m>A</m>が成果メディア<m>M</m>に接しているとし、<m>(\alpha, \beta) \in M</m>とする。
+					このとき、<m>\alpha = e_A(\beta)</m>となりうる。
+					また、<m>\beta = d_A(\alpha)</m>となりうる。
+				</statement>
+			</proposition>
+
+			<p>先の命題を用いれば、コミュニケーションにおける次の命題は明らかである。</p>
+			<proposition>
+				<title>コミュニケーションにおける成果メディアの作用</title>
+				<statement>
+					<m>A</m>を送り手、<m>B</m>を受け手とするコミュニケーションにおいて、成果メディア<m>M</m>が共有されているとする。
+					このとき、<m>(\alpha, \beta) \in M</m>であれば、<m>\beta = d_B(e_A(\beta))</m>となりうる。
+				</statement>
+			</proposition>
 		</subsection>
 
 		<subsection xml:id="ssec-media-life">
