@@ -192,6 +192,12 @@
 		<p><xref ref="sec-sem-semiotics"/>節で述べたように、意味の「大きさ」は客観的に測ることができないため、意味を含む生命情報や社会情報の「大きさ」を測ることはできない。
 		一方、記号の大きさは客観的に測ることができるので、機械情報については「量」を測ることができる。
 		機械情報の量を<dfn>情報量</dfn>と呼ぶが、これはあくまで<em>記号の数であり、意味がもたらす価値とは異なる</em>ことに注意が必要である。</p>
+		<definition>
+			<title>情報量</title>
+			<statement>
+				機械情報<m>(\alpha, \varepsilon)</m>について、記号<m>\alpha</m>の数を<dfn>情報量</dfn>という。
+			</statement>
+		</definition>
 		<p>情報量を数値で表すため、Shannonは、0と1の2つの文字で表せる2進数で1桁となる数を、<dfn>bit</dfn>という単位で定義した。
 		例えば、0や1は<m>1 \mathrm{bit}</m>で表せるが、2進数には「2」という数字はないので、このままでは「2」を表すことができない。
 		そこで、2は<ruby r="いちぜろ">10</ruby>、3は<ruby r="いちいち">11</ruby>と数字2つ(<m>2 \mathrm{bits}</m>)を使って表す。
@@ -199,6 +205,12 @@
 		<p>また、<m>8 \mathrm{bits} = 1 \mathrm{byte} = 1 \mathrm{B}</m>として<dfn>byte</dfn>が定義される。
 		更に2進数については、<m>2^{10} = 1,024</m>を区切りとして、次のようにより大きい単位が定義される。
 		<me>1 \mathrm{KB} = 1,024 \mathrm{B}, 1 \mathrm{MB} = 1,024 \mathrm{KB}, 1 \mathrm{GB} = 1,024 \mathrm{MB}, 1 \mathrm{TB} = 1,024 \mathrm{GB}</me></p>
+		<definition>
+			<title>情報量の単位</title>
+			<statement>
+				機械情報<m>(\alpha, \varepsilon)</m>の記号<m>\alpha</m>が<m>n</m>個の2進数で表されるとき、機械情報<m>(\alpha, \varepsilon)</m>の情報量は<m>n \mathrm{bits}</m>であるという。
+			</statement>
+		</definition>
 		<p>文字のみの文章なら数KBから数百KB程度、写真や音楽なら数MBから数十MB程度、動画なら数百MBから数十GB程度の大きさが一般的である。
 		ファイルの記録に使うUSBフラッシュメモリやmicroSDカード、Blu-ray Discなどに記録できる容量はいずれも数十GBから数百GB程度、ハードディスク(HDD)の記憶容量は数百GBから数TBのものが多い。
 		また、インターネットの光ファイバー回線での通信速度は最大数百Mbps(Mbits/s)から数Gbps(Gbits/s)のものが一般的で、1秒あたり数十MB程度を送受信できる。
