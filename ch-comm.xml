@@ -145,4 +145,19 @@
 		</note>
 	</section>
 
+	<section xml:id="sec-comm-speed">
+		<title>コミュニケーションの「速さ」</title>
+		<p><xref ref="sec-info-entropy"/>節で述べたように、機械情報はその記号の数によって情報量を定義できる。
+		そのため、機械情報を送受信するときには、送受信の速さを定義できる。</p>
+		<definition>
+			<title>通信速度の単位</title>
+			<statement>
+				情報量<m>n \mathrm{bits}</m>の機械情報を<m>t</m>秒で送受信するとき、単位<dfn en="bits per second">bps</dfn>を用いて、この通信の速度は<m>\frac{n}{t} \mathrm{bits/s} = \frac{n}{t} \mathrm{bps}</m>であるという。
+				情報量の場合と同様に、<dfn>Kbps</dfn>や<dfn>Mbps</dfn>、<dfn>Gbps</dfn>などの単位も定義される。
+				<me>1 \mathrm{Kbps} = 1,024 \mathrm{bps}, 1 \mathrm{Mbps} = 1,024 \mathrm{Kbps}, 1 \mathrm{Gbps} = 1,024 \mathrm{Mbps}</me>
+			</statement>
+		</definition>
+		<p>固定電話回線を使用したインターネットでは56Kbps程度の速度であったが、光ファイバー回線の通信速度は最大数百Mbps(Mbits/s)から数Gbps(Gbits/s)のものが一般的である。
+		情報量はByteを基準とする単位で表すことが一般的だが、通信速度はbitを基準とする単位で表すことが多い。</p>
+	</section>
 </chapter>
