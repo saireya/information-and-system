@@ -271,6 +271,21 @@
 	<url>https://tools.ietf.org/html/rfc793</url>
 </misc></entry>
 
+<entry id="coupe"><article>
+	<author>
+		<person>Christophe Coupé</person>
+		<person>Yoon Oh</person>
+		<person>Dan Dediu</person>
+		<person>François Pellegrino</person>
+	</author>
+	<title>Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche</title>
+	<journal>Science Advances</journal>
+	<volume>5</volume>
+	<number>9</number>
+	<year>2019</year>
+	<doi>10.1126/sciadv.aaw2594</doi>
+</article></entry>
+
 <entry id="cassim"><book>
 	<author>ジュリア・カセム</author>
 	<title>「インクルーシブデザイン」という発想――排除しないプロセスのデザイン</title>
