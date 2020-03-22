@@ -195,10 +195,10 @@
 		<definition>
 			<title>情報量</title>
 			<statement>
-				機械情報<m>(\alpha, \varepsilon)</m>について、記号<m>\alpha</m>の数を<dfn>情報量</dfn>という。
+				機械情報<m>(\alpha, \varepsilon)</m>について、記号<m>\alpha</m>の数を機械情報<m>(\alpha, \varepsilon)</m>の<dfn>情報量</dfn>という。
 			</statement>
 		</definition>
-		<p>情報量を数値で表すため、Shannonは、0と1の2つの文字で表せる2進数で1桁となる数を、<dfn>bit</dfn>という単位で定義した。
+		<p>情報量を数値で表すため、Shannonは、0と1の2つの文字で表せる2進数で1桁となる数を、<dfn>bit</dfn>という単位で定義した<xref ref="bib-shannon"/>。
 		例えば、0や1は<m>1 \mathrm{bit}</m>で表せるが、2進数には「2」という数字はないので、このままでは「2」を表すことができない。
 		そこで、2は<ruby r="いちぜろ">10</ruby>、3は<ruby r="いちいち">11</ruby>と数字2つ(<m>2 \mathrm{bits}</m>)を使って表す。
 		同様に、4は100、5は101のように<m>3 \mathrm{bits}</m>で表される。</p>
@@ -208,7 +208,8 @@
 		<definition>
 			<title>情報量の単位</title>
 			<statement>
-				機械情報<m>(\alpha, \varepsilon)</m>の記号<m>\alpha</m>が<m>n</m>個の2進数で表されるとき、機械情報<m>(\alpha, \varepsilon)</m>の情報量は<m>n \mathrm{bits}</m>であるという。
+				機械情報<m>(\alpha, \varepsilon)</m>の記号<m>\alpha</m>が<m>n</m>個の2進数で表されるとき、単位<dfn>bit</dfn>を用いて、機械情報<m>(\alpha, \varepsilon)</m>の情報量は<m>n \mathrm{bits}</m>であるという。
+				対数関数<m>\mathrm{log}</m>を用いると、<m>n = \log_2 \alpha</m>と表せる。
 			</statement>
 		</definition>
 		<p>文字のみの文章なら数KBから数百KB程度、写真や音楽なら数MBから数十MB程度、動画なら数百MBから数十GB程度の大きさが一般的である。
