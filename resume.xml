@@ -22,7 +22,7 @@
 		<macros>
 			% 数式の書体を変更
 			\unimathsetup{math-style=ISO,bold-style=ISO}
-			\setmathfont{xits-math.otf}
+			\setmathfont{XITSMath-Regular.otf}
 			% 書体をNotoに変更
 			\usepackage[match,deluxe,expert,bold,noto-otf]{luatexja-preset}
 			\setmonofont{Noto Sans Mono CJK JP}
