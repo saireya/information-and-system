@@ -202,14 +202,15 @@
 		例えば、0や1は<m>1 \mathrm{bit}</m>で表せるが、2進数には「2」という数字はないので、このままでは「2」を表すことができない。
 		そこで、2は<ruby r="いちぜろ">10</ruby>、3は<ruby r="いちいち">11</ruby>と数字2つ(<m>2 \mathrm{bits}</m>)を使って表す。
 		同様に、4は100、5は101のように<m>3 \mathrm{bits}</m>で表される。</p>
-		<p>また、<m>8 \mathrm{bits} = 1 \mathrm{byte} = 1 \mathrm{B}</m>として<dfn>byte</dfn>が定義される。
-		更に2進数については、<m>2^{10} = 1,024</m>を区切りとして、次のようにより大きい単位が定義される。
-		<me>1 \mathrm{KB} = 1,024 \mathrm{B}, 1 \mathrm{MB} = 1,024 \mathrm{KB}, 1 \mathrm{GB} = 1,024 \mathrm{MB}, 1 \mathrm{TB} = 1,024 \mathrm{GB}</me></p>
 		<definition>
 			<title>情報量の単位</title>
 			<statement>
 				機械情報<m>(\alpha, \varepsilon)</m>の記号<m>\alpha</m>が<m>n</m>個の2進数で表されるとき、単位<dfn>bit</dfn>を用いて、機械情報<m>(\alpha, \varepsilon)</m>の情報量は<m>n \mathrm{bits}</m>であるという。
-				対数関数<m>\mathrm{log}</m>を用いると、<m>n = \log_2 \alpha</m>と表せる。
+				対数関数<m>\mathrm{log}</m>を用いると、次のように表せる。
+				<me>n = \log_2 \alpha</me>
+				また、<m>8 \mathrm{bits} = 1 \mathrm{byte} = 1 \mathrm{B}</m>として単位<dfn>byte</dfn>(記号<dfn>B</dfn>)が定義される。
+				更に<m>2^{10} = 1,024</m>を区切りとして、次のようにより大きい単位が定義される。
+				<me>1 \mathrm{KB} = 1,024 \mathrm{B}, 1 \mathrm{MB} = 1,024 \mathrm{KB}, 1 \mathrm{GB} = 1,024 \mathrm{MB}, 1 \mathrm{TB} = 1,024 \mathrm{GB}</me>
 			</statement>
 		</definition>
 		<p>文字のみの文章なら数KBから数百KB程度、写真や音楽なら数MBから数十MB程度、動画なら数百MBから数十GB程度の大きさが一般的である。
