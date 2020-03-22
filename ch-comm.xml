@@ -148,7 +148,7 @@
 	<section xml:id="sec-comm-speed">
 		<title>コミュニケーションの転送効率</title>
 		<p><xref ref="sec-info-entropy"/>節で述べたように、機械情報はその記号の数によって情報量を定義できる。
-		そのため、機械情報を送受信するときには、送受信の転送効率を定義できる。</p>
+		そのため、機械情報を送受信するときには、送受信の<dfn en="bitrate">転送効率</dfn>を定義できる。</p>
 		<definition>
 			<title>転送効率の単位</title>
 			<statement>
