@@ -5,7 +5,7 @@
 		<p>本章では、コミュニケーションがどのような過程を経てなされるかを概説する。</p>
 		<p><xref ref="sec-comm-model"/>節では、社会学におけるコミュニケーションを説明するモデルの一つである、Luhmann<xref ref="bib-luhmann"/>のコミュニケーション・モデルを述べる。
 		<xref ref="sec-comm-step"/>節では、このモデルを構成する4つの選択である、情報の選択・表現の選択・理解の選択・理解の受容の選択について述べ、第<xref ref="ch-info"/>章の生命情報・社会情報・機械情報の関係を示す。
-		<xref ref="sec-comm-cont"/>節では、コミュニケーションの継続と断絶について述べる。</p>
+		<xref ref="sec-comm-cont"/>節では、コミュニケーションの継続と断絶について述べる。<xref ref="sec-comm-bitrate"/>節では、コミュニケーションにおける転送効率について述べる。</p>
 	</introduction>
 
 	<section xml:id="sec-comm-model">
@@ -145,8 +145,8 @@
 		</note>
 	</section>
 
-	<section xml:id="sec-comm-speed">
-		<title>コミュニケーションの転送効率</title>
+	<section xml:id="sec-comm-bitrate">
+		<title>コミュニケーションにおける転送効率</title>
 		<p><xref ref="sec-info-entropy"/>節で述べたように、機械情報はその記号の数によって情報量を定義できる。
 		そのため、機械情報を送受信するときには、送受信の<dfn en="bitrate">転送効率</dfn>を定義できる。</p>
 		<definition>
