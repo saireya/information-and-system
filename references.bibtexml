@@ -148,6 +148,24 @@
 
 <entry id="saussure"><book>
 	<author>Ferdinand de Saussure</author>
+	<title>Cours de linguistique générale</title>
+	<publisher>Payot</publisher>
+	<year>1916</year>
+	<url>https://fr.wikisource.org/wiki/Cours_de_linguistique_g%C3%A9n%C3%A9rale</url>
+	<pages>158-162</pages>
+</book></entry>
+
+<entry id="saussure-en"><book>
+	<author>Ferdinand de Saussure</author>
+	<title>Course in general linguistics</title>
+	<publisher>Philosophical Library</publisher>
+	<year>1959</year>
+	<url>https://archive.org/details/courseingenerall00saus</url>
+	<pages>65-70</pages>
+</book></entry>
+
+<entry id="saussure-ja"><book>
+	<author>Ferdinand de Saussure</author>
 	<title>新訳 ソシュール 一般言語学講義</title>
 	<publisher>研究社</publisher>
 	<year>2016</year>
