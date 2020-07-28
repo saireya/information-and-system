@@ -92,7 +92,19 @@
 				<image source="image/logic-inference"/>
 				<caption>推論の方法</caption>
 			</figure>
-		</introduction>
+			<p>図<xref ref="fig-logic-inference"/>の例では、<m>A</m>を「<m>x</m>はソクラテスである」、<m>B</m>を「<m>x</m>は人である」、<m>C</m>を「<m>x</m>は死ぬ」としている。
+				このとき、前提(<m>A \Longrightarrow B</m>)は「ソクラテスは人である(<m>x: \text{ソクラテス} \Longrightarrow x: \text{人}</m>)」、規則(<m>B \Longrightarrow C</m>)は「人は死ぬ(<m>x: \text{人} \Longrightarrow x: \text{死ぬ}</m>)」、結論(<m>A \Longrightarrow C</m>)は「ソクラテスは死ぬ(<m>x: \text{ソクラテス} \Longrightarrow x: \text{死ぬ}</m>)」となる。</p>
+				<definition>
+					<title>演繹・帰納・アブダクション</title>
+					<statement>
+						<ul>
+							<li><strong>前提と規則</strong>から<strong>結論</strong>を導く推論を<dfn en="deduction"><ruby r="えんえき">演繹</ruby></dfn>という。</li>
+							<li><strong>前提と結論</strong>から<strong>規則</strong>を導く推論を<dfn en="induction"><ruby r="きのう">帰納</ruby></dfn>という。</li>
+							<li><strong>規則と結論</strong>から<strong>前提</strong>を導く推論を<dfn en="abduction">アブダクション</dfn>という。</li>
+						</ul>
+					</statement>
+				</definition>
+			</introduction>
 
 		<subsection xml:id="ssec-logic-infer-deduction">
 			<title>演繹</title>
