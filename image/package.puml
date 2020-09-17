@@ -1,12 +1,12 @@
 @startuml package
-'AutoInclude
+!include plantuml.puml
 
 left to right direction
 
 package I:情報/コミュニケーション/メディア as I {
-	class 記号と意味 <<(2,transparent)>> {
-		+記号
-		+意味
+	class 表現と内容 <<(2,transparent)>> {
+		+表現
+		+内容
 		+符号化/復号
 		+主観性
 	}
@@ -29,7 +29,7 @@ package I:情報/コミュニケーション/メディア as I {
 		#成果メディア
 	}
 
-	記号と意味-left-情報
+	表現と内容-left-情報
 	情報-コミュニケーション
 	情報-down-メディア
 	コミュニケーション-left-メディア

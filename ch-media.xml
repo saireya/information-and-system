@@ -60,8 +60,8 @@
 					<li>社会情報<m>(\alpha, \beta)</m>の集合を<dfn>成果メディア</dfn>という。</li>
 				</ul>
 				<md>
-					<mrow>\text{伝播メディア} \amp = \{ (\alpha, \varepsilon) | \alpha: \text{記号} \}</mrow>
-					<mrow>\text{成果メディア} \amp = \{ (\alpha, \beta)       | \alpha: \text{記号}, \beta: \text{意味} \}</mrow>
+					<mrow>\text{伝播メディア} \amp = \{ (\alpha, \varepsilon) | \alpha: \text{表現} \}</mrow>
+					<mrow>\text{成果メディア} \amp = \{ (\alpha, \beta)       | \alpha: \text{表現}, \beta: \text{内容} \}</mrow>
 				</md>
 			</definition>
 			<p>図<xref ref="fig-model"/>に両端付きの矢印でそれぞれのメディアを追記すると、図<xref ref="fig-model-media"/>のようになる。</p>
