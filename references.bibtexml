@@ -68,6 +68,16 @@
 	<year>1969</year>
 </book></entry>
 
+<entry id="hjelmslev-j"><book>
+	<author>Louis Hjelmslev</author>
+	<title>言語理論序説</title>
+	<publisher>ゆまに書房</publisher>
+	<isbn>4897144124</isbn>
+	<year>1998</year>
+	<pages>32-43</pages>
+	<note>林 栄一訳</note>
+</book></entry>
+
 <entry id="ono1"><article>
 	<author>小野 厚夫</author>
 	<title>情報という言葉を尋ねて(1)</title>

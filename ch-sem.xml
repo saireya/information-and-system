@@ -10,17 +10,18 @@
 
 	<section xml:id="sec-sem-semiotics">
 		<title>表現と内容</title>
-		<p><dfn>表現</dfn>とは、日本語の漢字や仮名、英語のアルファベットなどの文字、手話の身振り、点字、絵文字、顔文字、人間以外の生物が使う鳴き声、マーキングなどをいう。
-		また、<dfn>内容</dfn>とは、印象、感情、認識、概念、イメージなど、日常生活の中で頭の中で思い浮かべる事柄をいう。</p>
+		<p><dfn en="expression">表現</dfn>とは、日本語の漢字や仮名、英語のアルファベットなどの文字、手話の身振り、点字、絵文字、顔文字、人間以外の生物が使う鳴き声、マーキングなどの、生命の<em>外側</em>にあるものをいう。
+		また、<dfn en="content">内容</dfn>とは、印象、感情、認識、概念、イメージなどの、生命の<em>内側</em>にあるものをいう<xref ref="bib-hjelmslev-j"/>。</p>
 		<p>例えば、日本語の漢字である「菖蒲」は表現の例、頭の中に思い浮かべた「植物のショウブ(🌱)」は内容の例である。</p>
 		<p>ここで、ある<em>生命にとっての内容の「大きさ」</em>を、その生命にとっての<dfn>価値</dfn>という。
 		内容は思考の過程で思い浮かべるものであるため、<em>内容の「大きさ」、つまり価値は、客観的に測ることができない</em>。
-		一方で、表現は1文字、2文字と数えることができるため、<em>表現の「大きさ」は、客観的に測ることができる</em>。</p>
+		一方で、文字による表現が1文字、2文字と数えることができるように、<em>表現の「大きさ」は、客観的に測ることができる</em>。</p>
 		<note>
-			<title>記号論</title>
+			<title>記号学</title>
 			<statement>
-				<p>本節の定義は、言語学者<ruby r="ソシュール">Saussure</ruby>によるものを基にしている。
-				Saussureは、本稿の「表現」にあたるものを<ruby r="シニフィアン"><dfn strong="0">signifiant</dfn></ruby>(能記、記号表現)、本稿の「内容」にあたるものを<ruby r="シニフィエ"><dfn strong="0">signifié</dfn></ruby>(所記、記号内容)と呼んだ<xref ref="bib-saussure"/><xref ref="bib-saussure-en"/><xref ref="bib-saussure-ja"/><xref ref="bib-machida"/>。</p>
+				<p>本節の用語は、言語学者<ruby r="イェルムスレウ">Hjelmslev</ruby>によるものであるが、これは<ruby r="ソシュール">Saussure</ruby>の理論を発展させたものである。
+				Saussureは、本稿の「表現」にあたるものを<ruby r="シニフィアン"><dfn strong="0">signifiant</dfn></ruby>、本稿の「内容」にあたるものを<ruby r="シニフィエ"><dfn strong="0">signifié</dfn></ruby>と呼んだ<xref ref="bib-saussure"/><xref ref="bib-saussure-en"/><xref ref="bib-saussure-ja"/><xref ref="bib-machida"/>。
+				SaussureやHjelmslevの理論を基礎とする言語学の流派を<dfn en="semiology">記号学</dfn>といい、情報学と強く関係している。</p>
 			</statement>
 		</note>
 	</section>
