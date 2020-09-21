@@ -139,7 +139,7 @@
 
 		<subsection xml:id="ssec-info-soc">
 			<title>社会情報</title>
-			<p>内容<m>\alpha</m>と表現<m>\beta</m>が組になった<dfn>社会情報</dfn><m>(\alpha, \beta)</m>は、<dfn en="code">符号</dfn>ともいう。
+			<p>内容<m>\alpha</m>と表現<m>\beta</m>が組になった<dfn>社会情報</dfn><m>(\alpha, \beta)</m>は、<dfn en="code">符号</dfn>や<dfn en="sign">記号</dfn>ともいう。
 			社会情報は、内容と表現が対応づくことで、生命の外部でも存在しうる。
 			日本語や英語、手話などの<dfn en="language">言語</dfn>や、絵文字を使って特定の内容を表す<dfn en="pictogram">ピクトグラム</dfn>などが社会情報の例である。
 			社会情報が存在しなければ、人間は言語を使うことができず、絵や声、身振りなどで情報を伝えることもできないため、人間は社会を維持できなくなる。
