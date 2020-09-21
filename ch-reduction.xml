@@ -11,22 +11,22 @@
 		<title>還元主義</title>
 		<p>日本語でも「『分ける』ことで『分かる』」というように、還元主義は問題解決の最も基本となる方針である。
 		<ruby r="デカルト">Descartes</ruby>も『方法序説』で、<q ref="bib-descartes-j">問題のおのおのを、できるかぎり多くの、しかも問題をよりよく解くために必要なだけの小部分に分ける</q>ことを、科学の基本的な規則として示している<xref ref="bib-descartes"/><xref ref="bib-descartes-j"/>。</p>
-		<p>また化学の分野では、<ruby r="ドルトン">Dalton</ruby>(1808)は、物質が<dfn en="atom" strong="0">原子</dfn>という粒子からなるという<dfn strong="0">原子説</dfn>を提案した<xref ref="bib-dalton"/>。
-		Avogadro(1811)は原子説を発展させ、物質が<dfn en="molecule" strong="0">分子</dfn>という粒子からなるという<dfn strong="0">分子説</dfn>を提案した<xref ref="bib-avogadro"/><xref ref="bib-avogadro-e"/>。
+		<p>また化学の分野では、<ruby r="ドルトン">Dalton</ruby>(1808)は、物質が<dfn en="atom" strong="0" r="げんし">原子</dfn>という粒子からなるという<dfn strong="0" r="げんしせつ">原子説</dfn>を提案した<xref ref="bib-dalton"/>。
+		Avogadro(1811)は原子説を発展させ、物質が<dfn en="molecule" strong="0" r="ぶんし">分子</dfn>という粒子からなるという<dfn strong="0" r="ぶんしせつ">分子説</dfn>を提案した<xref ref="bib-avogadro"/><xref ref="bib-avogadro-e"/>。
 		原子説や分子説により、物質を構成する原子や分子を分析することで、物質の性質を分析できることが明らかになった。</p>
 	</section>
 
 	<section xml:id="sec-reduction-def">
 		<title>還元の定義</title>
-		<p>還元主義に基づく分析では、対象<m>A</m>をいくつかの要素からなる<dfn en="set">集合</dfn>とみなす。
+		<p>還元主義に基づく分析では、対象<m>A</m>をいくつかの要素からなる<dfn en="set" r="しゅうごう">集合</dfn>とみなす。
 		その上で、対象を複数の集合<m>A_1, A_2, \cdots, A_n</m>に分割して分析する。
-		この分割を<dfn en="reduction">還元</dfn>という。</p>
+		この分割を<dfn en="reduction" r="かんげん">還元</dfn>という。</p>
 
 		<definition>
 			<title>還元</title>
 			<statement>
 				<m>A</m>を集合とし、<m>A_1, \cdots, A_n (\subset A)</m>を<m>A</m>の部分集合とする。
-				<m>A</m>を<m>A_1, \cdots, A_n</m>に分割することを、<m>A</m>を<m>A_1, \cdots, A_n</m>に<dfn en="reduction">還元</dfn>するという。
+				<m>A</m>を<m>A_1, \cdots, A_n</m>に分割することを、<m>A</m>を<m>A_1, \cdots, A_n</m>に<dfn en="reduction" r="かんげん">還元</dfn>するという。
 			</statement>
 		</definition>
 
@@ -51,8 +51,8 @@
 					集合<m>A</m>に対して、部分集合<m>A_1, \cdots, A_n (\subset A)</m>があるとする。
 					<m>A</m>や<m>A_i</m>がもつある性質を数値化する関数を<m>m</m>とおくとき、
 					<ul>
-						<li><m>m(A) =    m(A_1) + \cdots + m(A_n)</m>となるなら、<m>A</m>はその性質について<dfn>還元性</dfn>があるという。</li>
-						<li><m>m(A) \neq m(A_1) + \cdots + m(A_n)</m>となるなら、<m>A</m>はその性質について<dfn>創発性</dfn>があるという。</li>
+						<li><m>m(A) =    m(A_1) + \cdots + m(A_n)</m>となるなら、<m>A</m>はその性質について<dfn r="かんげんせい">還元性</dfn>があるという。</li>
+						<li><m>m(A) \neq m(A_1) + \cdots + m(A_n)</m>となるなら、<m>A</m>はその性質について<dfn r="そうはつせい">創発性</dfn>があるという。</li>
 					</ul>
 				</statement>
 			</definition>
@@ -86,10 +86,10 @@
 				<title>Mutually Exclusive and Collectively Exhaustive (MECE)</title>
 				<statement>
 					集合<m>A</m>に対して、部分集合<m>A_1, \cdots, A_n (\subset A)</m>があるとする。
-					このとき、次の2つの条件を満たすならば、<m>A_1, \cdots, A_n</m>は<m>A</m>の<dfn en="Mutually Exclusive and Collectively Exhaustive">MECE</dfn>な分割、または<ruby r="ちょくわ"><dfn>直和</dfn></ruby>であるという。
+					このとき、次の2つの条件を満たすならば、<m>A_1, \cdots, A_n</m>は<m>A</m>の<dfn en="Mutually Exclusive and Collectively Exhaustive">MECE</dfn>な分割、または<dfn r="ちょくわ" ruby="1">直和</dfn>であるという。
 					<ul>
 						<li>任意の<m>i, j (i \neq j)</m>について、<m>A_i \cap A_j = \emptyset</m>が成り立つ(<em>Mutually Exclusive</em>)<br/>
-							(このとき、<m>A_1, \cdots, A_n</m>は<dfn>互いに素</dfn>な集合であるという)</li>
+							(このとき、<m>A_1, \cdots, A_n</m>は<dfn r="たがいにそ">互いに素</dfn>な集合であるという)</li>
 						<li>任意の<m>a \in A</m>について、<m>a \in A_i</m>となるような<m>i (= 1, \cdots, n)</m>が存在する(<em>Collectively Exhaustive</em>)</li>
 					</ul>
 				</statement>
@@ -109,7 +109,7 @@
 		<title>還元の例</title>
 		<p>還元の例には、大きく複雑な作業をより小さな作業に分割した<dfn en="Work Breakdown Structure">WBS</dfn>や、異なる機能を持つ複数の部門からなる組織の組織図にあたる<dfn en="Organization Breakdown Structure">OBS</dfn>などがある。
 		このとき、作業の見落としや組織の重複が生じないよう、MECEな分割を行うことが重要である。
-		また、問題解決の場面では、そのままで解決できない<em>複雑で大規模な問題を、より小さく単純な問題に分割</em>し、分割した問題を解く<dfn en="divide and conquer method">分割統治法</dfn>が行われる。
+		また、問題解決の場面では、そのままで解決できない<em>複雑で大規模な問題を、より小さく単純な問題に分割</em>し、分割した問題を解く<dfn en="divide and conquer method" r="ぶんかつとうちほう">分割統治法</dfn>が行われる。
 		分割統治法は、歴史上では古代ローマ帝国の統治にも遡ることができるが、数学の問題での場合分けなど、身近な場面で使うことも多い。</p>
 		<!-- TODO: WBSの例 -->
 	</section>
@@ -123,7 +123,7 @@
 		<p>定義に<q ref="bib-wilson">ある人の</q>とあるように、モデルには状況の解釈を行う<em>人間が存在</em>している。
 		モデルは、その人間の意思に基づいて、現象をある特定の側面から分析したものである<xref ref="bib-kodama"/>。
 		即ち、モデルは唯一絶対のものではなく、解釈する人間が<em>現象のどの部分に意味を見いだすか</em>によって現象の<em>本質は変化</em>し、できあがるモデルも変化する。</p>
-		<p>構造を示すモデルを表現するためには、文章よりも<dfn>図</dfn>を使うのが適当である。
+		<p>構造を示すモデルを表現するためには、文章よりも<dfn r="ず">図</dfn>を使うのが適当である。
 		一般的には、要素を実体として四角や丸などの図形で表し、要素間の関連を、実体を結ぶ矢印などの線で表現する。
 		図の標準規格としては<dfn strong="0" abbr="UML">Unified Modeling Language</dfn><xref ref="bib-uml"/>などが知られているが、分野やモデルの種類により、様々な種類の図が使われる。</p>
 	</section>

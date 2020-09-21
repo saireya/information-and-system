@@ -10,18 +10,18 @@
 
 	<section xml:id="sec-sem-semiotics">
 		<title>表現と内容</title>
-		<p><dfn en="expression">表現</dfn>とは、日本語の漢字や仮名、英語のアルファベットなどの文字、手話の身振り、点字、絵文字、顔文字、人間以外の生物が使う鳴き声、マーキングなどの、生命の<em>外側</em>にあるものをいう。
-		また、<dfn en="content">内容</dfn>とは、印象、感情、認識、概念、イメージなどの、生命の<em>内側</em>にあるものをいう<xref ref="bib-hjelmslev-j"/>。</p>
+		<p><dfn en="expression" r="ひょうげん">表現</dfn>とは、日本語の漢字や仮名、英語のアルファベットなどの文字、手話の身振り、点字、絵文字、顔文字、人間以外の生物が使う鳴き声、マーキングなどの、生命の<em>外側</em>にあるものをいう。
+		また、<dfn en="content" r="ないよう">内容</dfn>とは、印象、感情、認識、概念、イメージなどの、生命の<em>内側</em>にあるものをいう<xref ref="bib-hjelmslev-j"/>。</p>
 		<p>例えば、日本語の漢字である「菖蒲」は表現の例、頭の中に思い浮かべた「植物のショウブ(🌱)」は内容の例である。</p>
-		<p>ここで、ある<em>生命にとっての内容の「大きさ」</em>を、その生命にとっての<dfn>価値</dfn>という。
+		<p>ここで、ある<em>生命にとっての内容の「大きさ」</em>を、その生命にとっての<dfn r="かち">価値</dfn>という。
 		内容は思考の過程で思い浮かべるものであるため、<em>内容の「大きさ」、つまり価値は、客観的に測ることができない</em>。
 		一方で、文字による表現が1文字、2文字と数えることができるように、<em>表現の「大きさ」は、客観的に測ることができる</em>。</p>
 		<note>
 			<title>記号学</title>
 			<statement>
 				<p>本節の用語は、言語学者<ruby r="イェルムスレウ">Hjelmslev</ruby>によるものであるが、これは<ruby r="ソシュール">Saussure</ruby>の理論を発展させたものである。
-				Saussureは、本稿の「表現」にあたるものを<ruby r="シニフィアン"><dfn strong="0">signifiant</dfn></ruby>、本稿の「内容」にあたるものを<ruby r="シニフィエ"><dfn strong="0">signifié</dfn></ruby>と呼んだ<xref ref="bib-saussure"/><xref ref="bib-saussure-en"/><xref ref="bib-saussure-ja"/><xref ref="bib-machida"/>。
-				SaussureやHjelmslevの理論を基礎とする言語学の流派を<dfn en="semiology">記号学</dfn>といい、情報学と強く関係している。</p>
+				Saussureは、本稿の「表現」にあたるものを<dfn strong="0" en="signifiant">シニフィアン</dfn>、本稿の「内容」にあたるものを<dfn strong="0" en="signifié">シニフィエ</dfn>と呼んだ<xref ref="bib-saussure"/><xref ref="bib-saussure-en"/><xref ref="bib-saussure-ja"/><xref ref="bib-machida"/>。
+				SaussureやHjelmslevの理論を基礎とする言語学の流派を<dfn en="semiology" r="きごうがく">記号学</dfn>といい、情報学と強く関係している。</p>
 			</statement>
 		</note>
 	</section>
@@ -30,16 +30,16 @@
 		<title>符号化と復号</title>
 		<p>人間もそれ以外の動植物も含め、生命は常に、見聞きした表現に対して内容を対応づけることで、その生命の外側にある世界の様子を理解している。
 		また、思い浮かべた内容に対して表現を対応づけることで、その生命の外側で内容を表現している。</p>
-		<p>ある内容が与えられたとき、その<em>内容に表現を対応づける</em>ことを<dfn en="encode">符号化</dfn>という。
-		逆に、ある表現が与えられたとき、その<em>表現に内容を対応づける</em>ことを<dfn en="decode">復号</dfn>という<xref ref="bib-hall"/><xref ref="bib-hall2"/>。</p>
+		<p>ある内容が与えられたとき、その<em>内容に表現を対応づける</em>ことを<dfn en="encode" r="ふごうか">符号化</dfn>という。
+		逆に、ある表現が与えられたとき、その<em>表現に内容を対応づける</em>ことを<dfn en="decode" r="ふくごう">復号</dfn>という<xref ref="bib-hall"/><xref ref="bib-hall2"/>。</p>
 
 		<definition>
 			<title>符号化と復号</title>
 			<statement>
 				生命<m>i</m>が行う符号化を<m>e_i</m>、復号を<m>d_i</m>で表す。
 				<ul>
-					<li><m>\alpha = e_i(\beta)</m>となるとき、<m>i</m>は内容<m>\beta</m>を表現<m>\alpha</m>に<dfn en="encode">符号化</dfn>したという。また、<m>\alpha</m>を内容<m>\beta</m>に対応する表現という。</li>
-					<li><m>\beta  = d_i(\alpha)</m>となるとき、<m>i</m>は表現<m>\alpha</m>を内容<m>\beta</m>に<dfn en="decode">復号</dfn>したという。また、<m>\beta</m>を表現<m>\alpha</m>に対応する内容という。</li>
+					<li><m>\alpha = e_i(\beta)</m>となるとき、<m>i</m>は内容<m>\beta</m>を表現<m>\alpha</m>に<dfn en="encode" r="ふごうか">符号化</dfn>したという。また、<m>\alpha</m>を内容<m>\beta</m>に対応する表現という。</li>
+					<li><m>\beta  = d_i(\alpha)</m>となるとき、<m>i</m>は表現<m>\alpha</m>を内容<m>\beta</m>に<dfn en="decode" r="ふくごう">復号</dfn>したという。また、<m>\beta</m>を表現<m>\alpha</m>に対応する内容という。</li>
 				</ul>
 				<md>
 					<mrow>\text{符号化} e_i \amp: \text{内容} \longrightarrow \text{表現}</mrow>
@@ -48,7 +48,7 @@
 			</statement>
 		</definition>
 		<remark>
-			<p>「符号化」は<dfn en="code">符号</dfn>を作ることから、英語では「code」に「en」がついて「encode」と呼ばれる。
+			<p>「符号化」は<dfn en="code" r="ふごう">符号</dfn>を作ることから、英語では「code」に「en」がついて「encode」と呼ばれる。
 			「encode」に対応する単語は英語では「decode」だが、日本語では符号を元の形に<ruby r="かえ">復</ruby>す意味で「復号」となるので、「復号化」とは呼ばない。
 			また、数学で用いる「<m>\pm, \mp</m>」を複号というが、復号は複号とは別物である。</p>
 		</remark>
@@ -67,7 +67,7 @@
 			人はそれぞれ、生まれてから今までに得た知識や、育った環境、考え方が異なる上、同じ人間でも、その日の体調や気分などにより、この対応づけは変わりうる。
 			どのような符号化を行うか、つまり<em>ある内容をどのような表現に表現するかは、内容を表現する人ごとに異なっており、絶対的・客観的に決まるわけではない</em>。
 			同様に、どのような復号を行うか、つまり<em>ある表現をどのような内容に理解するかは、表現を理解する人ごとに異なっており、絶対的・客観的に決まるわけではない</em>。
-			表現や内容が行為者の<em>主観により決定される</em>というこの性質を、符号化や復号における<dfn en="subjective">主観性</dfn>という。
+			表現や内容が行為者の<em>主観により決定される</em>というこの性質を、符号化や復号における<dfn en="subjective" r="しゅかんせい">主観性</dfn>という。
 		</introduction>
 
 		<subsection xml:id="ssec-sem-objective">
@@ -75,15 +75,15 @@
 			<definition>
 				<title>客観性と主観性</title>
 				<statement>
-					表現<m>\alpha</m>を誰が復号しても同じ内容<m>\beta</m>になるとき、表現<m>\alpha</m>は<dfn en="objective">客観性</dfn>をもつという。このとき、生命<m>i, j, k, \cdots</m>について次が成り立つ。
+					表現<m>\alpha</m>を誰が復号しても同じ内容<m>\beta</m>になるとき、表現<m>\alpha</m>は<dfn en="objective" r="きゃっかんせい">客観性</dfn>をもつという。このとき、生命<m>i, j, k, \cdots</m>について次が成り立つ。
 					<md>
 						<mrow>d_i(\alpha) = d_j(\alpha) = d_k(\alpha) = \cdots = \beta</mrow>
 					</md>
-					表現<m>\alpha</m>が客観性をもたないとき、表現<m>\alpha</m>は<dfn en="subjective">主観性</dfn>をもつという。
+					表現<m>\alpha</m>が客観性をもたないとき、表現<m>\alpha</m>は<dfn en="subjective" r="しゅかんせい">主観性</dfn>をもつという。
 				</statement>
 			</definition>
 			<p>曖昧さのない記述が要求される<em>法令</em>の条文や、厳密な定義によって理論を構築する<em>論理学</em>や<em>数学</em>などの科学は、できるだけ高い客観性のある表現を用いることが求められる。
-			また、特定の図形と音の組において復号した結果が一致する確率が高くなる<dfn en="Bouba/Kiki effect">ブーバ・キキ効果</dfn>のように、一部の表現については、客観性が高くなることが知られている。</p>
+			また、特定の図形と音の組において復号した結果が一致する確率が高くなる<dfn en="Bouba/Kiki effect" r="ブーバ・キキこうか">ブーバ・キキ効果</dfn>のように、一部の表現については、客観性が高くなることが知られている。</p>
 			<example>
 				<title>ブーバ・キキ効果</title>
 				<statement>
@@ -151,7 +151,7 @@
 				<statement>
 					復号の主観性が生じる原因は、人生経験や周辺環境、体調や精神状態などの後天的なもの以外に、先天的な感覚の多様性によるものもある。
 					例えば、色覚の多様性により区別して認識しやすい色が多くの人と異なる場合、赤色と緑色など、特定の色の識別が困難である。
-					また、感覚過敏や<dfn en="synesthesia">共感覚</dfn>を有する場合には、文字や音に対して色や温度を感じたり、明朝体の文字に刺激や苦痛を感じたりすることがある。
+					また、感覚過敏や<dfn en="synesthesia" r="きょうかんかく">共感覚</dfn>を有する場合には、文字や音に対して色や温度を感じたり、明朝体の文字に刺激や苦痛を感じたりすることがある。
 				</statement>
 			</example>
 		</subsection>
@@ -166,7 +166,7 @@
 				</statement>
 			</proposition>
 			<remark>
-				<p><m>B</m>さんが復号した内容が<m>\beta</m>とは異なるとき、一般的に「<dfn en="misunderstanding">誤解</dfn>が生じた」という。
+				<p><m>B</m>さんが復号した内容が<m>\beta</m>とは異なるとき、一般的に「<dfn en="misunderstanding" r="ごかい">誤解</dfn>が生じた」という。
 				「誤解」は「解釈を誤った」という意味だが、このときに解釈した側の<m>B</m>さんに責任があるとは限らず、<m>A</m>さんの表現に問題がある可能性もあれば、どちらにも非がないのに通じなかった可能性もある。</p>
 			</remark>
 		</subsection>

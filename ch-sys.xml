@@ -13,13 +13,13 @@
 		<title>構造主義</title>
 		<p>この世界に存在する対象は、互いに孤立しているわけではなく、互いに関係し、作用して影響を及ぼすことが多い。
 		物質の化学反応や生命の維持、人間の思考、地域やSNSのコミュニティ、政治や経済は、いずれも要素間の相互作用を考慮しなければ、適切に分析できない。</p>
-		<p>Lévi-Straussは、要素間の関係を<dfn en="structure">構造</dfn>と呼んだ<xref ref="bib-levi-strauss"/>。
+		<p>Lévi-Straussは、要素間の関係を<dfn en="structure" r="こうぞう">構造</dfn>と呼んだ<xref ref="bib-levi-strauss"/>。
 		構造主義では構造を重視し、対象<m>A</m>を要素とその関係からなるシステムとみなし、関係に注目して分析する。</p>
 		<definition>
 			<title>構造</title>
 			<statement>
 				集合<m>V = \{ v_i | i = 1, \cdots, n \}</m>の2つの要素<m>v_i, v_j</m>間に関係があるとき、この関係を2要素の組<m>(v_i, v_j)</m>として表す。
-				関係の集合<m>E = \{ (v_i, v_j) \}</m>を、集合<m>V</m>の<dfn en="structure">構造</dfn>という。
+				関係の集合<m>E = \{ (v_i, v_j) \}</m>を、集合<m>V</m>の<dfn en="structure" r="こうぞう">構造</dfn>という。
 			</statement>
 		</definition>
 		<p>構造の表し方には、要素の組として表す以外に、次のように隣接行列を用いる方法もある。</p>
@@ -27,7 +27,7 @@
 			<title>隣接行列</title>
 			<statement>
 				集合<m>V = \{ v_i | i = 1, \cdots, n \}</m>の2つの要素<m>v_i, v_j</m>間に関係がある、つまり<m>(v_i, v_j) \in E</m>のとき<m>e_{ij} = 1</m>とし、それ以外のとき<m>e_{ij} = 0</m>とする。
-				このとき、<m>e_{ij}</m>を次のように並べた行列<m>\varepsilon = (e_{ij})</m>を、集合<m>V</m>の<dfn>隣接行列</dfn>という。
+				このとき、<m>e_{ij}</m>を次のように並べた行列<m>\varepsilon = (e_{ij})</m>を、集合<m>V</m>の<dfn r="りんせつぎょうれつ">隣接行列</dfn>という。
 				<me>\varepsilon = (e_{ij})
 					= \begin{pmatrix}
 						e_{11} \amp e_{12} \amp \cdots \amp e_{1n} \\
@@ -40,19 +40,19 @@
 						0 \amp ((v_i, v_j) \notin E) \\
 					\end{cases} \right)
 				</me>
-				より一般的に、<m>e_{ij}</m>の値を非負の実数とすることもある。このとき、<m>e_{ij}</m>は関係<m>(v_i, v_j)</m>の大きさや強さ、広さなどを表すことができるので、<m>(v_i, v_j)</m>の<dfn en="capacity">容量</dfn>という。
+				より一般的に、<m>e_{ij}</m>の値を非負の実数とすることもある。このとき、<m>e_{ij}</m>は関係<m>(v_i, v_j)</m>の大きさや強さ、広さなどを表すことができるので、<m>(v_i, v_j)</m>の<dfn en="capacity" r="ようりょう">容量</dfn>という。
 			</statement>
 		</definition>
 	</section>
 
 	<section xml:id="sec-sys-def">
 		<title>システムの定義</title>
-		<p><ruby r="ベルタランフィ">Bertalanffy</ruby><xref ref="bib-bertalanffy"/>によれば、<dfn en="system">システム</dfn>または<ruby r="けい"><dfn>系</dfn></ruby>とは<em>相互に作用しあう要素の集合</em>である。
+		<p><ruby r="ベルタランフィ">Bertalanffy</ruby><xref ref="bib-bertalanffy"/>によれば、<dfn en="system">システム</dfn>または<dfn r="けい" ruby="1">系</dfn>とは<em>相互に作用しあう要素の集合</em>である。
 		システムは、要素の集合<m>V</m>と、要素間の相互作用を表す<m>V</m>の構造<m>E</m>の組<m>S = (V, E)</m>として定義される。</p>
 		<definition>
 			<title>システム</title>
 			<statement>
-				要素の集合を<m>V = \{ v_i | i = 1, \cdots, n \}</m>、<m>V</m>の構造を<m>E = \{ e_{ij} | i = 1, \cdots, n; j = 1, \cdots, n; \}</m>としたとき、組<m>(V, E)</m>を<dfn en="system">システム</dfn>または<ruby r="けい"><dfn>系</dfn></ruby>という。
+				要素の集合を<m>V = \{ v_i | i = 1, \cdots, n \}</m>、<m>V</m>の構造を<m>E = \{ e_{ij} | i = 1, \cdots, n; j = 1, \cdots, n; \}</m>としたとき、組<m>(V, E)</m>を<dfn en="system">システム</dfn>または<dfn r="けい" ruby="1">系</dfn>という。
 				このとき、<m>V</m>の要素をシステム<m>(V, E)</m>の要素といい、集合<m>E</m>をシステム<m>(V, E)</m>の構造という。
 			</statement>
 		</definition>
@@ -60,11 +60,11 @@
 			<title>グラフ</title>
 			<statement>
 				<p>システムのように、点と、2点を結ぶ線の組を<dfn en="graph">グラフ</dfn>という。
-				グラフでは、「点」を<dfn strong="0" en="node">節点</dfn>や頂点、「線」を<dfn strong="0" en="edge">枝</dfn>や辺という。
+				グラフでは、「点」を<dfn strong="0" en="node" r="せってん">節点</dfn>や頂点、「線」を<dfn strong="0" en="edge" r="えだ">枝</dfn>や辺という。
 				数学の関数<m>y = f(x)</m>の概形を表す「グラフ」や、理科の実験で測定値に対応する点を繋いだ「グラフ」も、その関数が通る「点」を「線」で結んで表したものなので、ここでいうグラフの一種である。</p>
 				<p>グラフは節点と枝のみからなるため、節点の集合を<m>V</m>、枝の集合を<m>E</m>とすれば、グラフは<m>(V, E)</m>と表せる。
-				グラフのうち、枝の2つの端点が区別できず、枝に「向き」がないグラフを<dfn en="undirected graph">無向グラフ</dfn>という。
-				一方、すべての枝に「向き」があるグラフを<dfn en="directed graph">有向グラフ</dfn>という。</p>
+				グラフのうち、枝の2つの端点が区別できず、枝に「向き」がないグラフを<dfn en="undirected graph" r="むこうグラフ">無向グラフ</dfn>という。
+				一方、すべての枝に「向き」があるグラフを<dfn en="directed graph" r="ゆうこうグラフ">有向グラフ</dfn>という。</p>
 				<p>以上のようなグラフに関する理論はグラフ理論と呼ばれ、ネットワークや送電網の分析など、工学の各方面で応用される。</p>
 			</statement>
 		</note>
@@ -78,8 +78,8 @@
 				このとき、
 				<ul>
 					<li><m>E_1 = E_2</m>であれば、<m>S_1</m>と<m>S_2</m>は同じシステムであるといい、<m>S_1 = S_2</m>と表す。<m>S_1 = S_2</m>でないことを、<m>S_1 \ne S_2</m>と表す。</li>
-					<li><m>S_1 \cup S_2 = (V_1 \cup V_2, E_1 \cup E_2)</m>を<m>S_1</m>と<m>S_2</m>の<dfn en="union">合併</dfn>という。<m>V_1 \cap V_2 \ne \emptyset</m>ならば、<m>S_1 \cup S_2</m>はシステムである。</li>
-					<li><m>S_1 \cap S_2 = (V_1 \cap V_2, E_1 \cap E_2)</m>を<m>S_1</m>と<m>S_2</m>の<dfn en="intersection">共通部分</dfn>という。<m>S_1, S_2</m>がシステムなら<m>S_1 \cap S_2</m>はシステムである。</li>
+					<li><m>S_1 \cup S_2 = (V_1 \cup V_2, E_1 \cup E_2)</m>を<m>S_1</m>と<m>S_2</m>の<dfn en="union" r="がっぺい">合併</dfn>という。<m>V_1 \cap V_2 \ne \emptyset</m>ならば、<m>S_1 \cup S_2</m>はシステムである。</li>
+					<li><m>S_1 \cap S_2 = (V_1 \cap V_2, E_1 \cap E_2)</m>を<m>S_1</m>と<m>S_2</m>の<dfn en="intersection" r="きょうつうぶぶん">共通部分</dfn>という。<m>S_1, S_2</m>がシステムなら<m>S_1 \cap S_2</m>はシステムである。</li>
 				</ul>
 				同様にして、3つ以上のシステムの合併や共通部分も定義する。
 			</statement>
@@ -89,11 +89,11 @@
 		<note>
 			<title>実体関連モデルと関係データベース</title>
 			<statement>
-				<p>コンピュータで情報をデータとして蓄積し、利用できるようにしたものを<dfn en="database">データベース</dfn>(<dfn>DB</dfn>)といい、データベースを管理するためのシステムを<dfn en="database management system">データベース管理システム</dfn>(<dfn>DBMS</dfn>)という。
+				<p>コンピュータで情報をデータとして蓄積し、利用できるようにしたものを<dfn en="database">データベース</dfn>(<dfn>DB</dfn>)といい、データベースを管理するためのシステムを<dfn en="database management system" r="データベースかんりシステム">データベース管理システム</dfn>(<dfn>DBMS</dfn>)という。
 				DBMSは、DBの情報の追加・削除を行うことや、DBから情報を検索し読み出すことができる。</p>
-				<p>現在広く使われるDBの多くが、Codd<xref ref="bib-codd"/>の提案に基づく<dfn en="relational database">関係データベース</dfn>と呼ばれる種類のDBである。
-				関係データベースの設計には、Chenによる<dfn en="Entity-Relationship model">実体関連モデル</dfn>(<dfn>ERモデル</dfn>)<xref ref="bib-chen-er"/>と呼ばれるモデルが使われる。
-				ERモデルでは、DBの作成対象を<dfn en="entity">実体</dfn>と、実体間の<dfn en="relationship">関連</dfn>と捉え、DBを作成する。
+				<p>現在広く使われるDBの多くが、Codd<xref ref="bib-codd"/>の提案に基づく<dfn en="relational database" r="かんけいデータベース">関係データベース</dfn>と呼ばれる種類のDBである。
+				関係データベースの設計には、Chenによる<dfn en="Entity-Relationship model" r="じったいかんれんモデル">実体関連モデル</dfn>(<dfn>ERモデル</dfn>)<xref ref="bib-chen-er"/>と呼ばれるモデルが使われる。
+				ERモデルでは、DBの作成対象を<dfn en="entity" r="じったい">実体</dfn>と、実体間の<dfn en="relationship" r="かんれん">関連</dfn>と捉え、DBを作成する。
 				実体はシステムの要素に、関連はシステムの構造に対応しており、DBは現実のシステムをデータ化して機械的に処理するためのものだといえる。</p>
 			</statement>
 		</note>
@@ -102,20 +102,20 @@
 	<section xml:id="sec-sys-dynamic">
 		<title>システムの時間発展</title>
 		<introduction>
-			<p>時間の経過により、システムの要素が新たに生み出されたり、要素の間に新たな関係が生じたりして、構造が<dfn en="dynamic" strong="0">動的</dfn>に変化する。
-			このように<em>システムが自律的に作動し、自身で変化</em>していく性質を<dfn en="autopoiesis">オートポイエーシス</dfn>または<dfn>自己創発</dfn>という<xref ref="bib-maturana-j"/><xref ref="bib-kawamoto"/>。</p>
+			<p>時間の経過により、システムの要素が新たに生み出されたり、要素の間に新たな関係が生じたりして、構造が<dfn en="dynamic" strong="0" r="どうてき">動的</dfn>に変化する。
+			このように<em>システムが自律的に作動し、自身で変化</em>していく性質を<dfn en="autopoiesis">オートポイエーシス</dfn>または<dfn r="じこそうはつ">自己創発</dfn>という<xref ref="bib-maturana-j"/><xref ref="bib-kawamoto"/>。</p>
 		</introduction>
 
 		<subsection xml:id="ssec-sys-state">
 			<title>状態</title>
-			<p>それぞれの時刻でのシステムの構造を、そのシステムの<dfn en="state">状態</dfn>という。</p>
+			<p>それぞれの時刻でのシステムの構造を、そのシステムの<dfn en="state" r="じょうたい">状態</dfn>という。</p>
 			<definition>
 				<title>状態</title>
 				<statement>
-					ある<em>時刻<m>t</m>におけるシステム<m>S</m>の構造</em>を、<m>S</m>の時刻<m>t</m>における<dfn en="state">状態</dfn>といい、<m>S(t) = (V(t), E(t))</m>と表す。
+					ある<em>時刻<m>t</m>におけるシステム<m>S</m>の構造</em>を、<m>S</m>の時刻<m>t</m>における<dfn en="state" r="じょうたい">状態</dfn>といい、<m>S(t) = (V(t), E(t))</m>と表す。
 					ここで<m>V(t), E(t)</m>はそれぞれ、<m>S(t)</m>の要素の集合と構造である。
-					最初の時刻、即ち時刻0におけるシステムの状態<m>S(0)</m>を、システム<m>S</m>の<dfn en="initial state">初期状態</dfn>という。
-					またシステムの状態が一定になり、もはや変化しなくなったとき、その状態を<dfn>定常状態</dfn>という。
+					最初の時刻、即ち時刻0におけるシステムの状態<m>S(0)</m>を、システム<m>S</m>の<dfn en="initial state" r="しょきじょうたい">初期状態</dfn>という。
+					またシステムの状態が一定になり、もはや変化しなくなったとき、その状態を<dfn r="ていじょうじょうたい">定常状態</dfn>という。
 					<!-- むしろ、システムの状態が変化することを、時間が経過したと呼ぶこともできる。-->
 				</statement>
 			</definition>
@@ -123,11 +123,11 @@
 			<m>V</m>に新たな要素<m>v</m>が生じたとき、システムの定義より、<m>v</m>と他の要素<m>v_k (\in V)</m>との関係<m>(v, v_k) (\in E)</m>も同時に生じる。
 			一方、<m>V</m>から要素<m>v</m>が消えたとき、システムの定義より、<m>v</m>と他の要素<m>v_k (\in V)</m>との関係<m>(v, v_k) (\in E)</m>も同時に消える。
 			従って、<strong>システム<m>(V, E)</m>の状態が変化することは、システムの構造<m>E</m>が変化することと同値</strong>であり、構造の変化についてのみ議論すればよい。</p>
-			<p>システムの構造が変化して状態が変化することを、<dfn en="autopoiesis">オートポイエーシス</dfn>または<dfn>自己創発</dfn>という。</p>
+			<p>システムの構造が変化して状態が変化することを、<dfn en="autopoiesis">オートポイエーシス</dfn>または<dfn r="じこそうはつ">自己創発</dfn>という。</p>
 			<definition>
 				<title>オートポイエーシス</title>
 				<statement>
-					時刻<m>t = T</m>において<m>S(T-1) \ne S(T)</m>となるとき、システム<m>S</m>は<m>t = T</m>において<dfn en="autopoiesis">オートポイエーシス</dfn>が生じた、または<dfn>自己創発</dfn>したという。
+					時刻<m>t = T</m>において<m>S(T-1) \ne S(T)</m>となるとき、システム<m>S</m>は<m>t = T</m>において<dfn en="autopoiesis">オートポイエーシス</dfn>が生じた、または<dfn r="じこそうはつ">自己創発</dfn>したという。
 				</statement>
 			</definition>
 			<p>図<xref ref="fig-autopoiesis"/>に、システムのオートポイエーシスの模式図を示す。図<xref ref="fig-autopoiesis"/>では、丸印でシステムの状態を示し、状態間を結ぶ矢印でオートポイエーシスを示した。</p>
@@ -138,7 +138,7 @@
 			<note>
 				<title>力学系</title>
 				<statement>
-					<p>システムにおける動的な構造の変化を強調して、システムを<dfn en="dynamical system" strong="0">力学系</dfn>や<dfn en="complex system">複雑系</dfn>ということがある。
+					<p>システムにおける動的な構造の変化を強調して、システムを<dfn en="dynamical system" strong="0" r="りきがくけい">力学系</dfn>や<dfn en="complex system" r="ふくざつけい">複雑系</dfn>ということがある。
 					この「力学」はdynamicalの訳語であり、物理における「力学」との直接的な関係はない。</p>
 					<p>力学系では、状態を<m>n</m>個の変数<m>x_1, \cdots, x_n</m>で表せると仮定する。
 					状態の変化を<m>n</m>個の関数<m>f_1, \cdots, f_n</m>で表せるとしたとき、力学系は次の<m>n</m>個の微分方程式で表される。</p>
@@ -150,14 +150,14 @@
 
 		<subsection xml:id="ssec-sys-close">
 			<title>閉鎖性</title>
-			<p>円という点の集合が円周を境界に持つように、システムもまた<dfn>境界</dfn>をもつ。
+			<p>円という点の集合が円周を境界に持つように、システムもまた<dfn r="きょうかい">境界</dfn>をもつ。
 			例えば、学級という組織はその学級に所属している生徒からなるシステムであり、他学級の生徒はその外部にある。
-			このように、あるシステムの<em>境界の外部</em>を、そのシステムの<dfn>環境</dfn>という。</p>
+			このように、あるシステムの<em>境界の外部</em>を、そのシステムの<dfn r="かんきょう">環境</dfn>という。</p>
 
 			<p>システムは、その境界の外側、つまり環境から影響されるかどうかにより、開放系、半閉鎖系、閉鎖系に分類できる。
-			ガラパゴス諸島の生態系のように、<em>環境の影響を受けないシステム</em>を<dfn en="closed system">閉鎖系</dfn>という。
-			一方、入力に従って処理を行う情報システムのように、<em>環境の影響を受けるシステム</em>を<dfn en="open system">開放系</dfn>という。</p>
-			<p>開放系は更に、<em>間接的に</em>環境から影響を受けるが、環境から直接影響を及ぼすことができない<dfn en="semi-closed system">半閉鎖系</dfn>と、直接的に環境から影響を受ける通常の開放系に分類できる。
+			ガラパゴス諸島の生態系のように、<em>環境の影響を受けないシステム</em>を<dfn en="closed system" r="へいさけい">閉鎖系</dfn>という。
+			一方、入力に従って処理を行う情報システムのように、<em>環境の影響を受けるシステム</em>を<dfn en="open system" r="かいほうけい">開放系</dfn>という。</p>
+			<p>開放系は更に、<em>間接的に</em>環境から影響を受けるが、環境から直接影響を及ぼすことができない<dfn en="semi-closed system" r="はんかいほうけい">半閉鎖系</dfn>と、直接的に環境から影響を受ける通常の開放系に分類できる。
 			半閉鎖系は、システムの<em>内部から外部を観察し、外部の変化に反応</em>することで、間接的に環境の影響を受ける。
 			内部からの観察や反応がなければ、外部からどれだけ強い刺激を与えても、半閉鎖系のシステムに影響を及ぼすことはできない。
 			また内部から反応がありシステムが変化した場合も、その反応が外部から与えた刺激の通りのものになるとは限らない。</p>
@@ -210,12 +210,12 @@
 
 		<subsection xml:id="ssec-sys-eg-psy">
 			<title>心理システム</title>
-			<p><dfn>心理システム</dfn>は<em>思考</em>を要素とするシステムである<xref ref="bib-kawamoto"/><xref ref="bib-bateson2"/>。
+			<p><dfn r="しんりシステム">心理システム</dfn>は<em>思考</em>を要素とするシステムである<xref ref="bib-kawamoto"/><xref ref="bib-bateson2"/>。
 			<ruby r="デカルト">Descartes</ruby>が<q ref="bib-descartes-j">私は考える、ゆえに私はある</q>と述べたように<xref ref="bib-descartes"/><xref ref="bib-descartes-j"/>、思考は生命の精神活動の源泉だといえる。</p>
-			<p><dfn>思考</dfn>は、<em>送り手と受け手が同一であるコミュニケーション</em>である。
-			Plátōnが<q ref="bib-platon">魂の内において音声を伴わずに、魂自身を相手に行われる<ruby r="ディアロゴス">対話</ruby></q><xref ref="bib-platon"/><xref ref="bib-platon-e"/>を思考と呼んでいるように、人間の思考では、思考が「ひとりごと」として表出するか否かにかかわらず、記号が使われる(<dfn>シンボル機能</dfn>)<xref ref="bib-bertalanffy"/>。
+			<p><dfn r="しこう">思考</dfn>は、<em>送り手と受け手が同一であるコミュニケーション</em>である。
+			Plátōnが<q ref="bib-platon">魂の内において音声を伴わずに、魂自身を相手に行われる<ruby r="ディアロゴス">対話</ruby></q><xref ref="bib-platon"/><xref ref="bib-platon-e"/>を思考と呼んでいるように、人間の思考では、思考が「ひとりごと」として表出するか否かにかかわらず、記号が使われる(<dfn r="シンボルきのう">シンボル機能</dfn>)<xref ref="bib-bertalanffy"/>。
 			特に母語は人間の思考様式に大きな影響を及ぼしており、<em>母語が異なれば思考様式が異なりうる</em>。
-			これは、人間の思考様式が普遍的に同じであることを否定するものであり、<dfn>言語相対仮説</dfn>や<dfn>Sapir-Whorf仮説</dfn>と呼ばれる<xref ref="bib-whorf"/><xref ref="bib-sapir"/>。</p>
+			これは、人間の思考様式が普遍的に同じであることを否定するものであり、<dfn r="げんごそうたいかせつ">言語相対仮説</dfn>や<dfn r="Sapir-Whorfかせつ">Sapir-Whorf仮説</dfn>と呼ばれる<xref ref="bib-whorf"/><xref ref="bib-sapir"/>。</p>
 			<p>心理システムは知的な生命を構成する最も基本的なシステムである。
 			連続的な思考の積み重ねは思考間の関連を生み出し、心理システムの構造を形成する。
 			こうして形成された構造がそのシステムにとっての<em>世界</em>であり、そのシステムが持つ<em>現実イメージ</em>である。
@@ -223,7 +223,7 @@
 			<p>心理システムの思考は、誤りが生じぬよう、論理的で合理的であることを志向して展開される。
 			だが、現実イメージは現実の一部分を捉えたものでしかなく、しかも実際の現実とも異なる。
 			そのため、心理システムにおける思考は、決して完璧に正しいとはいえず、最適な判断ができるわけでもない。
-			こうした、<em>ある限定された範囲までの合理性しかない</em>性質を<dfn>限定合理性</dfn>という<xref ref="bib-simon"/>。</p>
+			こうした、<em>ある限定された範囲までの合理性しかない</em>性質を<dfn r="げんていごうりせい">限定合理性</dfn>という<xref ref="bib-simon"/>。</p>
 			<p>心理システムを構成する思考には、システムの外部から直接に影響を与えることはできない。
 			システムの外部、即ち環境が人間の思考に影響を与えられるのは、ただ人間が環境を観察し、それに反応したときのみである。
 			例えば、ある人間の肉体にどれほど強い攻撃を加えても、その人間の精神が攻撃に屈しない限り、その人間の思考を束縛することはできない。
@@ -234,13 +234,13 @@
 			<title>社会システム</title>
 			<p>心理システムがもつ限定合理性を克服するため、生命は他の生命と合同し、より大きな集団を形成する。
 			その集団内でコミュニケーションを行ってお互いの限定合理性を補い合い、より完全な合理性を手に入れようとする<xref ref="bib-kuwata"/>。
-			このようにして形成される<dfn>社会システム</dfn>は<em>コミュニケーション</em>を要素とするシステムであり、<dfn>組織</dfn>とも呼ばれる<xref ref="bib-barnard"/><xref ref="bib-simon"/>。
+			このようにして形成される<dfn r="しゃかいシステム">社会システム</dfn>は<em>コミュニケーション</em>を要素とするシステムであり、<dfn r="そしき">組織</dfn>とも呼ばれる<xref ref="bib-barnard"/><xref ref="bib-simon"/>。
 			生命が互いに連携して社会を構成するためには、社会システムの存在が不可欠である。</p>
 			<p>社会システムは、そこに形式上所属する人間ではなく、そこで行われるコミュニケーションが要素となる<xref ref="bib-borch"/>。
 			例えば、ある学級に形式上は所属していても、そこで行われるコミュニケーションに一切参加しなければ、社会システムとしての学級に関与しているといえない。
 			逆に、その学級に所属していなくとも、そこでのコミュニケーションに参加していれば、社会システムとしての学級に関与しているといえる。</p>
 			<p>社会システムには、その要素である<em>コミュニケーションを支える、固有の成果メディアが存在</em>する。
-			特定の企業などの場合、この成果メディアは<dfn en="corporate culture">組織文化</dfn>と呼ばれ、組織のコミュニケーションを円滑にする。
+			特定の企業などの場合、この成果メディアは<dfn en="corporate culture" r="そしきぶんか">組織文化</dfn>と呼ばれ、組織のコミュニケーションを円滑にする。
 			組織文化が通用する範囲が組織の内側であり、組織文化が通用しなくなる外側との間に境界が発生し、組織の一体感が生じる源泉ともなる。</p>
 			<p><xref ref="ssec-media-soc"/>節で示した、より一般的な成果メディアに対しても、それぞれが通用する社会システムが存在する。
 			例えば、<em>真理</em>は学会や学術システムが、<em>愛</em>は家族や血縁に基づくシステムが、<em>貨幣</em>は市場などの経済システムが、<em>法</em>は裁判所や司法システムが、<em>権力</em>は自治体や官庁などの政治システムが、<em>宗教</em>には教団が、<em>芸術</em>にはパトロンやファン組織が対応する。</p>
@@ -261,14 +261,14 @@
 		<proposition>
 			<title>システムの連結性</title>
 			<statement>
-				システム<m>(V, E)</m>は<dfn>連結</dfn>である。
+				システム<m>(V, E)</m>は<dfn r="れんけつ">連結</dfn>である。
 				つまり、グラフ<m>(V, E)</m>の任意の2要素<m>v_i, v_j (\in V)</m>に対して、<m>v_i</m>から<m>v_j</m>まで辿る枝が存在する。
 			</statement>
 		</proposition>
 
 		<p>Simonは、システム内部の要素間の関連性には強弱があり、互いに強い関連性をもつ部分と、互いに弱い関連性しかもたない部分があることに着目した<xref ref="bib-simon2"/>。
 		システム<m>S_i = (V_i, E_i) (i = 1, \cdots, n)</m>について、<m>S = S_1 \cup \cdots \cup S_n</m>となるとき、「互いに弱い関連性しかもたない」とは、任意の<m>i, j (= 1, \cdots, n)</m>について<m>S_i \cap S_j ≒ (\emptyset, \emptyset)</m>が成り立つことである。
-		Simonはこうしたシステム<m>S</m>は<dfn en="nearly decomposable">準分解可能</dfn>だといい、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>と呼んだ。
+		Simonはこうしたシステム<m>S</m>は<dfn en="nearly decomposable" r="じゅんぶんかいかのう">準分解可能</dfn>だといい、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem" r="ぶぶんシステム">部分システム</dfn>と呼んだ。
 		準分解可能なシステムでは、システムを複数の部分システムに分解しても、失われる創発性は無視できるほど小さいものとみなせる。</p>
 		<!--TODO: 分割/準分解の図-->
 		<definition>
@@ -277,8 +277,8 @@
 				システム<m>S = (V, E)</m>の隣接行列を<m>\epsilon = \{e_{ij} \}</m>と定義する。
 				ここで<m>e_{ij}</m>は、関係<m>(v_i, v_j)</m>の強さを表す非負の実数である。
 				あるしきい値<m>\tau</m>をとり、「<m>e_{ij} \leq \tau</m>なら<m>e_{ij} = 0</m>」とみなすことで<m>S</m>を<m>S_1, \cdots, S_n</m>に分割できるとする。
-				このとき、システム<m>S</m>はしきい値<m>\tau</m>で<m>S_1, \cdots, S_n</m>に<dfn en="nearly decomposable">準分解可能</dfn>だといい、<m>S = S_1 \sqcup \cdots \sqcup S_n</m>と表す。
-				また、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem">部分システム</dfn>といい、<m>S_i \subset S</m>と表す。
+				このとき、システム<m>S</m>はしきい値<m>\tau</m>で<m>S_1, \cdots, S_n</m>に<dfn en="nearly decomposable" r="じゅんぶんかいかのう">準分解可能</dfn>だといい、<m>S = S_1 \sqcup \cdots \sqcup S_n</m>と表す。
+				また、<m>S_1, \cdots, S_n</m>を<m>S</m>の<dfn en="subsystem" r="ぶぶんシステム">部分システム</dfn>といい、<m>S_i \subset S</m>と表す。
 			</statement>
 		</definition>
 		<p>システムの準分解を示した模式図を、図<xref ref="fig-system-2d-sys-univ"/>と図<xref ref="fig-system-2d-sys-sub"/>に示す。
@@ -300,12 +300,12 @@
 		<title>オートポイエーシスの影響</title>
 		<p>システムにおいて、<em>オートポイエーシスはそのシステムの機能や特徴を強める</em>方向に作用する<xref ref="bib-borch"/>。
 		例えば心理システムの場合、オートポイエーシスにより思考が深化することで、その個人の思想や信条として固定化していく。</p>
-		<p>社会システムの場合には、オートポイエーシスにより<em>組織の各部分がその機能や特性を強めた結果、組織全体の関係が薄くなり、組織の各部分がより専門的な組織として分かれ</em>ていく。この現象を、その社会の<dfn>機能的分化</dfn>という。</p>
+		<p>社会システムの場合には、オートポイエーシスにより<em>組織の各部分がその機能や特性を強めた結果、組織全体の関係が薄くなり、組織の各部分がより専門的な組織として分かれ</em>ていく。この現象を、その社会の<dfn r="きのうてきぶんか">機能的分化</dfn>という。</p>
 		<definition>
 			<title>システムの機能的分化</title>
 			<statement>
 				システム<m>S</m>に時刻<m>t = T</m>で生じたオートポイエーシスにより、<m>S(T) = S_1(T) \sqcup S_2(T)</m>と準分解できるようになったとする。
-				このとき、システム<m>S</m>は時刻<m>t = T</m>で<m>S_1</m>と<m>S_2</m>に<dfn>機能的分化</dfn>したという。
+				このとき、システム<m>S</m>は時刻<m>t = T</m>で<m>S_1</m>と<m>S_2</m>に<dfn r="きのうてきぶんか">機能的分化</dfn>したという。
 			</statement>
 		</definition>
 		<!-- TODO: 機能的分化の図 -->
