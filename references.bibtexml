@@ -457,23 +457,19 @@
 <entry id="aristotle-e1"><book>
 	<author>Aristotle</author>
 	<title>Metaphysics</title>
-	<publisher>The University of Adelaide</publisher>
-	<url>https://ebooks.adelaide.edu.au/p/plato/p71so</url>
+	<publisher>Perseus Digital Library</publisher>
+	<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:5.1023b</url>
 	<volume>5</volume>
 	<chapter>26-27</chapter>
-	<note>Benjamin Jowett訳</note>
-	<!--<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:5.1023b</url>-->
 </book></entry>
 
 <entry id="aristotle-e2"><book>
 	<author>Aristotle</author>
 	<title>Metaphysics</title>
-	<publisher>The University of Adelaide</publisher>
-	<url>https://ebooks.adelaide.edu.au/p/plato/p71so</url>
+	<publisher>Perseus Digital Library</publisher>
+	<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:8.1045a</url>
 	<volume>8</volume>
 	<chapter>6</chapter>
-	<note>Benjamin Jowett訳</note>
-	<!--<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:8.1045a</url>-->
 </book></entry>
 
 <entry id="aristotle-j"><inbook>
@@ -537,10 +533,8 @@
 <entry id="platon-e"><book>
 	<author>Plato</author>
 	<title>Sophist</title>
-	<publisher>The University of Adelaide</publisher>
-	<url>https://ebooks.adelaide.edu.au/p/plato/p71so</url>
-	<note>Benjamin Jowett訳</note>
-	<!--<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e</url>-->
+	<publisher>Perseus Digital Library</publisher>
+	<url>http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg007.perseus-eng1:263e</url>
 </book></entry>
 
 <entry id="sapir"><article>
