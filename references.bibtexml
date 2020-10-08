@@ -192,6 +192,22 @@
 	<isbn>4061497634</isbn>
 </book></entry>
 
+<entry id="iso-2382-1993"><techreport>
+	<author>International Organization for Standardization</author>
+	<title>ISO/IEC 2382-1:1993(en): Information technology — Vocabulary — Part 1: Fundamental terms</title>
+	<institution>International Organization for Standardization</institution>
+	<year>1993</year>
+	<url>https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:-1:ed-3:en</url>
+</techreport></entry>
+
+<entry id="iso-2382-2015"><techreport>
+	<author>International Organization for Standardization</author>
+	<title>ISO/IEC 2382:2015(en): Information technology — Vocabulary</title>
+	<institution>International Organization for Standardization</institution>
+	<year>2015</year>
+	<url>https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v1:en</url>
+</techreport></entry>
+
 <entry id="luhmann"><article>
 	<author>Niklas Luhmann</author>
 	<title>What is Communication?</title>

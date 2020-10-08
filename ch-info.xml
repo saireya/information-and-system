@@ -139,7 +139,7 @@
 
 		<subsection xml:id="ssec-info-soc">
 			<title>社会情報</title>
-			<p>内容<m>\alpha</m>と表現<m>\beta</m>が組になった<dfn r="しゃかいじょうほう">社会情報</dfn><m>(\alpha, \beta)</m>は、<dfn en="code" r="ふごう">符号</dfn>や<dfn en="sign" r="きごう">記号</dfn>ともいう。
+			<p>内容<m>\alpha</m>と表現<m>\beta</m>が組になった<dfn r="しゃかいじょうほう">社会情報</dfn><m>(\alpha, \beta)</m>は、<dfn en="code" r="ふごう">符号</dfn>や<dfn en="sign" r="きごう">記号</dfn><xref ref="bib-saussure"/><xref ref="bib-hjelmslev-j"/>ともいう。
 			社会情報は、内容と表現が対応づくことで、生命の外部でも存在しうる。
 			日本語や英語、手話などの<dfn en="language" r="げんご">言語</dfn>や、絵文字を使って特定の内容を表す<dfn en="pictogram">ピクトグラム</dfn>などが社会情報の例である。
 			社会情報が存在しなければ、人間は言語を使うことができず、絵や声、身振りなどで情報を伝えることもできないため、人間は社会を維持できなくなる。
@@ -150,7 +150,7 @@
 
 		<subsection xml:id="ssec-info-machine">
 			<title>機械情報</title>
-			<p>内容<m>\beta</m>が存在しない<dfn r="きかいじょうほう">機械情報</dfn><m>(\alpha, \varepsilon)</m>は、<dfn en="data">データ</dfn>ともいう。
+			<p>内容<m>\beta</m>が存在しない<dfn r="きかいじょうほう">機械情報</dfn><m>(\alpha, \varepsilon)</m>は、<dfn en="data">データ</dfn><xref ref="bib-iso-2382-1993"/><xref ref="bib-iso-2382-2015"/>ともいう。
 			日本語を知らない人にとっては、漢字を見ても内容を解釈できないため、このような漢字は機械情報の例である。
 			また、次式のように複雑な記号を使った数式も、定積分や極限などの記号の意味を学んでいれば理解できるが、記号の意味を学んだことがなければ理解できない。
 			<me>\int_0^1 f(x) dx = \lim_{n \to \infty} \sum_{k=1}^n \frac{1}{n} f(\frac{k}{n})</me></p>
