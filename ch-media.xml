@@ -41,7 +41,7 @@
 		<definition>
 			<title>メディア</title>
 			<statement>
-				情報の集合<m>M = \{ I | I: \text{情報} \}</m>を、<dfn en="media">メディア</dfn>という。
+				情報の部分集合<m>M = \{ I | I: \text{情報} \}</m>を、<dfn en="media">メディア</dfn>という。
 			</statement>
 		</definition>
 	</section>
@@ -52,12 +52,12 @@
 			<p>Luhmannは、メディアを伝播メディアと成果メディアに分類した<xref ref="bib-borch"/>。
 			機械情報を物理的に媒介するのが伝播メディア、社会情報を論理的に媒介するのが成果メディアである。
 			これらの存在により、<xref ref="sec-media-bg"/>節の「ありそうにない」ことが「ありうる」ことになる。</p>
-			<p>伝播メディアと成果メディアはそれぞれ、機械情報と社会情報の集合として定義できる。</p>
+			<p>伝播メディアと成果メディアはそれぞれ、機械情報と社会情報の部分集合として定義できる。</p>
 			<definition>
 				<m>(\alpha, \beta)</m>を情報とする。
 				<ul>
-					<li>機械情報<m>(\alpha, \varepsilon)</m>の集合を<dfn r="でんぱメディア">伝播メディア</dfn>という。</li>
-					<li>社会情報<m>(\alpha, \beta)</m>の集合を<dfn r="せいかメディア">成果メディア</dfn>という。</li>
+					<li>機械情報<m>(\alpha, \varepsilon)</m>の部分集合を<dfn r="でんぱメディア">伝播メディア</dfn>という。</li>
+					<li>社会情報<m>(\alpha, \beta)</m>の部分集合を<dfn r="せいかメディア">成果メディア</dfn>という。</li>
 				</ul>
 				<md>
 					<mrow>\text{伝播メディア} \amp = \{ (\alpha, \varepsilon) | \alpha: \text{表現} \}</mrow>
