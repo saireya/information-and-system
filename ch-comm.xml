@@ -118,12 +118,13 @@
 			<statement>
 				<md>
 					<mrow>\text{コミュニケーションが断絶}
-						\amp \Longrightarrow \text{コミュニケーションが継続しない}</mrow>
-					<mrow>\amp \Longrightarrow \overline{\text{コミュニケーションが継続}}</mrow>
-					<mrow>\amp \Longrightarrow \overline{P_1 \wedge P_2 \wedge P_3 \wedge P_4}</mrow>
-					<mrow>\amp \Longrightarrow \overline{P_1} \vee \overline{P_2} \vee \overline{P_3} \vee \overline{P_4} (\text{de Morganの公式})</mrow>
+						\amp \iff \text{コミュニケーションが継続しない}</mrow>
+					<mrow>\amp \iff \overline{\text{コミュニケーションが継続}}</mrow>
+					<mrow>\amp \iff \overline{P_1 \wedge P_2 \wedge P_3 \wedge P_4}</mrow>
+					<mrow>\amp \iff \overline{P_1} \vee \overline{P_2} \vee \overline{P_3} \vee \overline{P_4} (\text{de Morganの公式})</mrow>
 				</md>
 				より、コミュニケーションが断絶する場合は、4つの選択のいずれかが成功していない。
+				また、4つの選択のいずれかが成功していない場合は、コミュニケーションが断絶する。
 			</statement>
 		</proposition>
 		<p>4つの選択のいずれかが成功しないことでコミュニケーションが断絶する例を、次に示す。</p>
