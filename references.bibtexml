@@ -749,6 +749,28 @@
 	<url>http://www.uml.org</url>
 </book></entry>
 
+<entry id="granovetter"><article>
+	<author>Mark S. Granovetter</author>
+	<title>The Strength of Weak Ties</title>
+	<journal>American Journal of Sociology</journal>
+	<year>1973</year>
+	<volume>78</volume>
+	<number>5</number>
+	<pages>1360-1380</pages>
+	<doi>10.1086/225469</doi>
+</article></entry>
+
+<entry id="granovetter-j"><incollection>
+	<author>Mark S. Granovetter</author>
+	<title>弱い紐帯の強さ</title>
+	<booktitle>リーディングス ネットワーク論――家族・コミュニティ・社会関係資本</booktitle>
+	<publisher>勁草書房</publisher>
+	<year>2006</year>
+	<pages>123-158</pages>
+	<isbn>4326601949</isbn>
+	<note>大岡栄美訳</note>
+</incollection></entry>
+
 <entry id="law-pi"><misc>
 	<title>個人情報保護法</title>
 	<year>2003</year>
