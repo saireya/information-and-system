@@ -5,7 +5,8 @@
 		<p>本章では、本稿で扱う最も基本的な概念として、表現と内容を定義し、これらの対応づけについて述べる。</p>
 		<p><xref ref="sec-sem-semiotics"/>節では、表現と内容を定義する。
 		<xref ref="sec-sem-code"/>節では、表現と内容を対応づける操作である、符号化と復号について述べる。
-		<xref ref="sec-sem-subject"/>節では、符号化と復号における主観性について述べる。</p>
+		<xref ref="sec-sem-subject"/>節では、符号化と復号における主観性について述べる。
+		<xref ref="sec-sem-cardinal"/>節では、量の表現におけるアナログとデジタルについて述べる。</p>
 	</introduction>
 
 	<section xml:id="sec-sem-semiotics">
