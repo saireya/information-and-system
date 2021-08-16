@@ -309,6 +309,27 @@
 	<url>https://commons.wikimedia.org/wiki/File:Acorus_calamus_002.JPG</url>
 </misc></entry>
 
+<entry id="ramachandran"><article>
+	<author>
+		<person>Vilayanur Subramanian Ramachandran</person>
+		<person>‪Edward M. Hubbard</person>
+	</author>
+	<title>Synaesthesia――a window into perception, thought and language</title>
+	<journal>Journal of Consciousness Studies</journal>
+	<volume>8</volume>
+	<number>12</number>
+	<pages>3-34</pages>
+	<year>2001</year>
+	<url>http://cbc.ucsd.edu/pdf/Synaesthesia%20-%20JCS.pdf</url>
+</article></entry>
+
+<entry id="jisz8103"><misc>
+	<author>日本産業標準調査会</author>
+	<title>JIS Z8103: 計測用語</title>
+	<year>2019</year>
+	<url>https://www.jisc.go.jp</url>
+</misc></entry>
+
 <entry id="ietf"><misc>
 	<author>IETF</author>
 	<title>RFC 793 - Transmission Control Protocol</title>
