@@ -5,7 +5,8 @@
 		<p>本章では、人間の周囲にある問題に着目し、問題を解決する代表的な方法を説明する。</p>
 		<p><xref ref="sec-problem-bg"/>節では、人間の周囲にある対象の複雑さについて述べる。
 		<xref ref="sec-problem-def"/>節では問題とその解決を定義し、問題解決の一般的な手順を述べる。
-		<xref ref="sec-problem-approach"/>節で問題解決の基本的な方針として還元主義、構造主義、創発主義を示し、これらを比較する。</p>
+		<xref ref="sec-problem-approach"/>節で問題解決の基本的な方針として還元主義、構造主義、創発主義を示し、これらを比較する。
+		<xref ref="sec-problem-algorithm"/>節では、問題の解を具体的な手順にしたアルゴリズムや、利用できる命令を書き並べたプログラムについて述べる。</p>
 	</introduction>
 
 	<section xml:id="sec-problem-bg">
@@ -98,7 +99,30 @@
 		<!--
 		<p>準分解可能なシステムは、最も上位のシステムから下位の部分システムに枝分かれしていく<dfn en="tree" r="きこうぞう">木構造</dfn>のグラフで表せるため、木構造を順に辿って解を探す、<dfn en="search" r="たんさく">探索</dfn>を行うことも多い。
 		探索は場合の数の数え上げなど日常的に使う他、囲碁や将棋、チェスなどの機械によるゲームプレイで、次の手を決めるために使うこともある。</p>-->
+	</section>
 
+	<section xml:id="sec-problem-algorithm">
+		<title>問題解決の手順</title>
+		<p>問題を解決するには、発見した解を具体的な手順に明確化する必要がある。</p>
+
+		<definition>
+			<title>アルゴリズム</title>
+			<statement>
+				問題の解を<em>手順</em>にして書き表したものを<dfn en="algorithm">アルゴリズム</dfn>という<xref ref="bib-iso-2382-1993"/><xref ref="bib-iso-2382-2015"/><xref ref="bib-jisx0001"/>。
+			</statement>
+		</definition>
+
+		<p>問題解決にあたっては、アルゴリズムの手順をプログラムとして書き表した上で実行することも多い。
+		ただし、プログラムはアルゴリズムを書き表したものや、コンピュータで動かすものとは限らない。
+		「式典のプログラム」のように、機械ではなく人間が実施するものも「プログラム」と呼ばれることがある。</p>
+		<definition>
+			<title>プログラム</title>
+			<statement>
+				実行するべき<em>命令の列</em>を<dfn en="program">プログラム</dfn>という。
+			</statement>
+		</definition>
+
+		<p>アルゴリズムで解く基本的な問題には、列を特定の順番に並び替える<dfn en="sorting" r="せいれつ">整列</dfn>や、特定の空間の中で最適な解を探す<dfn en="search">探索</dfn>がある。</p>
 		<note>
 			<title>探索</title>
 			<statement>
