@@ -14,6 +14,10 @@
 		<p>また化学の分野では、<ruby r="ドルトン">Dalton</ruby>(1808)は、物質が<dfn en="atom" strong="0" r="げんし">原子</dfn>という粒子からなるという<dfn strong="0" r="げんしせつ">原子説</dfn>を提案した<xref ref="bib-dalton"/>。
 		Avogadro(1811)は原子説を発展させ、物質が<dfn en="molecule" strong="0" r="ぶんし">分子</dfn>という粒子からなるという<dfn strong="0" r="ぶんしせつ">分子説</dfn>を提案した<xref ref="bib-avogadro"/><xref ref="bib-avogadro-e"/>。
 		原子説や分子説により、物質を構成する原子や分子を分析することで、物質の性質を分析できることが明らかになった。</p>
+		<p>このように「分ける」ことが必要となる背景には、人間が記憶し処理できる複雑さの限界がある。
+		Millerによれば、人間が作業記憶で覚えておける事柄は、個人差はあるものの7個程度であるとされる<xref ref="bib-miller"/>。
+		これより多くの事柄を記憶するには、複数の事柄を<dfn en="chunk">チャンク</dfn>と呼ばれる単位に関連付けて覚える、<dfn en="chunking">チャンク化</dfn>という方法が必要になる。
+		そのため、世界の状況を理解するために、世界の事象をチャンクに対応する単位に分割することが必要になると考えられる。</p>
 	</section>
 
 	<section xml:id="sec-reduction-def">

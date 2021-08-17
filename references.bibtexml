@@ -402,6 +402,17 @@
 	<url>http://web.lemoyne.edu/~giunta/avogadro.html</url>
 </article></entry>
 
+<entry id="miller"><article>
+	<author>George A. Miller</author>
+	<title>The magical number seven, plus or minus two: Some limits on our capacity for processing information</title>
+	<journal>Psychological Review</journal>
+	<volume>63</volume>
+	<number>2</number>
+	<pages>81-97</pages>
+	<year>1956</year>
+	<doi>10.1037/h0043158</doi>
+</article></entry>
+
 <entry id="bertalanffy"><book>
 	<author>Ludwig von Bertalanffy</author>
 	<title>一般システム理論――その基礎・発展・応用</title>
