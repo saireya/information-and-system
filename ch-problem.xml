@@ -122,7 +122,7 @@
 			</statement>
 		</definition>
 
-		<p>アルゴリズムで解く基本的な問題には、列を特定の順番に並び替える<dfn en="sorting" r="せいれつ">整列</dfn>や、特定の空間の中で最適な解を探す<dfn en="search">探索</dfn>がある。</p>
+		<p>アルゴリズムで解く基本的な問題には、列を特定の順番に並び替える<dfn en="sorting" r="せいれつ">整列</dfn>や、特定の空間の中で最適な解を探す<dfn en="search" r="たんさく">探索</dfn>がある。</p>
 		<note>
 			<title>探索</title>
 			<statement>
