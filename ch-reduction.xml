@@ -112,10 +112,14 @@
 	<section xml:id="sec-reduction-eg">
 		<title>還元の例</title>
 		<p>還元の例には、大きく複雑な作業をより小さな作業に分割した<dfn en="Work Breakdown Structure">WBS</dfn>や、異なる機能を持つ複数の部門からなる組織の組織図にあたる<dfn en="Organization Breakdown Structure">OBS</dfn>などがある。
-		このとき、作業の見落としや組織の重複が生じないよう、MECEな分割を行うことが重要である。
-		また、問題解決の場面では、そのままで解決できない<em>複雑で大規模な問題を、より小さく単純な問題に分割</em>し、分割した問題を解く<dfn en="divide and conquer method" r="ぶんかつとうちほう">分割統治法</dfn>が行われる。
+		図<xref ref="fig-reduction-obs"/>にOBSの例として、企業の組織図の例を示す。
+		WBSやOBSの作成時には、作業の見落としや組織の重複が生じないよう、MECEな分割を行うことが重要である。</p>
+		<p>また、問題解決の場面では、そのままで解決できない<em>複雑で大規模な問題を、より小さく単純な問題に分割</em>し、分割した問題を解く<dfn en="divide and conquer method" r="ぶんかつとうちほう">分割統治法</dfn>が行われる。
 		分割統治法は、歴史上では古代ローマ帝国の統治にも遡ることができるが、数学の問題での場合分けなど、身近な場面で使うことも多い。</p>
-		<!-- TODO: WBSの例 -->
+		<figure xml:id="fig-reduction-obs">
+			<image source="image/reduction-obs" width="50%"/>
+			<caption>OBSの例(企業の組織図の例)</caption>
+		</figure>
 	</section>
 
 		<!--TODO: 定義・階層・抽象化・chunk -->
