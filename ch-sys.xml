@@ -295,6 +295,14 @@
 				<caption>システムの準分解</caption>
 			</figure>
 		</sidebyside>
+
+		<p>システムの準分解の例には、大きく複雑な作業をより小さな作業に分割した<dfn en="Work Breakdown Structure">WBS</dfn>や、異なる機能を持つ複数の部門からなる組織の組織図にあたる<dfn en="Organization Breakdown Structure">OBS</dfn>などがある。
+		図<xref ref="fig-sys-obs"/>にOBSの例として、企業の組織図の例を示す。
+		WBSやOBSの作成時には、作業の見落としや組織の重複が生じないよう、MECEな分割を行うことが重要である。</p>
+		<figure xml:id="fig-sys-obs">
+			<image source="image/sys-obs" width="50%"/>
+			<caption>OBSの例(企業の組織図の例)</caption>
+		</figure>
 	</section>
 
 	<section xml:id="sec-sys-autopoiesis">
