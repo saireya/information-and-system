@@ -112,7 +112,8 @@
 	<section xml:id="sec-reduction-eg">
 		<title>還元の例</title>
 		<p>還元の例には、自然界の生物や植物、鉱物などの分類や、化学物質の分類などがある。
-		図<xref ref="fig-reduction-iris"/>に、還元の例として、単子葉植物の分類の一部を示す。</p>
+		図<xref ref="fig-reduction-iris"/>に、還元の例として、単子葉植物の分類の一部を示す。
+		図<xref ref="fig-reduction-iris"/>のように、還元は一回で終わることは少なく、複数回の還元からなる<dfn en="hierarchy" r="かいそう">階層</dfn>が形成されることが多い。</p>
 		<figure xml:id="fig-reduction-iris">
 			<image source="image/reduction-iris" width="50%"/>
 			<caption>還元の例(単子葉植物の分類の一部)</caption>
