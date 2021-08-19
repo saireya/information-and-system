@@ -634,6 +634,25 @@
 	<note>山本安次郎訳</note>
 </book></entry>
 
+<entry id="kay"><inbook>
+	<title>The Early History of Smalltalk</title>
+	<author>Alan C. Kay</author>
+	<booktitle>History of Programming Languages II</booktitle>
+	<publisher>Association for Computing Machinery</publisher>
+	<isbn>0201895021</isbn>
+	<year>1996</year>
+	<doi>10.1145/234286.1057828</doi>
+	<pages>534-535</pages>
+</inbook></entry>
+
+<entry id="dijkstra-ewd447"><misc>
+	<title>On the role of scientific thought</title>
+	<author>Edsger Wybe Dijkstra</author>
+	<url>https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html</url>
+	<year>1974</year>
+	<note>EWD447</note>
+</misc></entry>
+
 <entry id="katori"><book>
 	<author>
 		<person>鹿取 廣人</person>
