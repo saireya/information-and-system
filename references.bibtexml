@@ -337,6 +337,20 @@
 	<url>https://www.jisc.go.jp</url>
 </misc></entry>
 
+<entry id="boehm"><article>
+	<author>
+		<person>Corrado Böhm</person>
+		<person>Giuseppe Jacopini</person>
+	</author>
+	<title>Flow Diagrams, Turing Machines And Languages With Only Two Formation Rules</title>
+	<journal>Communications of the ACM</journal>
+	<volume>9</volume>
+	<number>5</number>
+	<year>1966</year>
+	<pages>366-371</pages>
+	<doi>10.1145/355592.365646</doi>
+</article></entry>
+
 <entry id="ietf"><misc>
 	<author>IETF</author>
 	<title>RFC 793 - Transmission Control Protocol</title>
