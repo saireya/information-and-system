@@ -121,14 +121,14 @@
 				実行するべき<em>命令の列</em>を<dfn en="program">プログラム</dfn>という。
 			</statement>
 		</definition>
-		<p>アルゴリズムを人間が理解するために表現する方法には、<dfn en="flowchart">フローチャート</dfn>やUMLの<dfn en="activity diagram">アクティビティ図</dfn>、プログラミング言語風に表す<dfn en="pseudo-code" r="ぎじこーど">疑似コード</dfn>などがある。</p>
+		<p>アルゴリズムを人間が理解するために表現する方法には、<dfn en="flowchart">フローチャート</dfn><xref ref="bib-jisx0121"/>やUMLの<dfn en="activity diagram">アクティビティ図</dfn>、プログラミング言語風に表す<dfn en="pseudo-code" r="ぎじこーど">疑似コード</dfn>などがある。</p>
 
 		<note>
 			<title>構造化定理</title>
 			<statement>
 				<p><ruby r="ベーム">Böhm</ruby>と<ruby r="ヤコピニ">Jacopini</ruby>は、アルゴリズムをプログラムで実現する上で、どのような制御構造が必要かを示した<xref ref="bib-boehm"/>。
 				彼らの定理は、<dfn r="こうぞうかていり">構造化定理</dfn>として知られている。
-				構造化定理によれば、アルゴリズムの実装には、逐次・選択・反復の3種類の制御構造があればよい。</p>
+				構造化定理によれば、アルゴリズムの実装には、逐次・選択・反復の3種類の制御構造があればよい。図<xref ref="fig-flow"/>に、フローチャートによる逐次・選択・反復の表現を示す。</p>
 				<ul>
 					<li><dfn en="sequence" r="ちくじ">逐次</dfn>(<dfn r="じゅんじ">順次</dfn>)は、<em>命令を1つずつ順番に実行</em>する制御構造である。
 						逐次実行では同時に複数の命令を実行できないため、並列実行は行えない。</li>
@@ -137,6 +137,10 @@
 					<li><dfn en="iteration" r="はんぷく">反復</dfn>(<dfn r="くりかえし">繰り返し</dfn>)は、指定された<em>条件(命題)が真である限り、いくつかの命令を実行し続ける</em>制御構造である。
 						多くのプログラミング言語では、<em>while文</em>として実装されている。</li>
 				</ul>
+				<figure xml:id="fig-flow">
+					<image source="image/flow" width="50%"/>
+					<caption>フローチャートによる逐次・選択・反復の表現</caption>
+				</figure>
 			</statement>
 		</note>
 

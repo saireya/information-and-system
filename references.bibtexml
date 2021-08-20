@@ -330,6 +330,13 @@
 	<url>https://www.jisc.go.jp</url>
 </misc></entry>
 
+<entry id="jisx0121"><misc>
+	<author>日本産業標準調査会</author>
+	<title>JIS X0121: 情報処理用流れ図・プログラム網図・システム資源図記号</title>
+	<year>1986</year>
+	<url>https://www.jisc.go.jp</url>
+</misc></entry>
+
 <entry id="jisz8103"><misc>
 	<author>日本産業標準調査会</author>
 	<title>JIS Z8103: 計測用語</title>
