@@ -11,7 +11,7 @@ xsltproc \
 xsltproc \
 	--xinclude \
 	-o $BASENAME.ptx \
-	$PRETEXT/xsl/mathbook-preprocess.xsl \
+	$PRETEXT/xsl/pretext-preprocess.xsl \
 	$BASENAME
 INPUTXML=$BASENAME.ptx
 
