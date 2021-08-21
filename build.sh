@@ -25,8 +25,10 @@ for format in html epub latex; do
 		--stringparam numbering.theorems.level '1' \
 		--stringparam latex.geometry 'a4paper,total={195mm,270mm},centering' \
 		--stringparam html.css.extra 'image/style.css' \
+		--stringparam tmpdir $PWD \
+		--stringparam debug.datedfiles 'no' \
 		-o $BASENAME.$format \
-		$PRETEXT/xsl/mathbook-$format.xsl \
+		$PRETEXT/xsl/pretext-$format.xsl \
 		../$INPUTXML
 	if [ $format = latex ] ; then
 		lualatex $BASENAME.$format
