@@ -731,6 +731,22 @@
 	<note>塩野谷ら訳</note>
 </book></entry>
 
+<entry id="vincenot"><article>
+	<author>Christian E. Vincenot</author>
+	<title>How new concepts become universal scientific approaches: insights from citation network analysis of agent-based complex systems science</title>
+	<journal>Proceedings of the Royal Society B</journal>
+	<year>2018</year>
+	<volume>285</volume>
+	<doi>10.1098/rspb.2017.2360</doi>
+</article></entry>
+
+<entry id="vincenot2"><misc>
+	<author>Christian E. Vincenot</author>
+	<title>科学と科学が出会う時</title>
+	<year>2018</year>
+	<url>https://www.eurekalert.org/news-releases/820709?language=japanese</url>
+</misc></entry>
+
 <entry id="iba"><article>
 	<author>井庭 崇</author>
 	<title>An Autopoietic Systems Theory for Creativity</title>

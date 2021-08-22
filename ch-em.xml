@@ -36,6 +36,15 @@
 				この<m>e</m>を、システム<m>S</m>に時刻<m>T</m>で生じた<dfn en="idea">アイデア</dfn>という。
 			</statement>
 		</definition>
+
+		<note>
+			<title>新たな学術分野の発生過程</title>
+			<statement>
+				Vincenotは、複雑系と環境学という異なる学問分野で発生した手法が融合し、1つの学問分野に統合される過程を可視化して示した<xref ref="bib-vincenot"/><xref ref="bib-vincenot2"/>。
+				この研究では、学術論文が他の論文を引用するという引用関係に着目し、引用関係をグラフに可視化した。
+				更に、論文の発表時期とグラフ上の時間軸を対応させて動画の形で可視化することにより、2つの分野が徐々に1つに統合されていく過程を明らかにした。
+			</statement>
+		</note>
 	</section>
 
 	<section xml:id="sec-em-gen">
