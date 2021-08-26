@@ -674,6 +674,26 @@
 	<note>EWD447</note>
 </misc></entry>
 
+<entry id="weber"><book>
+	<author>Max Weber</author>
+	<title>支配の社会学I</title>
+	<publisher>創文社</publisher>
+	<year>1960</year>
+	<isbn>4423894017</isbn>
+	<pages>60-63</pages>
+	<note>世良晃志郎訳</note>
+</book></entry>
+
+<entry id="merton"><book>
+	<author> Robert King Merton</author>
+	<title>社会理論と社会構造</title>
+	<publisher>みすず書房</publisher>
+	<year>1961</year>
+	<isbn>4622017059</isbn>
+	<pages>179-183</pages>
+	<note>森ら訳</note>
+</book></entry>
+
 <entry id="katori"><book>
 	<author>
 		<person>鹿取 廣人</person>
