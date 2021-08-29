@@ -232,6 +232,56 @@
 	<year>1992</year>
 </article></entry>
 
+<entry id="luhmann-satoh"><book>
+	<author>Niklas Luhmann</author>
+	<title>社会システム理論 上</title>
+	<publisher>恒星社厚生閣</publisher>
+	<pages>218-232, 248-255</pages>
+	<year>1993</year>
+	<isbn>4769907427</isbn>
+	<note>佐藤勉訳</note>
+</book></entry>
+
+<entry id="luhmann-baba"><book>
+	<author>Niklas Luhmann</author>
+	<title>社会システム 上: 或る普遍的理論の要綱</title>
+	<publisher>頸草書房</publisher>
+	<pages>189-201, 214-219</pages>
+	<year>2020</year>
+	<isbn>4326603240</isbn>
+	<note>馬場靖雄訳</note>
+</book></entry>
+
+<entry id="luhmann-personality"><book>
+	<author>Niklas Luhmann</author>
+	<title>社会構造とゼマンティク 3</title>
+	<publisher>法政大学出版局</publisher>
+	<pages>132-138</pages>
+	<year>2013</year>
+	<isbn>458800963X</isbn>
+	<note>徳安彰訳</note>
+</book></entry>
+
+<entry id="luhmann-character"><book>
+	<author>Niklas Luhmann</author>
+	<title>ポストヒューマンの人間論</title>
+	<publisher>東京大学出版会</publisher>
+	<pages>125-131, 232-233</pages>
+	<year>2007</year>
+	<isbn>4130101056</isbn>
+	<note>村上淳一訳</note>
+</book></entry>
+
+<entry id="luhmann-social"><book>
+	<author>Niklas Luhmann</author>
+	<title>社会の社会 2</title>
+	<publisher>法政大学出版局</publisher>
+	<pages>996-997, 1031-1033</pages>
+	<year>2017</year>
+	<isbn>4588140418</isbn>
+	<note>馬場靖雄訳</note>
+</book></entry>
+
 <entry id="borch"><book>
 	<author>Christian Borch</author>
 	<title>ニクラス・ルーマン入門――社会システム理論とは何か</title>
