@@ -91,7 +91,7 @@
 					<ruby r="おん">音</ruby>象徴の一例とされる現象で、まず図<xref ref="fig-boubakiki-kiki"/>と図<xref ref="fig-boubakiki-bouba"/>を被験者に提示する。
 					そして、図<xref ref="fig-boubakiki-kiki"/>と図<xref ref="fig-boubakiki-bouba"/>のうち、どちらかが「ブーバ(Bouba)」、他方が「キキ(Kiki)」という名前であると伝える。
 					その上で、どちらが「ブーバ」でどちらが「キキ」だと思うかを、被験者に回答してもらう。
-					<sidebyside widths="40% 40%" valign="bottom">
+					<sidebyside widths="30% 30%" valign="bottom">
 						<figure xml:id="fig-boubakiki-kiki">
 							<image source="image/boubakiki-kiki.png"/>
 							<caption>図形1</caption>
