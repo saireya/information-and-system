@@ -24,7 +24,7 @@
 		<title>還元の定義</title>
 		<p>還元主義に基づく分析では、対象<m>A</m>をいくつかの要素からなる<dfn en="set" r="しゅうごう">集合</dfn>とみなす。
 		その上で、対象を複数の集合<m>A_1, A_2, \cdots, A_n</m>に分割して分析する。
-		この分割を<dfn en="reduction" r="かんげん">還元</dfn>という。</p>
+		この分割を<dfn en="reduction" r="かんげん">還元</dfn>もしくは<dfn en="classification" r="ぶんるい">分類</dfn>、<dfn en="categorization" r="るいべつ">類別</dfn>などという。</p>
 
 		<definition>
 			<title>還元</title>
