@@ -196,11 +196,11 @@
 		<title>情報の「量」</title>
 		<p><xref ref="sec-sem-semiotics"/>節で述べたように、内容の「大きさ」は客観的に測ることができないため、内容を含む生命情報や社会情報の「大きさ」を測ることはできない。
 		一方、表現の大きさは客観的に測ることができるので、機械情報については「量」を測ることができる。
-		機械情報の量を<dfn r="じょうほうりょう">情報量</dfn>と呼ぶが、これはあくまで<em>表現の数であり、内容がもたらす価値とは異なる</em>ことに注意が必要である。</p>
+		機械情報の量を<dfn r="じょうほうりょう">情報量</dfn>と呼ぶが、これはあくまで<em>表現に含まれる記号の数であり、内容がもたらす価値とは異なる</em>ことに注意が必要である。</p>
 		<definition>
 			<title>情報量</title>
 			<statement>
-				機械情報<m>(\alpha, \varepsilon)</m>について、表現<m>\alpha</m>の数を機械情報<m>(\alpha, \varepsilon)</m>の<dfn r="じょうほうりょう">情報量</dfn>という。
+				機械情報<m>(\alpha, \varepsilon)</m>について、<em>表現<m>\alpha</m>に含まれる記号の数</em>を機械情報<m>(\alpha, \varepsilon)</m>の<dfn r="じょうほうりょう">情報量</dfn>という。
 			</statement>
 		</definition>
 		<p>情報量を数値で表すため、Shannonは、0と1の2つの文字で表せる2進数で1桁となる数を、<dfn>bit</dfn>という単位で定義した<xref ref="bib-shannon"/>。
@@ -210,7 +210,7 @@
 		<definition>
 			<title>情報量の単位</title>
 			<statement>
-				機械情報<m>(\alpha, \varepsilon)</m>の表現<m>\alpha</m>が<m>n</m>個の2進数で表されるとき、単位<dfn>bit</dfn>を用いて、機械情報<m>(\alpha, \varepsilon)</m>の情報量は<m>n \mathrm{bits}</m>であるという。
+				機械情報<m>(\alpha, \varepsilon)</m>の表現<m>\alpha</m>が<m>n</m>桁の2進数で表せるとき、単位<dfn>bit</dfn>を用いて、機械情報<m>(\alpha, \varepsilon)</m>の情報量は<m>n \mathrm{bits}</m>であるという。
 				対数関数<m>\mathrm{log}</m>を用いると、次のように表せる。
 				<me>n = \log_2 \alpha</me>
 				また、<m>8 \mathrm{bits} = 1 \mathrm{byte} = 1 \mathrm{B}</m>として単位<dfn>byte</dfn>(記号<dfn>B</dfn>)が定義される。
