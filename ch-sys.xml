@@ -27,8 +27,8 @@
 			<title>隣接行列</title>
 			<statement>
 				集合<m>V = \{ v_i | i = 1, \cdots, n \}</m>の2つの要素<m>v_i, v_j</m>間に関係がある、つまり<m>(v_i, v_j) \in E</m>のとき<m>e_{ij} = 1</m>とし、それ以外のとき<m>e_{ij} = 0</m>とする。
-				このとき、<m>e_{ij}</m>を次のように並べた行列<m>\varepsilon = (e_{ij})</m>を、集合<m>V</m>の<dfn r="りんせつぎょうれつ">隣接行列</dfn>という。
-				<me>\varepsilon = (e_{ij})
+				このとき、<m>e_{ij}</m>を次のように並べた行列<m>\boldsymbol{E} = (e_{ij})</m>を、集合<m>V</m>の<dfn r="りんせつぎょうれつ">隣接行列</dfn>という。
+				<me>\boldsymbol{E} = (e_{ij})
 					= \begin{pmatrix}
 						e_{11} \amp e_{12} \amp \cdots \amp e_{1n} \\
 						e_{21} \amp e_{22} \amp \cdots \amp e_{2n} \\
@@ -286,7 +286,7 @@
 		<definition>
 			<title>システムの準分解</title>
 			<statement>
-				システム<m>S = (V, E)</m>の隣接行列を<m>\epsilon = \{e_{ij} \}</m>と定義する。
+				システム<m>S = (V, E)</m>の隣接行列を<m>\boldsymbol{E} = \{e_{ij} \}</m>と定義する。
 				ここで<m>e_{ij}</m>は、関係<m>(v_i, v_j)</m>の強さを表す非負の実数である。
 				あるしきい値<m>\tau</m>をとり、「<m>e_{ij} \leq \tau</m>なら<m>e_{ij} = 0</m>」とみなすことで<m>S</m>を<m>S_1, \cdots, S_n</m>に分割できるとする。
 				このとき、システム<m>S</m>はしきい値<m>\tau</m>で<m>S_1, \cdots, S_n</m>に<dfn en="nearly decomposable" r="じゅんぶんかいかのう">準分解可能</dfn>だといい、<m>S = S_1 \sqcup \cdots \sqcup S_n</m>と表す。
